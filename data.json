@@ -13422,5 +13422,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487400&idx=1&sn=857d68271aceb42921819cb35ec99321": "OttoKit WordPress 插件管理员创建漏洞 CVE-2025-3102",
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514274&idx=2&sn=00d8fd9045b8d0ad42afa868edbd33e9": "现代漏洞管理厂商ProjectDiscovery斩获RSAC 2025创新沙盒冠军",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496377&idx=1&sn=ddf359203c50bc1f0e7254dad4e79ed5": "【论文速读】| MOS：通过混合专家调优大语言模型实现有效的智能合约漏洞检测",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493721&idx=4&sn=534c3042ecda8f4418c0c8e67cc51c18": "大规模钓鱼攻击瞄准WordPress WooCommerce用户"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493721&idx=4&sn=534c3042ecda8f4418c0c8e67cc51c18": "大规模钓鱼攻击瞄准WordPress WooCommerce用户",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529406&idx=2&sn=b03a5942c7c90f70ad49eff3936e922b": "CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484388&idx=1&sn=26ea776faff7a337ab0c8c94dd458623": "Craft CMS命令执行漏洞POC（CVE-2025-32432）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319699&idx=2&sn=41dc6fe173fda324d053dab436917a9c": "深度剖析 CVE-2025-21756：Linux 内核漏洞触发 Root 提权全流程",
+    "https://mp.weixin.qq.com/s?__biz=MzAwOTczODMxMw==&mid=2651017547&idx=1&sn=a28bcc3c148fe384736137ed48f8c061": "代码里的黄金周，单个漏洞至高奖励3万元！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522902&idx=2&sn=7fcf319ff464d0f4275a2de94fe854f8": "Planet Technology 工业网络产品中存在多个严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319699&idx=3&sn=7b71152fb35d7895dfea93f15fad09ed": "Apache Tomcat安全更新：修复拒绝服务与重写规则绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319699&idx=1&sn=127e9ca1a8d55931beae293a68e3b706": "微软Telnet服务器曝0点击NTLM认证绕过漏洞，PoC已发暂无补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529406&idx=3&sn=e26688d22d3d923b7e8329b421c52f64": "CVE-2025-23016：严重的 FastCGI 堆溢出威胁嵌入式设备，PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk3NjczNQ==&mid=2247485934&idx=2&sn=b5313919518f3648a67191db69d0916f": "漏洞预警|工信部发布关于防范WinRAR安全绕过漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593244&idx=3&sn=927f267fd5d97e0375b099c5fc39e370": "速升级！Apache Tomcat高危漏洞可致DoS和规则绕过"
 }
