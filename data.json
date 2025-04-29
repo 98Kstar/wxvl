@@ -13432,5 +13432,12 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319699&idx=1&sn=127e9ca1a8d55931beae293a68e3b706": "微软Telnet服务器曝0点击NTLM认证绕过漏洞，PoC已发暂无补丁",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529406&idx=3&sn=e26688d22d3d923b7e8329b421c52f64": "CVE-2025-23016：严重的 FastCGI 堆溢出威胁嵌入式设备，PoC 发布",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk3NjczNQ==&mid=2247485934&idx=2&sn=b5313919518f3648a67191db69d0916f": "漏洞预警|工信部发布关于防范WinRAR安全绕过漏洞的风险提示",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593244&idx=3&sn=927f267fd5d97e0375b099c5fc39e370": "速升级！Apache Tomcat高危漏洞可致DoS和规则绕过"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593244&idx=3&sn=927f267fd5d97e0375b099c5fc39e370": "速升级！Apache Tomcat高危漏洞可致DoS和规则绕过",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247501683&idx=1&sn=e439870f953f8529041e66b611840b66": "【CTFer成长之路】SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490600&idx=2&sn=5f7a34ea48b2d067dffedc763d84e076": "【已复现】 Commvault SSRF 致代码执行漏洞（CVE-2025-34028）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484045&idx=1&sn=e2506204946c5d086b793d05d830bed7": "【已复现】 Commvault SSRF 致代码执行漏洞（CVE-2025-34028）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538650&idx=1&sn=7dbd3d3ecaf24c6caccadeb964a1cc64": "最新报告：2024 年网络攻击总量达 3110 亿次，AI API 漏洞成“罪魁祸首”",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487401&idx=1&sn=00f2815a0fb59f54f7fab8c249a11d6c": "GLPI 中的预身份验证 SQL 注入到 RCE（CVE-2025-24799∕CVE-2025-24801）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247499287&idx=2&sn=826c08c902c5030a2b15d76ccb901940": "Linux 内核高危漏洞致系统面临权限提升攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490600&idx=3&sn=68f509cd14844364d6c00e49823c87f9": "Craft CMS命令执行漏洞POC（CVE-2025-32432）"
 }
