@@ -13481,5 +13481,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582213&idx=1&sn=8836a6cf09badd147c8e20d0dd545e51": "新的iOS关键漏洞仅用一行代码就可禁用iphone",
     "https://mp.weixin.qq.com/s?__biz=Mzg4Njc3NzM1OA==&mid=2247484980&idx=1&sn=7ec16b77794560d035a73cf5a2784ac7": "只需写个 .pyc 文件？Python 任意文件写入也能打 RCE！",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247503118&idx=1&sn=741ec90f6857c688ba35215ffe163ad7": "AI本地部署的天坑？RAG曝出重大安全漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498540&idx=5&sn=dc579506c68a23389ad4f8b82cc58191": "谷歌威胁情报小组2024年0day漏洞利用分析报告"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498540&idx=5&sn=dc579506c68a23389ad4f8b82cc58191": "谷歌威胁情报小组2024年0day漏洞利用分析报告",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503201&idx=1&sn=51cbcde9c3c7543236c2e0da86236628": "【成功复现】XWiki Platform系统远程代码执行漏洞（CVE-2025-24893)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069369&idx=3&sn=ad648277b98ceb64dfd2d2ca0b6a1fca": "【安全圈】CISA 就 Commvault Web 服务器漏洞发布警告，称该漏洞可能被利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484816&idx=3&sn=b5673d90eadf3ee6f4dc1bf3c39ab44d": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第三十三期",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491076&idx=1&sn=9a9c97cfa66c7ac05adff672547978ae": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489271&idx=1&sn=8d47ee4c8bb63b8265049ea0dcd8ce78": "【漏洞通告】微软Telnet Server(MS-TNAP)身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507755&idx=1&sn=80f46c6c023de56c5d31193cb4e64819&subscene=0": "漏洞通告 | SAP NetWeaver Visual Composer Development Server 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484816&idx=1&sn=4acb9fae17b16fd88c8ae8dfe8c2fa73": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第17期，总第35期]",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069369&idx=2&sn=f7f84aa2b4e350b27918d216e6977bc6": "【安全圈】Apache Tomcat 漏洞可导致攻击者绕过规则并触发 DoS 条件",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514274&idx=2&sn=00d8fd9045b8d0ad42afa868edbd33e9&subscene=0": "现代漏洞管理厂商ProjectDiscovery斩获RSAC 2025创新沙盒冠军",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490045&idx=1&sn=6a8ac602f3c2d561b1738f0292d82d55": "【漏洞预警】Yeswiki远程代码执行漏洞CVE-2025-46347",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514283&idx=1&sn=681c71445b5cfa5f0ab2fde668d4fef8": "2024年至少75个零日漏洞遭滥用，网络与安全产品占比近三成",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247572572&idx=1&sn=0239c40ea95efb55cdb8bffe01622d8e": "某开源cms 0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522902&idx=2&sn=7fcf319ff464d0f4275a2de94fe854f8&subscene=0": "Planet Technology 工业网络产品中存在多个严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484816&idx=2&sn=24c18051273a89a9237d6fa7343b76c0": "【漏洞处置SOP】PHP CGI代码注入漏洞（CVE-2024-4577）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593244&idx=3&sn=927f267fd5d97e0375b099c5fc39e370&subscene=0": "速升级！Apache Tomcat高危漏洞可致DoS和规则绕过",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319938&idx=3&sn=f63f4cdc869cd38d47b8a177ac3ee6f6": "主流AI系统或存在越狱、代码及数据安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxODIzNzgwMw==&mid=2654071699&idx=1&sn=b854fd8562f7c626cf98142281cbd2a4": "漏洞盒子助力 | GOGOGO！71SRC限时双倍金币活动开启！"
 }
