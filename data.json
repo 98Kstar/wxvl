@@ -13442,5 +13442,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490600&idx=3&sn=68f509cd14844364d6c00e49823c87f9": "Craft CMS命令执行漏洞POC（CVE-2025-32432）",
     "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486375&idx=1&sn=47fe33f6229583275d6ec2dcb753df83": "2024年在野零日漏洞利用分析（上）",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490039&idx=1&sn=e099a4d15d3ebfbf2733573086fd9207": "【漏洞预警】Apache Tomcat 逻辑缺陷漏洞CVE-2025-31651",
-    "https://mp.weixin.qq.com/s?__biz=MjM5OTc5MjM4Nw==&mid=2457388789&idx=1&sn=76b923c6a7c1f3ab569dc36e76a679b1": "Expect技巧大揭秘：轻松应对脚本中的交互挑战"
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTc5MjM4Nw==&mid=2457388789&idx=1&sn=76b923c6a7c1f3ab569dc36e76a679b1": "Expect技巧大揭秘：轻松应对脚本中的交互挑战",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493015&idx=1&sn=2f83a1123b656d0f9978e81901a63ea1": "漏洞预警 | 维达外贸客户关系管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493015&idx=3&sn=49635bd0cfdd0a3cc9d73e0f566c9a1e": "漏洞预警 | IBOS企业协同管理软件SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493731&idx=1&sn=a80af9319eebb5e1f199c51427f74f6c": "谷歌威胁情报小组（GTIG）追踪到2024年有75个被主动利用的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493015&idx=2&sn=34cfea0215cb67f87b794eed31f08ffc": "漏洞预警 | 锐捷EWEB任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794994&idx=2&sn=13c838688cc26b49be52bdc3b63d884a": "AirPlay 零点击 RCE 漏洞可通过 Wi-Fi 实现远程设备接管",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247498932&idx=1&sn=7a060168271d068dd0d9f08511c31d62": "CVE-2025-0411 7-Zip Mark-of-the-Web 绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490156&idx=1&sn=2a0bb274b22bd4f90c60495e3e419b95": "具有资产测绘、子域名枚举、信息泄露检测、漏洞扫描、目录扫描、子域名接管、爬虫、页面监控功能的工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489812&idx=1&sn=03167afe5939ad6b67d0afd78fe9ac52": "【技术揭秘】用Bitpixie漏洞破解BitLocker加密！完整流程+深度解读",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247486597&idx=1&sn=6b0f59a290b6cc24ebe18861ccedc01b": "DeFiVulnLabs靶场全系列详解（三十二）基于闪电贷的价格操纵漏洞"
 }
