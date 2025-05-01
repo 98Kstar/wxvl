@@ -13515,5 +13515,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484713&idx=1&sn=c4477dd9b0ca46b1ae12b8c2c19dd399": "面临困境的漏洞管理生态系统",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069369&idx=2&sn=f7f84aa2b4e350b27918d216e6977bc6&subscene=0": "【安全圈】Apache Tomcat 漏洞可导致攻击者绕过规则并触发 DoS 条件",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492100&idx=1&sn=18b45884d06bcca22ae4c74964f66c3d": "一次从注册功能隐藏到发现的sql注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136563&idx=2&sn=a0571e3898f312e173180f22ec47d2fe&subscene=0": "奇安信发布2024年年报，实现营收43.49亿元，同比下降32.49% ；苹果AirPlay协议零点击远程代码执行风险曝光|牛览"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136563&idx=2&sn=a0571e3898f312e173180f22ec47d2fe&subscene=0": "奇安信发布2024年年报，实现营收43.49亿元，同比下降32.49% ；苹果AirPlay协议零点击远程代码执行风险曝光|牛览",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485752&idx=1&sn=d991fdc2d13d3fc422d3148704ff225a": "【情报】CVE出现罕见的10.0评分漏洞，SAP NetWeaver存在RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529482&idx=2&sn=662fdb70e9617d5c291c3f9e1734d2f4": "AirPlay 协议中易受蠕虫攻击的零点击远程代码执行 (RCE) 漏洞使 Apple 和 IoT 设备面临风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486407&idx=1&sn=2f1dd6ddef7341493176d84bd03176e3": "CraftCMS 存在前台命令执行漏洞 (CVE-2025-32432)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522916&idx=1&sn=bd784cba5a2043dfacb33dcf271ed806&subscene=0": "谷歌2024年检测到75个已遭利用0day，44%针对企业安全产品",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489679&idx=1&sn=550fcfaa03734416bba06a439cf8a9fc": "CraftCMS 存在前台命令执行漏洞 (CVE-2025-32432)",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDc5ODM0Mg==&mid=2247485090&idx=1&sn=9c09928204556d838f61e484cd2758c1": "从IBM《2025年X-Force威胁情报指数报告》看安全文化的必要性"
 }
