@@ -13541,5 +13541,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496608&idx=2&sn=88c4a395322118b2aa02ff05b4e6dc71": "微软Telnet服务器曝0点击NTLM认证绕过漏洞，PoC已发暂无补丁",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496608&idx=3&sn=b3b409e4e057276508705ab28d9ffcdc": "2024年至少75个零日漏洞遭滥用，网络与安全产品占比近三成",
     "https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247486037&idx=1&sn=09e23379ab2c33e3bdbcfb446add2b30": "从代理到后门：Mihomo Party漏洞直通SYSTEM权限，你的设备已经在裸奔。",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487810&idx=1&sn=4c895f5ba78e7deb992661ae219a043f": "突发！国家级黑客利用零日漏洞入侵Commvault Azure环境，数据安全再响警报"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487810&idx=1&sn=4c895f5ba78e7deb992661ae219a043f": "突发！国家级黑客利用零日漏洞入侵Commvault Azure环境，数据安全再响警报",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjQyMjcwMw==&mid=2247486984&idx=2&sn=15a6dd1268af9c974c6c4bf10c3c9f31": "第120篇：蓝队溯源之蚁剑、sqlmap、Goby反制方法的复现与分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247518825&idx=1&sn=9567d6018102baa464dfea89e4abaa0e": "BurpSuite插件 | 告别手动测试，快速挖掘漏洞！"
 }
