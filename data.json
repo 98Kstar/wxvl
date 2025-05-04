@@ -13575,5 +13575,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496630&idx=2&sn=25f5ebd829c7e4484aeac65832518e9e": "AirBorne漏洞可导致苹果设备被完全劫持",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069434&idx=2&sn=d5df9c61dfde5337bda54bd34af3c2af": "【安全圈】TensorRT-LLM高危漏洞可导致攻击者远程执行代码",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247635703&idx=4&sn=3d67251e1067caab5ccecc4d2f163671": "一行代码即可让iPhone“变砖”：iOS高危漏洞解析",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485957&idx=2&sn=3f11cfc79888e16fa78d309e708d0df0": "CVE-2025-24893｜XWiki Platform远程代码执行漏洞（POC）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485957&idx=2&sn=3f11cfc79888e16fa78d309e708d0df0": "CVE-2025-24893｜XWiki Platform远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520322&idx=1&sn=e1eb82b0c1dcaa7bdf2d0fe4925b4701": "Java代码审计之命令执行漏洞详解",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490781&idx=2&sn=83846431249d32b3551ab831c080c3d9": "SAP NetWeaver RCE 漏洞 (CVE-2025-31324)：深度剖析、高级威胁与全方位防御策略",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485957&idx=1&sn=aa11e3064d2545df051fd19f7f5e8bd0": "CVE-2025-21756｜Linux提权漏洞（PoC）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499771&idx=1&sn=058e197a5164b2ff43ba6e50660596f7": "分享短信轰炸漏洞小窍门",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593264&idx=1&sn=677156abb956ed47c5886b74f930f289": "zyxel路由器CVE-2024-9200漏洞调用链分析"
 }
