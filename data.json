@@ -13608,5 +13608,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491307&idx=1&sn=9716bbe658600defc07b7543db2a46a1": "Commvault SSRF 致代码执行漏洞 (CVE-2025-34028)",
     "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484620&idx=1&sn=b6b0dd7fcabe307b78ca52064c885cb1": "JAVA代审之XSS漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494224&idx=1&sn=109e61592a775b5cf5c8561d1bd316ba": "基于AWVSapi实现的漏洞扫描网站",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492770&idx=1&sn=6a6458b562a3c751fa4a82d27defd2ac": "Cisco Webex 漏洞可让黑客通过会议链接获取代码执行权限"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492770&idx=1&sn=6a6458b562a3c751fa4a82d27defd2ac": "Cisco Webex 漏洞可让黑客通过会议链接获取代码执行权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247635713&idx=4&sn=b672bb86a0a8808ab3b047a6b5685a80": "未修复的Windows快捷方式漏洞可导致远程代码执行，PoC已公布",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484981&idx=2&sn=f5668b7d8fe3098326e01f0e4eb85390": "PenetrationTestingPOC：渗透测试相关工具合集"
 }
