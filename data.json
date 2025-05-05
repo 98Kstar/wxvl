@@ -13592,5 +13592,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485465&idx=2&sn=3a0a86de823f1aac1ef00fd2aa44fbc6": "从代码看任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503712&idx=1&sn=3aedd26d153b0fa835c0002d815b5a8e&subscene=0": "数字青春，榜样力量！360漏洞云五四特别直播回顾！",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487415&idx=1&sn=8d3b54fb135adc6712e9afc6d4e41aed": "CVE-2025-27095：JumpServer 中的令牌盗窃漏洞导致 Kubernetes 集群遭受未经授权的访问",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069434&idx=2&sn=d5df9c61dfde5337bda54bd34af3c2af&subscene=0": "【安全圈】TensorRT-LLM高危漏洞可导致攻击者远程执行代码"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069434&idx=2&sn=d5df9c61dfde5337bda54bd34af3c2af&subscene=0": "【安全圈】TensorRT-LLM高危漏洞可导致攻击者远程执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486428&idx=1&sn=dba2f9a759218bb795755ba60f6bff9e": "记某医院APP的一次逻辑漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593264&idx=1&sn=677156abb956ed47c5886b74f930f289&subscene=0": "zyxel路由器CVE-2024-9200漏洞调用链分析"
 }
