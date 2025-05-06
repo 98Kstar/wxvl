@@ -13630,5 +13630,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491189&idx=1&sn=8ab999ea264a6356d7f8850f5cb51cf2": "自动化漏洞检测方案-使用AI调用BurpSuite",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487016&idx=1&sn=1d094190ee9ad522d6f6948544481625": "记一次实战小程序漏洞测试到严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUyNTExOTY1Nw==&mid=2247530393&idx=1&sn=f3316b2b06f0372fb279fc9d1e5aad9b": "SSH服务已关，为何还被扫描出漏洞？",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487016&idx=2&sn=defbecd00245fe9baacbe7fb60293a29": "通过细节挖掘漏洞的艺术"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487016&idx=2&sn=defbecd00245fe9baacbe7fb60293a29": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529535&idx=2&sn=e9ab35af50364b690d8f888988ca5908": "通过@fastify∕view raw 渲染实现远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650278232&idx=1&sn=324bcdc6416f113bd710b0ca0f971e46": "全场景漏洞扫描“小钢炮”RayScan V8重磅发布",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582234&idx=1&sn=93a0e5ec10f5fee802cea3b4a1279e89": "苹果“AirBorne”漏洞可能导致零点击 AirPlay RCE 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491326&idx=1&sn=1a53b44366e8e8d78ae9fd475c3d7e62": "万户 ezOFFICE selectAmountField.jsp SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487424&idx=1&sn=9f2932094a9e1f69c27ea4d0498353d7": "9万个站点面临风险：Jupiter X Core RCE 漏洞（CVE-2025-0366）",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247949&idx=1&sn=64818f92eb72135007f30fc07f1dd794": "关于对网络安全等级保护有关工作事项进一步说明的函原文 | 2024年至少75个零日漏洞遭滥用，网络与安全产品占比近三成",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491335&idx=1&sn=41fb84356629ac2796bea7209f48d305": "龙腾码支付 curl 任意文件读取漏洞"
 }
