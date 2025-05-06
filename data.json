@@ -13621,5 +13621,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247545577&idx=2&sn=6a5981d94eadfd34a0b67cd98d4c02a3": "公共场所免费 WiFi 暗藏的安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493040&idx=2&sn=33b9c4b2ece56597baca567f31cf0b21": "漏洞预警 | 红帆HFOffice SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493040&idx=1&sn=0ea53f3c58166c3341a2f83cfc499d7c": "漏洞预警 | NetMizer日志管理系统远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491316&idx=1&sn=d01849a1f4cb5884827ad85bf874a437": "CraftCMS 前台命令执行漏洞 (CVE-2025-32432)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491316&idx=1&sn=d01849a1f4cb5884827ad85bf874a437": "CraftCMS 前台命令执行漏洞 (CVE-2025-32432)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037674&idx=1&sn=3c2070eabf4535bd48c42976876830a5": "Linux内核高频攻击面与漏洞类型统计研究",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069446&idx=2&sn=b093a02905ad8999ac398713a11bd267&subscene=0": "【安全圈】微软Telnet服务器被曝0-Click漏洞：无密码即可控制系统",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247488623&idx=1&sn=4cb5f4fab0682a40ba11b384b02cd308": "API漏洞挖掘指北-APISandbox靶场通关.1",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485482&idx=1&sn=eab009bdddc94441491b0654c51bc264": "域渗透入门-令牌窃取（含复现步骤）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485515&idx=1&sn=870130074c7b85208eaaa984c41e3cce": "多个高危漏洞挖掘实战",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491189&idx=1&sn=8ab999ea264a6356d7f8850f5cb51cf2": "自动化漏洞检测方案-使用AI调用BurpSuite",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487016&idx=1&sn=1d094190ee9ad522d6f6948544481625": "记一次实战小程序漏洞测试到严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNTExOTY1Nw==&mid=2247530393&idx=1&sn=f3316b2b06f0372fb279fc9d1e5aad9b": "SSH服务已关，为何还被扫描出漏洞？",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487016&idx=2&sn=defbecd00245fe9baacbe7fb60293a29": "通过细节挖掘漏洞的艺术"
 }
