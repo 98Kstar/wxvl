@@ -13610,5 +13610,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494224&idx=1&sn=109e61592a775b5cf5c8561d1bd316ba": "基于AWVSapi实现的漏洞扫描网站",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492770&idx=1&sn=6a6458b562a3c751fa4a82d27defd2ac": "Cisco Webex 漏洞可让黑客通过会议链接获取代码执行权限",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247635713&idx=4&sn=b672bb86a0a8808ab3b047a6b5685a80": "未修复的Windows快捷方式漏洞可导致远程代码执行，PoC已公布",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484981&idx=2&sn=f5668b7d8fe3098326e01f0e4eb85390": "PenetrationTestingPOC：渗透测试相关工具合集"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484981&idx=2&sn=f5668b7d8fe3098326e01f0e4eb85390": "PenetrationTestingPOC：渗透测试相关工具合集",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795004&idx=2&sn=6913095b74da29745a9298d018c002cd": "伊朗黑客利用 VPN 漏洞和恶意软件持续访问中东关键基础设施两年",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488043&idx=1&sn=4c6e40b4e869d6fd512bcb12106a1d80": "Vitejs漏洞复现与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247509642&idx=1&sn=e47bb236dca5ad869d2c3144f90f109c": "新型“自带安装程序”技术突破EDR防护，勒索软件利用SentinelOne升级漏洞发动攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493040&idx=3&sn=9ac0075b9e849ad994d643c17f6525e6": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655277826&idx=1&sn=04f3f2b3f71b2d442a5d63ff0c3e7b09": "IBM X-Force 2025威胁情报指数报告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493755&idx=6&sn=85aecb939d45af53faeac6a4d3e330fd": "DragonForce黑客组织宣称对Co-op网络攻击事件负责并窃取数据",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247485017&idx=1&sn=3fc4ef2fc3f3dcccffdcd5b868fdc4d6": "FastJSON 安全审计简洁实用指南：黑盒免测也能揪出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247545577&idx=2&sn=6a5981d94eadfd34a0b67cd98d4c02a3": "公共场所免费 WiFi 暗藏的安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493040&idx=2&sn=33b9c4b2ece56597baca567f31cf0b21": "漏洞预警 | 红帆HFOffice SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493040&idx=1&sn=0ea53f3c58166c3341a2f83cfc499d7c": "漏洞预警 | NetMizer日志管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491316&idx=1&sn=d01849a1f4cb5884827ad85bf874a437": "CraftCMS 前台命令执行漏洞 (CVE-2025-32432)"
 }
