@@ -13654,5 +13654,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490382&idx=1&sn=d16811990ed28de75af79d72d819dae7": "【AI风险通告】vLLM存在远程代码执行漏洞（CVE-2025-32444）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484996&idx=1&sn=a7399eb56405b375b77e4fa608da1891": "data-cve-poc：此仓库收集了在GitHub上发现的所有CVE漏洞利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503352&idx=1&sn=283ef81dee566006f482ac1dc2eaec42": "安全热点周报：邮件远程代码执行漏洞遭利用，用于攻击日本机构",
-    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626698&idx=2&sn=ce3504318ade61d17659729c035307ec": "Chrome浏览器惊现高危漏洞！天擎漏洞攻击防护第一时间提供安全保障"
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626698&idx=2&sn=ce3504318ade61d17659729c035307ec": "Chrome浏览器惊现高危漏洞！天擎漏洞攻击防护第一时间提供安全保障",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490830&idx=1&sn=77539c110a925cecffdceeaaf4bccf96": "基于 LNK 快捷方式获取Windows NTLM的 漏洞（无需运行，已复现！）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzY3MDE5Mg==&mid=2247484222&idx=1&sn=513666d7126d02a4b8bdeb0e966ddf3c": "基于 LNK 快捷方式获取Windows NTLM的 漏洞（无需运行，已复现！）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491238&idx=1&sn=172270b5a7a5a9b0072cdfa4fa8fb57a": "最新Nessus2025.5.7版本主机漏洞扫描∕探测工具Windows∕Linux下载",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529549&idx=1&sn=f36a6eef31d4ae6c387ae63ffaf720b6": "利用空字节写入攻击Synology DiskStation在 DS1823xs+ NAS 上以 root 身份实现代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485528&idx=1&sn=be29d63f30cca17dc28989aedb0ef043": "支付漏洞实战",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484996&idx=3&sn=6054fbaa4233f094dc34c3aacda32db1": "CVE-2025-21756：linux6.6.75内核自动提权"
 }
