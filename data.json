@@ -13690,5 +13690,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069467&idx=4&sn=82381e377828001cba5f1b8b0cd0bdf1&subscene=0": "【安全圈】CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593294&idx=2&sn=902d175508a60f0517069a960b940b64&subscene=0": "微软 Telnet 服务器惊现 0Click 重大漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900506&idx=1&sn=b1371143cc39f7a07b516fcb5f941faa": "AirPlay 曝“AirBorne”蠕虫级 0-Click RCE 漏洞！无需交互即可入侵 iPhone∕Mac",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491358&idx=1&sn=25d5069956ba79f8cdaf18aa233bfebd": "用友NC jiuqisingleservlet 反序列化RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491358&idx=1&sn=25d5069956ba79f8cdaf18aa233bfebd": "用友NC jiuqisingleservlet 反序列化RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503391&idx=1&sn=f8b5ece2bc2ee173a9f4c33b8b2e6ce6": "雷神众测漏洞周报2025.4.28-2025.5.5",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488046&idx=1&sn=4e3163b45b07288c088e3952bdd201ec": "被忽视的暗面：客户端应用漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498692&idx=3&sn=69326d8c536920e7fa412720fdb23bb2": "PoC | 三星 MagicINFO 9 服务器中的漏洞 (CVE-2024-7399) 被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDc0MTc5Mw==&mid=2247483817&idx=1&sn=35e0f3a07599d753c57e63a9773f7363": "紧急预警！微软Telnet惊现\"零点击\"核弹级漏洞，旧系统用户速查！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498692&idx=2&sn=0baa28b11a133d27696fb48799898d9a": "Apache Parquet Java 漏洞 CVE-2025-46762 使系统暴露于远程代码执行攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491366&idx=1&sn=ed90802522084f51539954e091d9b130": "用友NC ncmsgservlet 反序列化RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490851&idx=1&sn=ae092989be7c5a24727ce2506a1d2cf8": "出洞如此简单！一次轻松的小程序漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247489175&idx=1&sn=91bc630d46098fc4c831a2176c8f5b49": "审计分析 | 某次.NET源码的前台漏洞审计流程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDcxNTkyMA==&mid=2247484572&idx=2&sn=1fce16454055968fb3e2f4aceba81a32": "CVE-2025-24071：通过 RAR∕ZIP 提取和 .library-ms 文件泄露 NTLM 哈希值",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5Mjg4Mjg0MQ==&mid=2247483858&idx=1&sn=0a09908d1d547dd0fd19309035313a63": "Apache OFBiz 路径遍历漏洞（CVE-2024-36104）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484683&idx=1&sn=d3e64c62aee2c73abd3a1e044b69d611": "Nacos Derby RCE代码审计"
 }
