@@ -13716,5 +13716,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484094&idx=1&sn=500d0790fdd6f1c97cae965d152f63c9": "WordPress depicter插件SQL注入漏洞（CVE-2025-2011）",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489778&idx=1&sn=5c0db87691968c6087ccde01f0590d0d": "最牛工具来了！一键实现漏洞RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484051&idx=1&sn=bd6349f85a85e09bf31c2c1ba728bee7": "【漏洞预警】Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25014)",
-    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490387&idx=1&sn=a2bfa25172a3a206f17fa4be6e6d22e7": "【风险通告】Elastic Kibana存在原型污染致任意代码执行漏洞（CVE-2025-25014）"
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490387&idx=1&sn=a2bfa25172a3a206f17fa4be6e6d22e7": "【风险通告】Elastic Kibana存在原型污染致任意代码执行漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211442&idx=1&sn=ad5cdef821d42e8678b65093911154e3": "JSONP劫持漏洞攻防指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494567&idx=1&sn=052cbf0cb30bdebf35ee81f84c1b946a": "工具推荐 | MSSQL多功能集合命令执行利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497563&idx=1&sn=ceaea8297e93659498c5576678d85f50": "RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626707&idx=2&sn=014812173bfbd41a4f5993a72639e999": "Chrome浏览器高危漏洞已被黑客利用，奇安信可信浏览器为企业撑起“安全伞”",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516589&idx=1&sn=82e60d5e426e05d401c4e79eec81d652": "漏洞扫描工具 -- ThinkPHPKiller（5月6日更新）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4OTU4MjQ4Mg==&mid=2247488527&idx=1&sn=17cc9468f596e8a762e8c5ba38f143d6": "星图实验室协助vLLM项目修复多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529605&idx=1&sn=6fa3721d92926efa358777464843d15f": "SysAid 本地预授权 RCE 链（CVE-2025-2775 及其相关漏洞）- watchTowr 实验室",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519289&idx=1&sn=1699b806a26022b3a7f1bd3876f20717": "实战攻防之Nacos漏洞一文通",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490864&idx=1&sn=0cb165bed1319669958344fa0fdcd7e8": "【漏洞预警】Kibana 原型污染导致执行任意代码漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484444&idx=1&sn=85b9fad1ca755cc210ad963d5e54588f": "超越漏洞修复的安全观",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490864&idx=2&sn=69f3bc42c70c19053f7e3ff730849186": "【论文速读】| 漏洞放大：针对基于LLM的多智能体辩论的结构化越狱攻击"
 }
