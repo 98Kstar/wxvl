@@ -13701,5 +13701,20 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247489175&idx=1&sn=91bc630d46098fc4c831a2176c8f5b49": "审计分析 | 某次.NET源码的前台漏洞审计流程",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDcxNTkyMA==&mid=2247484572&idx=2&sn=1fce16454055968fb3e2f4aceba81a32": "CVE-2025-24071：通过 RAR∕ZIP 提取和 .library-ms 文件泄露 NTLM 哈希值",
     "https://mp.weixin.qq.com/s?__biz=Mzg5Mjg4Mjg0MQ==&mid=2247483858&idx=1&sn=0a09908d1d547dd0fd19309035313a63": "Apache OFBiz 路径遍历漏洞（CVE-2024-36104）",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484683&idx=1&sn=d3e64c62aee2c73abd3a1e044b69d611": "Nacos Derby RCE代码审计"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484683&idx=1&sn=d3e64c62aee2c73abd3a1e044b69d611": "Nacos Derby RCE代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=1&sn=d6e3777945383ca1a0f8df487903c8e5": "严重的Langflow RCE 漏洞被用于攻击AI app 服务器",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320263&idx=4&sn=4eaf9a69ad3ada30bd7aaca67c679eba": "Kibana原型污染漏洞可导致远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489135&idx=1&sn=1b47ec95f6a9cfeb72702cc7e0e36c85": "若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593301&idx=1&sn=28d71b01d0207906a35a3882f88828de": "使用区间分析识别智能合约中的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484821&idx=1&sn=e819acc8cde570ffdb0afe3ecb1f115d": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第18期，总第36期]",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=2&sn=d6e089276d9d14177da8b1d1e1d32736": "谷歌修复安卓遭活跃利用的 FreeType 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486684&idx=1&sn=c6d841b946758cf27ae33baff3e84c79": "【漏洞预警】Kibana 原型污染导致执行任意代码漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069486&idx=3&sn=4f5c262b7363fc3d020faaae04c66c05": "【安全圈】未经身份验证的 DoS 漏洞导致 Windows 部署服务崩溃，目前尚无补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501043&idx=2&sn=f13209a4ac885ea075fdbfedc8ce007a": "【漏洞通告】Kibana 原型污染导致任意代码执行漏洞 (CVE-2025-25014)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496394&idx=1&sn=d001c2e4d819caee3d146316286f59e5": "【论文速读】| 漏洞放大：针对基于LLM的多智能体辩论的结构化越狱攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484949&idx=1&sn=c37eaf049f706e55ef603f83649e7e1b": "Dify 组合漏洞获取LLM KEY",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484094&idx=1&sn=500d0790fdd6f1c97cae965d152f63c9": "WordPress depicter插件SQL注入漏洞（CVE-2025-2011）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489778&idx=1&sn=5c0db87691968c6087ccde01f0590d0d": "最牛工具来了！一键实现漏洞RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484051&idx=1&sn=bd6349f85a85e09bf31c2c1ba728bee7": "【漏洞预警】Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25014)",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490387&idx=1&sn=a2bfa25172a3a206f17fa4be6e6d22e7": "【风险通告】Elastic Kibana存在原型污染致任意代码执行漏洞（CVE-2025-25014）"
 }
