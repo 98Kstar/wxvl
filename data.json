@@ -13731,5 +13731,21 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485311&idx=1&sn=6cf446fe3a9deb2ffcb471aaae73cecb": "CVE-2025-2905（CVSS 9.1）：WSO2 API 管理器中发现严重 XXE 漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486490&idx=1&sn=9815d6f53761ca0d636b6e2ecf4208d2": "一次某info开源系统漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486422&idx=1&sn=3811dd4823e37100c77350dcd6521da5": "一次某info开源系统漏洞挖掘",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488057&idx=1&sn=3f3aeb579ab406fe8f47558d666d502b": "znlinux linux全架构全漏洞提权程序"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488057&idx=1&sn=3f3aeb579ab406fe8f47558d666d502b": "znlinux linux全架构全漏洞提权程序",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487228&idx=2&sn=b9686feeabeb4a384bec87e310213972": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506211&idx=1&sn=26660b6abe5fb1714974c19b983a63f0": "AI自动化代码审计RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484643&idx=1&sn=106862e046fbe8b89cde1ad93413bce3": "【工具推荐】利用Burp Suite 插件进行文件上传Fuzz",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=1&sn=e403ede2a981aa23d95670c6be53a975": "漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484530&idx=1&sn=2d6ab693e8237d9ae98438818ba781f9": "phpIPAM跨站脚本漏洞及解决方法（CNVD-2025-06929、CVE-2024-55093）",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NjU5NDE4Mg==&mid=2247485602&idx=1&sn=f004f26af0ff476bc38a0ad5d35d5976": "EMQX命令执行后渗透",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=4&sn=40dd947a49deeeac2d77c26174e7aa14": "Play勒索软件团伙利用零日漏洞部署恶意程序",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=2&sn=1cd36807eb2525ca7a869ed2146996c1": "漏洞预警 | 锐捷EWEB远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=2&sn=3ff46263da891e1311e88fecaa375742": "Canary Exploit工具可检测受Apache Parquet漏洞影响的服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497440&idx=1&sn=31f4a4d8d75b507676f36e255eab63c3": "【漏洞通告】Kibana原型污染导致任意代码执行漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487228&idx=1&sn=4ea3e89bd548586c3a916e5ac42e0404": "支付类漏洞挖掘技巧总结",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487859&idx=1&sn=21830632f377e379519f4f69bf29a29b": "紧急！SysAid On-Premise曝高危漏洞，未授权攻击可接管服务器！速修复！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795032&idx=2&sn=e9e09cc70275edb332e37d3341f2657f": "赛门铁克称，多个勒索软件组织利用了最近修补的 Windows 0day（CVE-2025-29824）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485676&idx=1&sn=9f3355d8d47eb5ad5b9ef48c1e7d5659": "OSS漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492052&idx=1&sn=e219ac550df60a2a73d39aa6f6b987b5": "《跨机房漏洞扫描挑战、设备使用人管理优化及审计账号权限分配策略解析》｜总第288周",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=3&sn=00dc9443028818fad58e65c958c42e65": "三星MagicINFO漏洞在概念验证利用代码公开数日后遭攻击"
 }
