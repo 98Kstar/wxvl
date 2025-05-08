@@ -13759,5 +13759,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486564&idx=1&sn=69697bc2be8941f7488755d9c6ad8bce": "警惕|Play Ransomware 利用 Windows CVE-2025-29824实施勒索攻击",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=3&sn=02acc8d19b6d3162024d3a9f48bccc1c": "漏洞预警 | 通达OA远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=1&sn=d6e3777945383ca1a0f8df487903c8e5&subscene=0": "严重的Langflow RCE 漏洞被用于攻击AI app 服务器",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490053&idx=1&sn=4f6e0b57c4d90d911ca3d4d451fd6e53": "【高危漏洞预警】Elastic Kibana需授权代码注入漏洞 (CVE-2025-25014)"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490053&idx=1&sn=4f6e0b57c4d90d911ca3d4d451fd6e53": "【高危漏洞预警】Elastic Kibana需授权代码注入漏洞 (CVE-2025-25014)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=2&sn=d6e089276d9d14177da8b1d1e1d32736&subscene=0": "谷歌修复安卓遭活跃利用的 FreeType 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490893&idx=3&sn=8c454b770827b4795c8897bd5e157df6": "EMQX命令执行后渗透",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490893&idx=1&sn=230244deecf9efb66a5cbf8858f10871": "某CRM系统前台RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499063&idx=1&sn=3396c01db284160ff26017eae2990463": "通过代理实现代码执行 - DLL劫持的另一种方式",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484444&idx=1&sn=85b9fad1ca755cc210ad963d5e54588f&subscene=0": "超越漏洞修复的安全观",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484538&idx=1&sn=59f432e51500e860d74ce85acaee3dd1": "命令执行不出网、无回显、连基础工具base64∕xxd都没有？极限生存下的命令执行，怎么打？",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485049&idx=1&sn=44f2debeea4d71c3132e5f8b67b8ade8": "SRC漏洞案例之祝你生日快乐"
 }
