@@ -13767,5 +13767,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484444&idx=1&sn=85b9fad1ca755cc210ad963d5e54588f&subscene=0": "超越漏洞修复的安全观",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484538&idx=1&sn=59f432e51500e860d74ce85acaee3dd1": "命令执行不出网、无回显、连基础工具base64∕xxd都没有？极限生存下的命令执行，怎么打？",
     "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485049&idx=1&sn=44f2debeea4d71c3132e5f8b67b8ade8": "SRC漏洞案例之祝你生日快乐",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503391&idx=1&sn=f8b5ece2bc2ee173a9f4c33b8b2e6ce6&subscene=0": "雷神众测漏洞周报2025.4.28-2025.5.5"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503391&idx=1&sn=f8b5ece2bc2ee173a9f4c33b8b2e6ce6&subscene=0": "雷神众测漏洞周报2025.4.28-2025.5.5",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484826&idx=1&sn=0ab9bc7eafadb32a2dce9850874b4ffa": "安全漏洞防治工作的挑战与解决方案：从CVE停更到可信计算环境构建",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491095&idx=1&sn=8c0720271ea656fc753561a44d768125": "某OA代码审计之挖掘0day，未公开poc",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491302&idx=1&sn=58eaf1f31c356485e2e041aff9b6a138": "Rscan自动化扫描利器，指纹识别更精准，漏洞扫描更全面|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489715&idx=1&sn=edaedaf50d5c0de6782c8eac9eae3970": "WordPress TargetSMS 插件存在前台代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489277&idx=1&sn=6c55779812dc46ead6693965106dd9ed": "【漏洞通告】Elastic Kibana原型污染致任意代码执行漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492658&idx=1&sn=442ddacdf8a9b8cfc22f3177cc5254ba": "漏洞复现 || XWiki Platform系统远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514890&idx=1&sn=7e4fb2a49c56b2c6fc17c84b05371b59": "【漏洞赏金计划】—— 提交漏洞，赢取高额奖金！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487497&idx=1&sn=9ba99fad3e77a68a6ae4c3c91348db3d": "某OA代码审计之挖掘0day，未公开poc",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069510&idx=4&sn=13e42b32cf0c000f6d63304e4a836f24": "【安全圈】SonicWall SMA 100系列发现多个漏洞紧急安全更新"
 }
