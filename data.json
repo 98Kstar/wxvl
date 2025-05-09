@@ -13804,5 +13804,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490921&idx=3&sn=d0684326d1fe6ee4aa19ed36bb064268": "栈溢出从复现到挖掘-CVE-2018-18708漏洞复现详解",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493070&idx=2&sn=c9f99407ce417bc7b5ebd84f2d42edaa": "漏洞预警 | 用友U8CRM SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484536&idx=1&sn=65fffa821513f4963041e2a504f1d07c": "YzmCMS最新跨站脚本漏洞及解决方法（CNVD-2025-08792、CVE-2025-3397）",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610538&idx=3&sn=d70828a5aac5511a179d1b11a8ebd633": "实战攻防之Nacos漏洞一文通"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610538&idx=3&sn=d70828a5aac5511a179d1b11a8ebd633": "实战攻防之Nacos漏洞一文通",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488066&idx=1&sn=9130e3aaed25a45a95c51ee046f9dc6e": "记一次漏洞修复怪事",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484718&idx=1&sn=e9e372132c647334ed0b8f7b070e2648": "讲好漏洞管理故事，没有指标怎么行",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524506&idx=3&sn=2e2f7135cdec284e7cd6b8d41eca7345": "Apache ActiveMQ 漏洞让攻击者触发 DoS 条件",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490058&idx=1&sn=59824a284d0e7c2b6e5fb5765f62af59": "【高危漏洞预警】F5OS身份认证绕过漏洞(CVE-2025-46265)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487427&idx=1&sn=aff15883cfe6cb9c4a41045459db8e4e": "通过@fastify∕view raw 渲染实现远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497571&idx=1&sn=9ca2dfab23ac7985bbd0170175c7c154": "实战-漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489277&idx=1&sn=6c55779812dc46ead6693965106dd9ed&subscene=0": "【漏洞通告】Elastic Kibana原型污染致任意代码执行漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524506&idx=4&sn=19574fc4946c6ff3485b0ae05a74ae05": "IBM Cognos Analytics 漏洞允许攻击者上传恶意文件",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247535345&idx=1&sn=58cfa306a5ae96477c83cbf0a998ed7e": "聊热点｜AI本地部署的天坑？RAG曝出重大安全漏洞、AI开发工具Langflow高危漏洞遭活跃利用，可导致服务器任意代码执行……",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490929&idx=4&sn=8c382ca6db63f5ad593608322762fc9d": "Clash Verge rev提权与命令执行分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582281&idx=1&sn=eff71cea21807271925c234b3191e3c9": "超过1200个SAP NetWeaver服务器容易受到主动利用漏洞的攻击"
 }
