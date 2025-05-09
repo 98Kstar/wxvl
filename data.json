@@ -13797,5 +13797,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487495&idx=1&sn=ec1e90a954685b653561732410288e2a": "栈溢出从复现到挖掘-CVE-2018-18708漏洞复现详解",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490178&idx=1&sn=d10553e8e32bd18524192fa6feba92ad": "若依(RuoYi)框架漏洞战争手册",
     "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247513579&idx=1&sn=7378085d9863deac22e2a37990a499d4": "实战中踩过的坑：我是如何用Ingram搞定摄像头漏洞扫描的",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499624&idx=1&sn=7c645b1f4a16642c32bafc3802d9582a": "从 .NET 代码审计看 ViewState 反序列化漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499624&idx=1&sn=7c645b1f4a16642c32bafc3802d9582a": "从 .NET 代码审计看 ViewState 反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506359&idx=1&sn=397454a7b547b06a7dc384e188d18259": "某云盘系统 API 端点无限制上传漏洞解析",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549838&idx=1&sn=1589f72d6458104c54add6c222ed1b7b": "Clash Verge rev提权与命令执行分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497567&idx=1&sn=0abc159207103dccd3e73039c850bf2a&subscene=0": "一次十分详细的漏洞挖掘记录,新思路+多个高危",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490921&idx=3&sn=d0684326d1fe6ee4aa19ed36bb064268": "栈溢出从复现到挖掘-CVE-2018-18708漏洞复现详解",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493070&idx=2&sn=c9f99407ce417bc7b5ebd84f2d42edaa": "漏洞预警 | 用友U8CRM SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484536&idx=1&sn=65fffa821513f4963041e2a504f1d07c": "YzmCMS最新跨站脚本漏洞及解决方法（CNVD-2025-08792、CVE-2025-3397）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610538&idx=3&sn=d70828a5aac5511a179d1b11a8ebd633": "实战攻防之Nacos漏洞一文通"
 }
