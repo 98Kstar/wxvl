@@ -13830,5 +13830,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493077&idx=2&sn=fa116b649bc919a9bf2172868387fb9a": "漏洞预警 | Tenda AC9命令注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651132902&idx=1&sn=bdfaec57ddc0a69a2a89a2753a0597fa": "公安部发布等保工作说明函，流行AI开发工具曝严重漏洞|一周特辑",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485788&idx=1&sn=bee67e0f5b502534a62a2a4ec99877bd": "亚控科技 KingPortal 开发系统 imgPath 文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490200&idx=1&sn=259f1f3bb8b6564d6c207190471fbe85": "JS漏洞挖掘｜分享使用FindSomething联动的挖掘思路"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490200&idx=1&sn=259f1f3bb8b6564d6c207190471fbe85": "JS漏洞挖掘｜分享使用FindSomething联动的挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069525&idx=4&sn=a0ceb517f0bd46bd1296a5aa917fbf4c&subscene=0": "【安全圈】Cisco IOS XE WLC 中的关键 CVE-2025-20188 (CVSS 10) 缺陷允许远程根部访问",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538714&idx=2&sn=d5c3a134feb1803915d85600ad4b9f08&subscene=0": "漏洞管理“扫雷”之动态优先级技术",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593398&idx=2&sn=37e1aae01543dd7d70cdf78802000f93&subscene=0": "思科紧急修复致命漏洞，黑客可借此全面接管设备",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499624&idx=1&sn=7c645b1f4a16642c32bafc3802d9582a&subscene=0": "从 .NET 代码审计看 ViewState 反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582281&idx=1&sn=eff71cea21807271925c234b3191e3c9&subscene=0": "超过1200个SAP NetWeaver服务器容易受到主动利用漏洞的攻击"
 }
