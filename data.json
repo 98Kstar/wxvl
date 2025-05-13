@@ -13950,5 +13950,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524552&idx=2&sn=1b3c78c0c35609db15987d269edcab7a": "黑客利用 Output Messenger 0 Day 漏洞部署恶意负载",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490068&idx=1&sn=e34c512c1ee126fd554c93c6301ef3f4": "【高危漏洞预警】SAP NetWeaver Visual Composer反序列化漏洞CVE-2025-42999",
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512193&idx=1&sn=24be890704a835d114a01064777a9e90": "高危漏洞预警：Apache Tomcat远程代码执行漏洞曝光！",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524552&idx=4&sn=a17cd506867447841c65790a639c803b": "华硕DriverHub漏洞允许恶意网站以管理员权限执行命令"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524552&idx=4&sn=a17cd506867447841c65790a639c803b": "华硕DriverHub漏洞允许恶意网站以管理员权限执行命令",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522987&idx=2&sn=3a436a07ce8ab28ad783d9d8705ed72a": "苹果修复iOS、macOS 平台上的多个严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503247&idx=1&sn=f725ae48a660d6d5f43b8dee2657652b": "【成功复现】Elestio Memos服务器端请求伪造漏洞(CVE-2025-22952)【SSRF】",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320691&idx=3&sn=68ed4c2a830801d5a9cee49cec544119": "macOS远程视图服务沙箱逃逸漏洞PoC公开，攻击者可突破系统限制",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522987&idx=1&sn=dd6c1684116b2d65b1efe7c80afe5945": "华硕修复严重的DriverHub 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486256&idx=1&sn=6d54c27fcb11601360b8cd9f78378d3b": "客户端漏洞在红蓝对抗中的挖掘与利用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320691&idx=4&sn=e480396e735465420fa34b4a20378a10": "GNU Screen 多漏洞曝光，本地提权与终端劫持风险浮现",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484574&idx=1&sn=9b5357394109be2207eae4f312292bb0": "【1day】⼤华智慧园区综合管理平台⽂件上传(CNVD2024-35311)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484063&idx=1&sn=44021432d8c9dbc0b10b5e7bf7c7051e": "【漏洞复现】F5 BIG-IP IControl REST和TMSH 命令执行漏洞（CVE-2025-31644）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524436&idx=2&sn=7349fe15ed6d5371de2ad7c1fba70c08": "【漏洞通告】F5 BIG-IP Appliance 模式命令执行漏洞(CVE-2025-31644)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489815&idx=1&sn=78c595c820698adedb9fc3224de34cbe": "Apache Calcite Avatica 远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529772&idx=2&sn=d18c032ba92e2e4884a9e3fc32da780d": "PoC 发布：CVE-2025-31644 漏洞利用通过设备模式命令注入授予 F5 BIG-IP 的 Root 访问权限",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136811&idx=2&sn=c04c6f207bc50001a9e2c8ec9bd15d46": "Google因生物识别数据侵权支付创纪录13.75亿美元和解金；华硕驱动管理工具安全漏洞允许恶意网站悄然执行管理员级命令 |牛览",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727845102&idx=1&sn=450421e645d6b694ead1dc90d9a14d79": "客户端漏洞在红蓝对抗中的挖掘与利用"
 }
