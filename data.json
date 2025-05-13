@@ -13938,5 +13938,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495969&idx=2&sn=09773aee69062908205a5dc12cb4e5d8&subscene=0": "上周关注度较高的产品安全漏洞(20250428-20250511)",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495969&idx=1&sn=adbf03473c87e30cb132d3f07d091205&subscene=0": "CNVD漏洞周报2025年第17期",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247518059&idx=1&sn=3bdb3d148cd8ef8323951728d871fe0a&subscene=0": "MiSRC 端午漏洞活动开启，等你超凡出 “粽”",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503405&idx=1&sn=754e4027a04e293d322951ef9459a759&subscene=0": "雷神众测漏洞周报2025.5.6-2025.5.11"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503405&idx=1&sn=754e4027a04e293d322951ef9459a759&subscene=0": "雷神众测漏洞周报2025.5.6-2025.5.11",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247547731&idx=1&sn=0a45937f4a2d32f62eb362020dcd4a15&subscene=0": "谷歌发布《2024年零日漏洞利用分析》：安全产品风险激增",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610735&idx=1&sn=b3aa97fa473bf7318812cad75175f53d": "中标价85万防火墙，网购仅300元？；|苹果自研 5G 基带首个漏洞被修复：可拦截流量，中国安全专家发现；",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1Nzk3MjA5Ng==&mid=2247485573&idx=1&sn=6e779f25c9be0d2740147a4ff0ac3ab5": "内存镜像分析实战：破解攻击者入侵路径，全程可复现！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491423&idx=1&sn=3e9eba64f68f802352b09c54dc4a8beb": "智邦国际ERP GetPrintTemplate.ashx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492263&idx=1&sn=2f28244d0617723b417f5e4557450c01": "漏洞预警 上海上X信息技术股份有限公司 堡垒机 RepeatSend 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503364&idx=1&sn=968cb69c0ddb2c38d3e1d4010982f52d&subscene=0": "安全热点周报：谷歌修复了 Android 上被积极利用的 FreeType 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524552&idx=1&sn=0aea00fc8f9dd7c4665f46226815eb6f": "VMware Tools 漏洞允许攻击者篡改文件以触发恶意作",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582297&idx=1&sn=5904ff9bef31b689ef0b942ff6255ef6&subscene=0": "DragonForce勒索团伙正有计划地扩展其他勒索软件组织",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524552&idx=2&sn=1b3c78c0c35609db15987d269edcab7a": "黑客利用 Output Messenger 0 Day 漏洞部署恶意负载",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490068&idx=1&sn=e34c512c1ee126fd554c93c6301ef3f4": "【高危漏洞预警】SAP NetWeaver Visual Composer反序列化漏洞CVE-2025-42999",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512193&idx=1&sn=24be890704a835d114a01064777a9e90": "高危漏洞预警：Apache Tomcat远程代码执行漏洞曝光！",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524552&idx=4&sn=a17cd506867447841c65790a639c803b": "华硕DriverHub漏洞允许恶意网站以管理员权限执行命令"
 }
