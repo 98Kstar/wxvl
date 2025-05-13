@@ -13973,5 +13973,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491036&idx=2&sn=b28468700c3d8e0143e71992e09f9b46": "客户端漏洞在红蓝对抗中的挖掘与利用",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069614&idx=4&sn=2cdeb6fe56f376c6209155e17e0eaa4d": "【安全圈】华硕DriverHub漏洞致高危攻击：恶意网站可获取管理员权限",
     "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489233&idx=1&sn=7c50839d28a29f0cf1211fab734eb136": "ASUS DriverHub安全更新修复RCE漏洞，提防隐秘网络攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038813&idx=1&sn=f6826bf0a4cb730ac784ca575f2ba577": "安卓逆向 -- 分析某库登录逻辑以及协议复现"
+    "https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038813&idx=1&sn=f6826bf0a4cb730ac784ca575f2ba577": "安卓逆向 -- 分析某库登录逻辑以及协议复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524436&idx=1&sn=e5b469efdad9cfdb0cad7a69c8e92dd7": "【勒索防护】Mallox新变种再度来袭，正利用产品漏洞对国内企业实施攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519305&idx=1&sn=191abe19580685bafe70e3ddb0f2ec74": "【海外SRC实战】一个支付逻辑漏洞，怒赚 $9000 赏金",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496233&idx=1&sn=af205b4221083a7918d52d6f83099538": "漏洞研究(7)：XXL-JOB执行器未授权访问漏洞（RESTful API）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520475&idx=1&sn=87c556c4efb6fbd6f7aa0aa689808816": "HotSwappableTargetSource+XString利用分析"
 }
