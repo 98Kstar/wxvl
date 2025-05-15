@@ -14054,5 +14054,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501071&idx=2&sn=aaea46e520b4251f03208f3f8587a564": "【漏洞通告】Apache IoTDB UDF远程代码执行漏洞 (CVE-2024-24780)",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529809&idx=3&sn=8f925e14873beeeee8ef8ac6925c8846": "利用浏览器漏洞绕过 Windows Defender 应用程序控制 (WDAC)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593996&idx=2&sn=1adc8a5b4dcf09069ae8a01ef9cb1186": "微软修复78个漏洞，5个零日漏洞被利用，Azure惊现满分漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261079&idx=1&sn=80fafddace85154176f62cf1ec5a1b84": "漏洞挖掘之 FOFA 语法技巧"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261079&idx=1&sn=80fafddace85154176f62cf1ec5a1b84": "漏洞挖掘之 FOFA 语法技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512203&idx=1&sn=261e280f9fb9f188798ae97dfdb7d562": "微软2025年5月补丁日重点漏洞安全预警",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487913&idx=1&sn=0db1eec755d8ba897d36b6f2251802ef": "如何从漏洞POC或者EXP代码中学习漏洞原理？",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490084&idx=1&sn=7e06db1fcffc8b5ff6e56d3c33d756d4": "【漏洞预警】Node.Js 异常处理不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjM5NTkwOA==&mid=2247483973&idx=1&sn=05fb82ad7c28fa6a91ebfb193e16535d": "CVE-2025-30406 CentreStack ViewState 反序列化漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554844&idx=1&sn=f29d864ecb40ac7fe2ff282ba1462edb": "从XSS到\"RCE\"的PC端利用链构建",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503400&idx=1&sn=a3ed07a0c534855161deb71b6a0642e4": "【已复现】Google Chrome 跨源数据泄露漏洞(CVE-2025-4664)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320917&idx=4&sn=e813092fa38d4b90bd470e4aeab2cd08": "Windows远程桌面网关曝双高危漏洞，可触发拒绝服务及远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mjc2MzQ0Ng==&mid=2247484553&idx=1&sn=76ac840bd43c005468a6a364354f7bc0": "F5 BIG-IP rce漏洞 CVE-2025-31644",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664242573&idx=1&sn=4809b1ead0dc8205687720e92040922f": "CNNVD | 关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496579&idx=1&sn=2b6a6405c0de361cc29cd59b890bd3d0": "Node.js 高危漏洞警报(CVE-2025-23166)：可导致远程系统崩溃",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486686&idx=1&sn=3275924bc00806abd77ad46c738de75d": "【漏洞预警】Node.js 异步加密错误处理不当漏洞(CVE-2025-23166)",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503400&idx=2&sn=80467da7de6cbd94b86630f8ee95874a": "Fortinet FortiOS 身份认证绕过漏洞(CVE-2025-22252)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320917&idx=1&sn=ae2655402bb29f301a8745613a7758ad": "Bitpixie漏洞攻击路径曝光，5分钟即可绕过BitLocker加密",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNTU1NjYwNA==&mid=2247488052&idx=1&sn=f5105862005e6f09ee6b4eeb447e14aa": "2025攻防演练必修组件漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664242573&idx=2&sn=f1be9e890284eca3672fb480d44410d3": "CNNVD | 关于Fortinet多款产品安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247554835&idx=2&sn=b9c7cb6e4f22e9ff0ff4a87b68990359": "附下载 | 小米科技杨一帆：智能汽车渗透实战：从漏洞挖掘到控车攻击"
 }
