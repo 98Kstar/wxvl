@@ -14050,5 +14050,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487908&idx=1&sn=f63da7d2667a17aee320d949035ee354": "Fortinet紧急修复零日漏洞CVE-2025-32756：远程代码执行风险威胁FortiVoice系统",
     "https://mp.weixin.qq.com/s?__biz=MzU3MDA0MTE2Mg==&mid=2247492827&idx=1&sn=56d71af1f4ba16d789e34d7228296643": "安全快报 | 国际APT威胁组织利用SAP NetWeaver严重安全漏洞入侵全球581个关键基础设施系统",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490291&idx=1&sn=7daaec7346e99f780fb344eb656361e2": "突破浅层测试桎梏：多维度漏洞挖掘突破与实践探索",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493843&idx=2&sn=3928077a391eadb2a6c17a8b0fc91eb1": "Fortinet修复了已被积极利用的FortiVoice零日漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493843&idx=2&sn=3928077a391eadb2a6c17a8b0fc91eb1": "Fortinet修复了已被积极利用的FortiVoice零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501071&idx=2&sn=aaea46e520b4251f03208f3f8587a564": "【漏洞通告】Apache IoTDB UDF远程代码执行漏洞 (CVE-2024-24780)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529809&idx=3&sn=8f925e14873beeeee8ef8ac6925c8846": "利用浏览器漏洞绕过 Windows Defender 应用程序控制 (WDAC)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593996&idx=2&sn=1adc8a5b4dcf09069ae8a01ef9cb1186": "微软修复78个漏洞，5个零日漏洞被利用，Azure惊现满分漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261079&idx=1&sn=80fafddace85154176f62cf1ec5a1b84": "漏洞挖掘之 FOFA 语法技巧"
 }
