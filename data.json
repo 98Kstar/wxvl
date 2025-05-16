@@ -14132,5 +14132,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529836&idx=2&sn=aa217719d6409db30c80beeabeb5bdef": "Jenkins 插件漏洞暴露严重风险：CVE-2025-47889 漏洞 CVSS 评分达 9.8，存在身份验证绕过漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516636&idx=1&sn=b6f314f0ad1fc3ec3d30099af4ec510e": "Nacos Derby命令执行漏洞利用脚本（5月15日更新）",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491469&idx=1&sn=8e20f6c97b44d8d68781eb1ff4a0fae0": "致远互联FE协作办公平台 addUser.jsp SQL注入(CVE-2025-2030)",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485388&idx=1&sn=41c66e99136de139308d373fae0b8957": "Apache Roller高危漏洞CVE-2025-24859深度解析：会话劫持威胁企业安全"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485388&idx=1&sn=41c66e99136de139308d373fae0b8957": "Apache Roller高危漏洞CVE-2025-24859深度解析：会话劫持威胁企业安全",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520530&idx=1&sn=2052449f26addaab7e037d9f26b33721": "漏洞预警：CVE-2025-31258 macOS远程视图服务沙箱逃逸漏洞PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY3OTc5Mw==&mid=2247485059&idx=1&sn=a390ae32a65fad7f877be099a0ef3929": "【免杀现】白加黑也不一定是exe+dll哟",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486227&idx=1&sn=a7cb99a790cd4e12144fc49d256a1f3e": "上讯信息技术股份有限公司运维管理系统RepeatSend命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496246&idx=1&sn=13504d1d456d9883672e9ac62eef522c": "漏洞研究(8)：XXL-JOB调度中心后台日志查看SSRF漏洞 CVE-2022-43183"
 }
