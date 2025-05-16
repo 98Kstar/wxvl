@@ -14081,5 +14081,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462992&idx=2&sn=8bd082f51f27793a8fcd335bd8be4120": "CNNVD关于微软多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494623&idx=1&sn=7e704834297972659a95a52b35a944e4": "工具推荐 | 临兵漏洞自动化扫描系统",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462992&idx=1&sn=e9898910f13788c2c16cd5c59071484f": "CNNVD关于Fortinet多款产品安全漏洞的通报",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491061&idx=1&sn=8add20c0788395e325bc41e91aceaa2c": "创宇安全智脑 | 灵当 CRM Playforrecord.php 任意文件读取等107个漏洞可检测"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491061&idx=1&sn=8add20c0788395e325bc41e91aceaa2c": "创宇安全智脑 | 灵当 CRM Playforrecord.php 任意文件读取等107个漏洞可检测",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491697&idx=1&sn=4fc952a1c58793c94def3b994ee657be": "某短视频矩阵营销系统前台RCE漏洞审计",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900548&idx=1&sn=7dba8690fd2f13580490f40d0871b5e4": "Fortinet零日RCE (CVE-2025-32756)深度解析：原理、TTPs及企业级纵深防御策略",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487402&idx=1&sn=483b638ac2cba6a68bcb8633c1375c09": "泥煤的，又一次RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499902&idx=1&sn=92ef5a9638f17d80e724ac3c867101a7": "PHPRCE-永恒之蓝-防火墙上线-密码喷射-DC域控提权-weblogic",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487402&idx=4&sn=f24574b4df91894d33c9a1aa51208570": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247486659&idx=1&sn=0321d9126f471ded2828af33bd4fe6a2": "DeFiVulnLabs验证——利用Coze进行自动化复现和测试及坑点",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487402&idx=6&sn=c271da6713b076314c2fd474e7365fd3": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499677&idx=1&sn=b5f2f213d5a79e9f0428f8d073d5f374": "红队视角下的 .NET 安全审计，记一次 .NET 程序的漏洞发现之旅",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493849&idx=1&sn=cb6f29682b6c7c5721e10042cec1eea8": "Ivanti修复了两个在有限攻击中被利用的EPMM漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484595&idx=1&sn=6feefaf85c986e4dfe7b354020d7d52e": "【漏洞预警】某华DSS系统存在命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487917&idx=1&sn=e50f82713e625ef841448aa09706327a": "紧急预警！新Chrome漏洞（CVE-2025-4664）致跨域数据泄露，请立即更新",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795118&idx=1&sn=ac271afd0d4c9989d955552c446b0add": "俄黑客组织 APT28 利用 MDaemon 0day漏洞攻击Webmail 服务器"
 }
