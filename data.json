@@ -14105,5 +14105,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524590&idx=1&sn=975a2bbedabadddaa1a9b1328b6c8886": "Windows远程桌面网关漏洞可被攻击者利用触发拒绝服务条件",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490339&idx=1&sn=011dccb887d48892ba1c826730b44ec9": "Webpack源码泄露漏洞批量探测",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512045&idx=1&sn=ebc266e0342548555e31bca22d7d84e7": "邮件服务器安全检查工具 | 一个用于检查邮件服务器安全配置并识别潜在漏洞的综合工具。",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610772&idx=3&sn=7cdf87bd56ec29f6bc9408ebd458100d": "攻防实战之若依(RuoYi)框架漏洞战争手册"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610772&idx=3&sn=7cdf87bd56ec29f6bc9408ebd458100d": "攻防实战之若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512206&idx=1&sn=ad2141c2128b2f8528b26d3a1057ee93": "Apache Roller高危漏洞（CVE-2025-24859）曝光，用户需立即采取行动！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069664&idx=2&sn=80a74a8e1cddf0a974dca42fb8b9cc6e": "【安全圈】新Spectre变种攻击曝光：英特尔CPU存在特权分支注入漏洞，内存数据或遭窃取",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489287&idx=2&sn=02ea85647c8292cb4410e35f90b12ff8": "【安全更新】微软5月安全更新多个产品高危漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489834&idx=1&sn=2419e66fdc2faf39c3bcfcf23bd2e729": "多功能BurpSuite漏洞探测插件—TsojanScan",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491125&idx=1&sn=cc28f1cd5e0286af9d09afab81ab612b": "我在马路边，捡到两年前的RCE了",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523031&idx=1&sn=40bc8fad7dc229f984420d3f6109a0b9": "Chrome修复已遭活跃利用的0day",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485064&idx=1&sn=d85845f1286127f8a6f52957bef948be": "900人选择的SRC漏洞挖掘课程，带你踏上漏洞挖掘之路，共同成长",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650468640&idx=1&sn=430490ae575574d3530583fedd91f8aa": "绿盟科技荣获国家信息安全漏洞库（CNNVD）多项认可",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490089&idx=1&sn=6b1860a17c9b2a8d1ea405b92acaaa03": "【高危漏洞预警】Fortinet多款产品缓冲区溢出漏洞(CVE-2025-32756)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069664&idx=3&sn=ce9e58eb83ca29b12fe8053876e1d3a4": "【安全圈】网络安全事件周报：勒索组织与国家级黑客同时盯上SAP漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489287&idx=1&sn=8c9f37d9f49eabc32f86c61032e9ce2a": "【漏洞通告】Ivanti Endpoint Manager Mobile身份验证绕过与远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497600&idx=1&sn=1969c3c056630d43062c8ba9092c06da": "一次获取RCE以及提权到root权限的渗透过程",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486688&idx=1&sn=75f519098b5ec8f6c3615719e2290902": "【漏洞预警】Apache IoTDB 远程代码执行漏洞(CVE-2024-24780)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484077&idx=1&sn=17a24bab60b34123c63194e6c89eb39f": "【已复现】Ivanti EPMM 认证绕过∕代码执行漏洞 (CVE-2025-4427∕CVE-2025-4428）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487509&idx=1&sn=f96c312faca3501d7b93298b6abafab8": "我在马路边，捡到两年前的RCE了"
 }
