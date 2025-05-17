@@ -14136,5 +14136,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520530&idx=1&sn=2052449f26addaab7e037d9f26b33721": "漏洞预警：CVE-2025-31258 macOS远程视图服务沙箱逃逸漏洞PoC已公开",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTY3OTc5Mw==&mid=2247485059&idx=1&sn=a390ae32a65fad7f877be099a0ef3929": "【免杀现】白加黑也不一定是exe+dll哟",
     "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486227&idx=1&sn=a7cb99a790cd4e12144fc49d256a1f3e": "上讯信息技术股份有限公司运维管理系统RepeatSend命令执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496246&idx=1&sn=13504d1d456d9883672e9ac62eef522c": "漏洞研究(8)：XXL-JOB调度中心后台日志查看SSRF漏洞 CVE-2022-43183"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496246&idx=1&sn=13504d1d456d9883672e9ac62eef522c": "漏洞研究(8)：XXL-JOB调度中心后台日志查看SSRF漏洞 CVE-2022-43183",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484411&idx=1&sn=793231a073b0d6a68e7a23f89f0f4f40": "WordPress前台任意文件读取漏洞POC（CVE-2025-2294）",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133083&idx=1&sn=aad61191d926b74c39a98c30856badc6": "国安部提醒警惕智能穿戴设备泄密，英特尔CPU曝漏洞|一周特辑",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487459&idx=7&sn=f2d18c5fe0a7872ee25e3377576080cd": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487459&idx=2&sn=6bf840a27e811f0e056ff746147d3efd": "泥煤的，又一次RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247490619&idx=1&sn=a2db644808c77a0b45b82c37d60e7632": "Centos添加漏洞扫描"
 }
