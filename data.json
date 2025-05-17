@@ -14148,5 +14148,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503256&idx=1&sn=f7f3674b803a38389694bddfb6e9c62e": "【成功复现】JeeWMS系统SQL注入漏洞漏洞(CVE-2025-0392)",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487459&idx=5&sn=51a05095079246f1e682beaf5a476e5f": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485526&idx=1&sn=2b2f5d8ffbefc83cafbe955e301a1200": "Pwn2Own 2025 柏林赛day2，VMware ESXi被攻破，漏洞价值15W刀",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115790&idx=1&sn=8da50ee2e0135385f3cec02219d6fbd0": "微软2025年5月份于周二补丁日针对78漏洞发布安全补丁"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115790&idx=1&sn=8da50ee2e0135385f3cec02219d6fbd0": "微软2025年5月份于周二补丁日针对78漏洞发布安全补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529870&idx=1&sn=f630cffc3eca33694ae38e9cc51b90d6": "CVE-2025-4427∕4428：Ivanti EPMM 远程代码执行 - 技术分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247572783&idx=1&sn=498f1d3073cac37c2bf4439b34edfaae": "一个漏洞挖掘小工具 - SeeMore",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491478&idx=1&sn=45307902cab80959cdbf15462748ce9f": "装盟科技-家装ERP管理系统 Public.asmx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491486&idx=1&sn=d76973114389135c7d046bbe6caf0788": "装盟科技-家装ERP管理系统 Budget.asmx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321008&idx=1&sn=ae791b0b8818b8c209b687df9a2fd5b1": "2025年Linux内核补丁管理：漏洞防御新策略",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610790&idx=4&sn=2c66c67e34c2642084e2a26e39b55a28": "邮件服务器安全检查工具 | 一个用于检查邮件服务器安全配置并识别潜在漏洞的综合工具。",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610790&idx=3&sn=92609abd1542c3029ec590f577cba88c": "某OA代码审计之挖掘0day，未公开poc",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549991&idx=1&sn=4234354954eb9ecdd3e47fada2c4af6f": "某校园解决方案提供商智慧校园通用漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096235&idx=2&sn=ce6afa07cb19b00599fa4bde6294c4d5": "多个 Ivanti Endpoint Mobile Manager 存在远程执行代码漏洞"
 }
