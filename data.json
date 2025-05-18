@@ -14166,5 +14166,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491505&idx=1&sn=84eec4161e98e58aec50bd9fecbf5396": "SysAid On-Prem XML注入漏洞 (CVE-2025-2776)",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491496&idx=1&sn=2d48823e684397a854cefe1dd038c7f0": "妖气山视频管理系统 get_media_list_by_filter.json SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490318&idx=1&sn=74428d2959f342f6ff6ac261fe9b0a4c": "工具集：Fiora【漏洞PoC框架图形版的Nuclei】",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486456&idx=1&sn=f64fd15960ac4cab2aa9ba2cf4ae110d": "一次任意文件下载漏洞审计-JAVA"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486456&idx=1&sn=f64fd15960ac4cab2aa9ba2cf4ae110d": "一次任意文件下载漏洞审计-JAVA",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487437&idx=1&sn=cbff3bf4a41066854aa33d6262681406": "CVE-2025-3102 WordPress 任意用户创建"
 }
