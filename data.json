@@ -14178,5 +14178,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491096&idx=1&sn=b4444827d62782ba53af7e8db6a0d40c": "一次任意文件下载漏洞审计-JAVA",
     "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247506066&idx=2&sn=e0cf069161dc63c1d309efabe7083b19": "2025年漏洞统计报告附下载",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247486962&idx=1&sn=7d411d01c29567321608375b3e7d1549": "猎洞时刻漏洞挖掘SRC旧一期公开课四节！！",
-    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550042&idx=1&sn=604860dbff6fda380161cf44215eec8d": "重生HW之利用邮箱漏洞寻找突破口打穿目标内网"
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550042&idx=1&sn=604860dbff6fda380161cf44215eec8d": "重生HW之利用邮箱漏洞寻找突破口打穿目标内网",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=2&sn=5f6cc2e7c15eaedaeee640db0de55211": "任意用户登录漏洞挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493865&idx=1&sn=ab72cfaaef6a0440b47f2283c17311d7": "谷歌修复了可能导致账户完全被劫持的Chrome漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=1&sn=c7bbbfb0fef994b47cac641836483e73": "漏洞预警 | Apache IoTDB远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDYwNTcyNA==&mid=2247487767&idx=1&sn=c108e8c587da407711041361c00a93b4": "【代码审计】命令执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487931&idx=1&sn=619675b41f1728c3b4c80174458886fc": "英特尔CPU再曝高危漏洞！新型内存泄漏与Spectre v2攻击卷土重来，全球数亿设备陷风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490438&idx=1&sn=68526a59f2dd824a09143399bb9644d5": "记一次某OA渗透测试有意思的文件上传漏洞挖掘经历以及分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=3&sn=10037ca1fbd8c7838d112015fa3f790a": "漏洞预警 | Tornado日志解析器拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=3&sn=b1a886e267100e64534156c33ef90cf8": "泥煤的，又一次RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=8&sn=ce5bf568df9fe4ae7bc231f3412e006e": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=6&sn=ca5cfa1a13553a7ca1e6275272df5480": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=1&sn=ba311501aea1738fee819c57be6d8fb8": "你来你也能RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512208&idx=1&sn=fb980855429312b7df8e91c68c4ae82a": "若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=2&sn=6c55c91bfdbdbe5d7acda8f94b544575": "漏洞预警 | 金和OA XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492284&idx=1&sn=875e75a2f1e03dc7730882f221ffbe21": "漏洞预警 西部数据 NAS chk_vv_sharename.php 命令执行漏洞"
 }
