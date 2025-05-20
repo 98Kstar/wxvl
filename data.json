@@ -14231,5 +14231,22 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247487617&idx=1&sn=5876a6a3fbb1b810133e786da2badaa5": "CVE-2020-1472NetLogon权限提升",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069708&idx=4&sn=21c7295802162aa16f8b54670e5a4c13": "【安全圈】glibc漏洞使数百万Linux系统面临代码执行风险",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503417&idx=1&sn=e3066a86595352998f8e826f3a2435cf": "安全热点周报：Fortinet 修复了 FortiVoice 攻击中利用的关键零日漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497614&idx=1&sn=e6277cb245dd6b2a5691854377357140": "逻辑漏洞中一些自己总结关于验证码的漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497614&idx=1&sn=e6277cb245dd6b2a5691854377357140": "逻辑漏洞中一些自己总结关于验证码的漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491153&idx=1&sn=b45e5f6c7bba1d0d1d9a973478640211": "CNVD-2023-04620 金和 OA XXE 漏洞分析复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490386&idx=1&sn=69a3eb83c41266c5d0ebd2e3c0558e2e": "IDOR_detect_tool【API越权漏洞检测工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493169&idx=2&sn=7541877a92fcd02d5022cd061a332eb4": "漏洞预警 | 泛微E-Office SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485139&idx=1&sn=3539268a1eb3de11e87f268ebedcbd11": "关于账号相关漏洞的一次测试",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494312&idx=1&sn=fae73d6e67898ee15bb7fb2ba7df7b11": "一个高性能的目录扫描工具，专门检测和验证 Web 中的路径遍历漏洞。通过异步并发扫描和智能 WAF 绕过技术，快速发现漏洞，",
+    "https://mp.weixin.qq.com/s?__biz=MzkzOTIwOTkxMQ==&mid=2247484065&idx=1&sn=80efa6ce84afb40f4fbefc74569e4e41": "Clash Verge 1-Click RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488386&idx=1&sn=b9796901565c32f9f5e18643c53c5977": "PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655279355&idx=1&sn=48be8d46daba1f043071df066861692a": "2025年4月企业必修安全漏洞清单；Nmap网络安全审计技术揭秘",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795151&idx=3&sn=293aecf04fcabee81298a4fbcda70c1f": "GNU C（glibc）漏洞可以在数百万 Linux 系统执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484612&idx=1&sn=9ad84b9e19875df2e023e58224b89502": "若依4.8.0后台rce漏洞复现及内存马利用",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503311&idx=1&sn=17cd63a2dc5bb1c0a1bbcf1dc7d0fd9a": "【成功复现】WordPress plugin Kubio AI Page Builder路径遍历漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484765&idx=1&sn=b9a2b63ae4870eaa17509553d1d15a2a": "Java代审&后台计划任务中的RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493874&idx=1&sn=66206ef8b1b21a6d4d0f75b5f2bb1e87": "Mozilla修复了在Pwn2Own Berlin 2025上公开演示的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=1&sn=904da7408fb841188b7ceee5ba2756f6": "【AI漏洞预警】huggingface transformers拒绝服务漏洞(CVE-2025-2099)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487577&idx=6&sn=0d1f02515f463f5488a8ace5e841d877": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487935&idx=1&sn=0fd72220a31b600e0c52b18be2d3e2eb": "年薪30W+的秘密：网络安全\"挖漏洞\"必备的4类工具与漏洞复现指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493169&idx=1&sn=c05c9a489dc07f3b2ddfdd8da6607b89": "漏洞预警 | FortiOS TACACS+身份认证绕过漏洞"
 }
