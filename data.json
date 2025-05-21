@@ -14284,5 +14284,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490103&idx=1&sn=432278ec94ada797568108539241ac0b": "【AI漏洞预警】Infiniflow Ragflow账户接管漏洞CVE-2025-48187",
     "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=7&sn=72b2561ef284f3206a5cbf4f54eba279": "Google Chrome 访问控制不当漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487145&idx=1&sn=c089110d0633e7f0798f8191da30eaef": "商用漏洞扫描器的盲区：为什么越权漏洞总被漏检？",
-    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=6&sn=ff90534f91198265ab19c5d635974345": "SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=6&sn=ff90534f91198265ab19c5d635974345": "SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=4&sn=a35a1079fd3a884216dc28f8d3af5297": "Fortinet FortiOS 身份验证缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493178&idx=2&sn=5c4ca05702c3759560ca3f920b04e29b": "漏洞预警 | 力软敏捷开发框架远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497487&idx=1&sn=e40cf31a2c927023db8183d1175e2705": "【漏洞通告】glibc静态setuid程序dlopen代码执行漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493178&idx=3&sn=e9da86edd858bb077c5e6134e069540a": "漏洞预警 | NetMizer日志管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=5&sn=7162f099562c67bb40635cb4eb23f583": "SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=8&sn=5608f451446d34b3c8f6f699ea83c692": "Nodejs Node.Js 异常处理不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501349&idx=1&sn=59bf10bba063b60bdb410a2b2227295e": "漏洞速递 | CVE-2025-29927漏洞（附EXP）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795169&idx=1&sn=d29b06d7eb3b372dd4945ba1c3820d05": "俄 APT 组织利用0day漏洞和擦除器加强对欧洲的攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487591&idx=5&sn=e28dd77522b9412f1e50fad4a4c40318": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493883&idx=1&sn=7dedce75c1a1e0e52ab06db60c0770a7": "4G通话（VoLTE）漏洞致仅需拨号即可定位任何O2运营商用户",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493178&idx=1&sn=0d4028eaae2e2be533e9e2773f0d5df7": "漏洞预警 | Optilink管理系统注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487591&idx=7&sn=f7d37a10fbe119e782c7c4c2abf36665": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491121&idx=4&sn=15052ca758a156db9fc23f0994da5c90": "30个云安全漏洞的发现与利用技巧，非常有用！"
 }
