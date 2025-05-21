@@ -14328,5 +14328,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523082&idx=2&sn=4d5a25d58482d98bdb3b13320e03bb92": "NIST、CISA联合提出漏洞利用概率度量标准",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136952&idx=2&sn=69e69672adb30bdae6830130589359c4": "攻防技术观察| 试验性攻击工具利用Windows系统信任机制屏蔽Defender；可精准预测漏洞被实际利用概率的评估指标体系发布",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490397&idx=1&sn=d297b27606dab7d510399b202924f348": "【AI风险通告】vLLM存在远程代码执行漏洞（CVE-2025-47277）",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594290&idx=1&sn=8c9c75889765c142a9cadf01dc6feaec": "Redis 漏洞分析——lua 脚本篇"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594290&idx=1&sn=8c9c75889765c142a9cadf01dc6feaec": "Redis 漏洞分析——lua 脚本篇",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490108&idx=1&sn=437c672c043c061be53714a52ae1cc38": "【漏洞预警】FortiOS TACACS+身份认证绕过漏洞(CVE-2025-22252)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491604&idx=1&sn=5c9fdbe2381fa02b0b113c2d4d1946e8": "AboutSSRF一款基于Burpsuite MontoyaAPI的黑盒SSRF漏洞自动化检测插件",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486690&idx=1&sn=1edf88a3285d6b7f9ce75f4029eadb8e": "【漏洞预警】VMware VCenter Server 命令执行漏洞(CVE-2025-41225)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=1&sn=fbd0408fe1e921d65adf6f736435cfa6": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第20期，总第38期]",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488490&idx=1&sn=a31e9acc3c762519b05168b72ae96024": "SpringBlade api∕blade-system∕menu∕list接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168499&idx=1&sn=4796889b109dc91d051a195eb002e9c4": "2025年十大最佳漏洞管理工具"
 }
