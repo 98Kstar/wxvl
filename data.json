@@ -14360,5 +14360,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503322&idx=1&sn=f502a2413a0ef8a73683a55f569d135d": "【成功复现】Gladinet CentreStack反序列化漏洞(CVE-2025-30406)",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523092&idx=2&sn=a5febb5cf97d5b007d31e1d71c58244a": "满分严重漏洞导致 MB-Gateway 设备易受远程攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519372&idx=1&sn=50db0c7ee25f800969366f8c73e9e310": "PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530046&idx=1&sn=2eaab2ebd8595d1d3ddb332557c83a59": "CVE-2025-26147：Denodo Scheduler 中经过身份验证的 RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530046&idx=1&sn=2eaab2ebd8595d1d3ddb332557c83a59": "CVE-2025-26147：Denodo Scheduler 中经过身份验证的 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533628&idx=2&sn=44ccb79264efbbd0254cff57b4c4a08a": "2025攻防演练必修高危漏洞集合（1.0版）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501099&idx=2&sn=33695589e4a03b131b18ffb1a4373bdb": "【漏洞通告】VMware vCenter Server认证命令执行漏洞(CVE-2025-41225)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491624&idx=1&sn=d3d39952455d901dbe67aa71b6c396da": "渗透工具箱V8 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496599&idx=1&sn=9cdd2833b203dbc756228948f6be0fad": "ChatGPT漏洞允许攻击者在共享对话中嵌入恶意SVG与图像文件"
 }
