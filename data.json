@@ -14367,5 +14367,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496599&idx=1&sn=9cdd2833b203dbc756228948f6be0fad": "ChatGPT漏洞允许攻击者在共享对话中嵌入恶意SVG与图像文件",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497634&idx=1&sn=0365b5a0a464632f064e7d4224b145b7": "src漏洞挖掘必备利器",
     "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207157&idx=1&sn=7756328ed7d6b73c0e9d042ccf620f64": "朱雀实验室协助vLLM修复CVSS 9.8分严重漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247488640&idx=1&sn=41e022b30064dc14da381bd803fe3c13": "前瞻对抗｜这大概是首次，AI挖出了Linux内核可利用0day"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247488640&idx=1&sn=41e022b30064dc14da381bd803fe3c13": "前瞻对抗｜这大概是首次，AI挖出了Linux内核可利用0day",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=2&sn=3eb6fe83ca06d69dbd0a16a7c73dcde3": "Grafana 紧急提前修复已被公开的XSS 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=1&sn=13f091a5db5a8f5cb5088945cf935fee": "BadSuccessor 漏洞究竟有多严重？Akamai 和微软意见不一",
+    "https://mp.weixin.qq.com/s?__biz=MzU4Mzc4MDQyOQ==&mid=2247484786&idx=1&sn=4e9778c996104c01de488b160caa5358": "Clash Verge 客户端 1-Click RCE 漏洞与蜜罐利用分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIyMjQwMTQ3Ng==&mid=2247491417&idx=1&sn=91d65e10514e6fcaf5d6ac79e6a89331": "【国际视野】美国国家标准与技术研究院推出识别IT漏洞利用的公式",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500026&idx=1&sn=992c5ad912c8e9fa7a9ddbf86876feeb": "浅谈src挖掘中——文件上传和XSS漏洞的组合拳",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491112&idx=1&sn=af7acbe749b1944b9066bcfac6a77e06": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506453&idx=1&sn=1ba9bb6c10d82cb7347e6c5d5f3c4411": "Deep Recon 发现未经身份验证的上传和 IDOR 漏洞 — 获得赏金 $$$",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647796499&idx=1&sn=b7283c7a51235fe2e3c43d4fe4f742e2": "SAST国标分析︱灵脉AI深度兼容GB∕T 34943∕34944-2017源代码漏洞测试规范",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261177&idx=1&sn=73668e9ea66320d7b0d76167ac1dfd2c": "【CVE-2025–4123】：Grafana SSRF 及帐户接管利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490126&idx=1&sn=607c8cc65f9c89318775ac76f0b30de8": "【漏洞预警】Grafana未授权跨站点脚本攻击XSS&SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514405&idx=2&sn=95d5bbef875789924cf08280da99f6fe": "美国NIST、CISA联合提出漏洞利用概率度量标准",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MzY1NjU3Ng==&mid=2247485927&idx=1&sn=9db456328bbea7bde15e5f127405dc36": "企业内部安全漏洞修复流程的建立与思考",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064169&idx=1&sn=803b3b6b86b1bf480ceaca8bb9dabf2f": "信息安全漏洞周报【第023期】",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516684&idx=1&sn=ad218936b1c1986fd8805f5cd5d7c9c6": "某若Y Vue漏洞检测工具（5月16日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484091&idx=1&sn=3e944b94f1673ef22c24744564aa4aa6": "【漏洞复现】Grafana XSS &SSRF & 账户接管（CVE-2025–4123）"
 }
