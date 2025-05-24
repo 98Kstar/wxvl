@@ -14395,5 +14395,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485423&idx=1&sn=d9bde7cd03a3dc78b49d5fea5db6ef8f": "代码审计| U8 FileManageServlet 文件读取漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487971&idx=1&sn=e1c2e9da1dc3b83253e0ac336a42060c": "ViciousTrap利用思科漏洞构建全球蜜罐网络：5300余台设备沦为监控工具",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520685&idx=1&sn=2148af7e1e40d55f1ed68fc0748a6e17": "Apache Httpd 常见漏洞解析（全）",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487813&idx=8&sn=305b1ec9ee245a70aee3824b0c92a73c": "通过细节挖掘漏洞的艺术"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487813&idx=8&sn=305b1ec9ee245a70aee3824b0c92a73c": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795216&idx=2&sn=d7cde799c6ed900c2698161c0c56e9e6": "因不满漏洞分级，发现者公布WinServer2025 0day细节",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489320&idx=1&sn=f7ef174c29d419e8e8eb311fe56b09b3": "黑客利用Cisco路由器漏洞建立大规模Honeypot网络，全球感染5300多台设备",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506454&idx=1&sn=b4531761caf101bef0abf29b9897baca": "Grafana CVE-2025-4123：SSRF 和账户接管漏洞完整解读",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530109&idx=1&sn=75ff148b005e2bce0789e1879e64c919": "Linux内核漏洞利用CVE-2025-21756：Vsock 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507223&idx=1&sn=b55962eb35d5b103d92307f7e2f0b138": "【一周安全资讯0524】《2025年深入推进IPv6规模部署和应用工作要点》印发；英特尔CPU曝重大安全漏洞，可导致内存泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491565&idx=1&sn=b56914958f73bce32eb0443897986322": "杭州九麒科技 BigAnt-Admin uploadMultipleFile.html 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487813&idx=1&sn=c8f2fc003c6b314c308c9b2c966f62db": "全网首发！CVE-2025-24813 Tomcat 最新 RCE 分析复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491626&idx=1&sn=f55c457d659713b518df8651942f1537": "渗透工具箱V8 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测"
 }
