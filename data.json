@@ -14614,5 +14614,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492987&idx=1&sn=971a25f5792cacbcea29955536f4eb2e": "黑客利用 OttoKit WordPress 插件漏洞添加管理员帐户",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530275&idx=4&sn=8a7efa98d4a382f0144297742ff568e2": "入侵我的车，甚至你的车——大众汽车应用程序存在安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137040&idx=2&sn=3409a0e99c9697da8ecb4c7742ca1399": "恶意软件藏身AI模型，专门针对阿里巴巴AI实验室用户；OneDrive文件选择器漏洞让应用获取用户云存储完整访问权限 | 牛览",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485861&idx=1&sn=05f3030231f775fe4410e25733c538c0": "Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485861&idx=1&sn=05f3030231f775fe4410e25733c538c0": "Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520801&idx=1&sn=bad2cedc1a8020024460f7f56dd36323": "小程序渗透记录：通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247484579&idx=1&sn=d63ab9b5f7fbe189c2a020ffb04d6e7a": "代码审计Sign加密到前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261237&idx=1&sn=5780326bb0e2c921f00c3199b93ec86e": "一处价值 $2500 的 DOM XSS 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=1&sn=2b0d058ac337d26093a5ae849717e3dd": "【安全圈】微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据"
 }
