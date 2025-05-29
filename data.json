@@ -14575,5 +14575,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247486137&idx=1&sn=fee3318906ff4908ee48a1f0dec231eb": "《AI黑客时代：用DeepSeek构建智能渗透机器人，让漏洞验证自动化飞驰》",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487999&idx=1&sn=7c8f914e1ab77f146c33404799bb8db6": "紧急警报！Mimo黑客利用Craft CMS高危漏洞发动双重攻击：挖矿劫持+流量窃取",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493251&idx=3&sn=b1787bd3b9aea2069a2ce3a456c5aa7d": "漏洞预警 | 满客宝后台管理系统任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493251&idx=2&sn=82ac86f0154f844c3b70f60d2d65ac4a": "漏洞预警 | JEEWMS任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493251&idx=2&sn=82ac86f0154f844c3b70f60d2d65ac4a": "漏洞预警 | JEEWMS任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487445&idx=1&sn=d783a258afbc17943c5187c0cd1efd9b": "CVE-2024-6235 PoC NetScaler 控制台漏洞可导致管理员访问",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491713&idx=1&sn=35eb54f2e0199e3f7f5de84f67709c3e": "白盒Sign加密到前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490564&idx=1&sn=b21020d985bae3bd807b1e3a8eb8d14a": "成都朗速ERP系统高危漏洞曝光！任意文件上传（附修复方案）",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499234&idx=1&sn=302778f0d6709a3b6ba6e7002fe7ed2a": "EMQX后台插件命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610910&idx=1&sn=b2d51a5eeaf6c9d65136ea6e51ab56c2": "公安机关将公开通缉台黑客；|全球互联网因BGP协议漏洞出现大规模路由震荡；|苹果五年拦截90亿美元欺诈交易；",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491626&idx=1&sn=ab258a801fb340c4bc6ec9acad02f31e": "申瓯通信 在线录音管理系统 index.php 存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488861&idx=1&sn=36092d38e428c6737bfc7a2291f944c2": "逻辑漏洞-使用 SSO 登录进行帐户接管"
 }
