@@ -14645,5 +14645,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554998&idx=1&sn=6691793afdd1d819140ff1e43e7b135a": "指纹识别+精准化 POC 攻击",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484435&idx=1&sn=34d2645c029628322e82edb23c28b580": "vBulletin远程代码执行漏洞复现（CVE-2025-48827）附POC",
     "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712266&idx=1&sn=e34c30404d96ca13434abd914eed3a21": "aws漏洞利用框架系列之一：pacu简介",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069908&idx=3&sn=a14a5bbf691eddc51b2cdf4e1f604678": "【安全圈】苹果 Safari 全屏模式曝中间人攻击漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069908&idx=3&sn=a14a5bbf691eddc51b2cdf4e1f604678": "【安全圈】苹果 Safari 全屏模式曝中间人攻击漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497667&idx=1&sn=54a41bdf17408e8804207e4246162573": "海外SRC漏洞挖掘｜助力成为百万赏金猎人",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502501&idx=1&sn=aeaae16a4b401d08bf2af6cfe32bedd6": "【攻防实战】ThinkPHP-RCE集锦",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492652&idx=1&sn=d0f0f05d9d44c122c3ba9b344800665e": "Oracle TNS协议漏洞允许攻击者访问系统内存数据"
 }
