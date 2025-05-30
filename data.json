@@ -14618,5 +14618,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520801&idx=1&sn=bad2cedc1a8020024460f7f56dd36323": "小程序渗透记录：通过细节挖掘漏洞的艺术",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247484579&idx=1&sn=d63ab9b5f7fbe189c2a020ffb04d6e7a": "代码审计Sign加密到前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261237&idx=1&sn=5780326bb0e2c921f00c3199b93ec86e": "一处价值 $2500 的 DOM XSS 漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=1&sn=2b0d058ac337d26093a5ae849717e3dd": "【安全圈】微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=1&sn=2b0d058ac337d26093a5ae849717e3dd": "【安全圈】微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506513&idx=1&sn=6e00e60bc051e20d313ebd7d41019761": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494388&idx=1&sn=1d26ade4f0031585db8697d373cda55d": "ExploitDB 一款轻量级用于抓取、展示和导出 Exploit-DB中的漏洞数据的工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=2&sn=c13a6632f6952677d33342a4e5c8776c": "AyySSHush：利用华硕已修复漏洞组建僵尸网络的间谍技术",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251946&idx=1&sn=dcddbfbfeafc956cfe3d93380c79bda2": "Ivanti漏洞被利用进行链式攻击，英国NHS医疗数据面临风险",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488525&idx=1&sn=20d1abb7ff5745d3093f6b089f6a4187": "vBulletin replaceAdTemplat接口存在远程代码执行漏洞CVE-2025-48827 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=3&sn=914afcabd8edcc167e4b033e85e3b45e": "漏洞预警 | 万户ezOFFICE SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488578&idx=1&sn=1c4b4a1e5f29731aea07d04ad731b665": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860603&idx=1&sn=3f138383a35ce7cfbe9c538da4af941e": "在Windows强跑Docker，8GB内存都喂不饱漏洞扫描神器？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=2&sn=6230f92f0d41acbeee78849f7bcbecf9": "漏洞预警 | 朗速ERP任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=3&sn=4946fecf57e0352b5f735171deca723c": "Windows 11 文件资源管理器漏洞（CVE-2025-24071）POC发布",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491737&idx=1&sn=a4f727ba13cde3a317fdbf6711e10111": "Sirius 一款开源通用漏洞扫描器（Docker版）|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=1&sn=de829eb3c1e29e04102463d8eeab8237": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞"
 }
