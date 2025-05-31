@@ -14652,5 +14652,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496910&idx=1&sn=584999d1f25820d6025e9c93c55a9392": "GitHub MCP服务器漏洞使攻击者可访问私有代码库",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491239&idx=1&sn=b27d7a0f459598f6daba035f0a5afea1": "短信验证码漏洞利用技巧总结&&端午社区活动",
     "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133221&idx=1&sn=3040271f1fd3fc85096d998d0e21c08d": "阿迪达斯曝数据泄露事件，NASA开源软件发现安全漏洞|一周特辑",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488614&idx=1&sn=21a4902c98991897ceb84d8be6a3eea1": "突破浅层测试桎梏：多维度漏洞挖掘突破与实践探索"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488614&idx=1&sn=21a4902c98991897ceb84d8be6a3eea1": "突破浅层测试桎梏：多维度漏洞挖掘突破与实践探索",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069919&idx=1&sn=3b5e129ed6ee7e222faa7957c06b833e": "【安全圈】国家网络安全中心发高危漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485965&idx=2&sn=7232cafb03fec2e869598e3a44b90dc9": "CVE-2025-41225｜VMware vCenter Server认证命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488620&idx=2&sn=6d2e7297bd61a2b100e43046c8973c60": "Pwn2Own 爱尔兰 - QNAP SQL 注入 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491654&idx=1&sn=ea4cb7c04e047b1d77707e8f9e5c34d8": "Meteobridge template.cgi 远程命令执行漏洞 (CVE-2025-4008)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485965&idx=1&sn=2c5e56f8ac01bcec1470c9404078f910": "CVE-2025-22252｜FortiOS TACACS+身份认证绕过漏洞"
 }
