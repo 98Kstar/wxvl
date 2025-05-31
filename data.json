@@ -14664,5 +14664,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512289&idx=1&sn=48c4fb2f47eec32325185a611bd32558": "IBM Power HMC漏洞披露：受限Shell突破与权限提升",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900649&idx=1&sn=718dad314e61f76d421045f8db0b5170": "WordPress热门插件TI WooCommerce Wishlist曝致命漏洞！CVSS 10.0，无需认证即可攻击！",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503344&idx=1&sn=47318095da170602a78b16e9007566c9": "【成功复现】Grafana开放重定向&服务端请求伪造漏洞(CVE-2025-4123)",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485872&idx=1&sn=e8c6a248f0321285efde17d965c6bf62": "地大信息-基础信息平台 GetImg 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485872&idx=1&sn=e8c6a248f0321285efde17d965c6bf62": "地大信息-基础信息平台 GetImg 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MzAzMzk3OA==&mid=2247485137&idx=1&sn=a2324f1d887b407e5a5c378699172fa5": "作业四 web安全assert()漏洞"
 }
