@@ -14671,5 +14671,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=1&sn=7d8850145d9d66641c6ffba5a2c8c7eb": "CVE-2025-5277：AWS MCP 服务器中的命令注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610944&idx=3&sn=9de6823533b7c81787188772ad659886": "记某众测Fastjson<=1.2.68反序列化RCE过程",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488023&idx=1&sn=761a3beceb05cc041a4a78dcd11befa7": "AI绘图工具ComfyUI爆高危漏洞，境外黑客已发起攻击！",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=2&sn=784deada10b94c1531046ed0aa5a15e9": "通过 JScript.dll 中的 UAF 漏洞执行远程代码（CVE-2025-30397）"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=2&sn=784deada10b94c1531046ed0aa5a15e9": "通过 JScript.dll 中的 UAF 漏洞执行远程代码（CVE-2025-30397）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486532&idx=1&sn=9c17c6009d678589e7adc36ae3518748": "某平台白盒JAVA权限绕过到RCE审计流程",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc2MDQyMg==&mid=2247486548&idx=1&sn=c0d672fad264d6de3bc4380097dc7e60": "某校大数据管理后台Docker API未授权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502774&idx=1&sn=f7262ac03c15933af92a0d4a7ac437fd": "【攻防实战】ActiveMQ漏洞集锦",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900650&idx=1&sn=7482c6fc3609162a06181413aad71af9": "Mimo黑客利用Craft CMS漏洞(CVE-2025-32432)！挖矿、流量劫持，更演变为勒索软件威胁！"
 }
