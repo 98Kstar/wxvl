@@ -14667,5 +14667,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485872&idx=1&sn=e8c6a248f0321285efde17d965c6bf62": "地大信息-基础信息平台 GetImg 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3MzAzMzk3OA==&mid=2247485137&idx=1&sn=a2324f1d887b407e5a5c378699172fa5": "作业四 web安全assert()漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610944&idx=1&sn=b65519e4ba185ad6ae0031556576681a": "国家网络安全中心发高危漏洞预警",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488659&idx=2&sn=098f93f509ee7d88c5c6bda227c86154": "任意文件读取&下载漏洞的全面解析及利用"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488659&idx=2&sn=098f93f509ee7d88c5c6bda227c86154": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=1&sn=7d8850145d9d66641c6ffba5a2c8c7eb": "CVE-2025-5277：AWS MCP 服务器中的命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610944&idx=3&sn=9de6823533b7c81787188772ad659886": "记某众测Fastjson<=1.2.68反序列化RCE过程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488023&idx=1&sn=761a3beceb05cc041a4a78dcd11befa7": "AI绘图工具ComfyUI爆高危漏洞，境外黑客已发起攻击！",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=2&sn=784deada10b94c1531046ed0aa5a15e9": "通过 JScript.dll 中的 UAF 漏洞执行远程代码（CVE-2025-30397）"
 }
