@@ -14697,5 +14697,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491664&idx=1&sn=a8865cbc68fb7086352d521ea2eb1119": "WordPress suretriggers 权限绕过漏洞 (CVE-2025-3102) 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485884&idx=1&sn=b127b788e9aada865a9653b23919fb67": "国产 Web 框架 Solon v2.5.11 RCE && nginxWebUI RCE",
     "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489373&idx=1&sn=e6f109cf43353dbc8175d922bdedb62a": "Linux系统安全警报：Ubuntu和RHEL发现信息泄露漏洞，CVE-2025-4598被评为Moderate",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530392&idx=4&sn=f69b52a15a10f1ee3d9ee170ba468a0f": "Evertz SDVN 上的远程代码执行 (CVE-2025-4009)"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530392&idx=4&sn=f69b52a15a10f1ee3d9ee170ba468a0f": "Evertz SDVN 上的远程代码执行 (CVE-2025-4009)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzY2MTcwMw==&mid=2247484883&idx=1&sn=5f24f041519c073a4a195cb4e17604d0": "AI 安全 近日大模型推理引擎 vLLM 暴出CVSS 9.8高危rce",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491791&idx=1&sn=ff5e4a045c8585d5b404ed420d49d4c0": "突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧"
 }
