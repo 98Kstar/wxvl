@@ -14688,5 +14688,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492045&idx=1&sn=4aa5d92ab474e19ac263cf91acdef793": "CVE-2025-31644 F5 BIG-IP iControl TMSH 接口命令注入漏洞深入分析",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795290&idx=3&sn=38b7ca8cfa5b15a3b60557ca6177ec51": "新的 Linux 漏洞允许通过 Ubuntu、RHEL、Fedora 中的核心内存转储窃取密码哈希值",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488028&idx=1&sn=aac796ada6be8ef09722a2370bf46836": "紧急预警！Linux核心转存漏洞曝光，Ubuntu、红帽系统密码哈希可被窃取",
-    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550254&idx=1&sn=942bb44202f3367a714ac4391ed57ea7": "简易短信轰炸漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550254&idx=1&sn=942bb44202f3367a714ac4391ed57ea7": "简易短信轰炸漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499790&idx=1&sn=91fc65c817ed18dfb8198f2b5af72aa9": "技术精华 | .NET 四种方法上传 web.config 绕过限制实现 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096296&idx=2&sn=e36e823e735c1b506cae71c3c20866d5": "关键 Linux 漏洞暴露了全球数百万个 Linux 系统上的密码哈希",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDY2MDA2Ng==&mid=2247486046&idx=1&sn=ef5ca8771a343763de51286f0d4b13ea": "【两万字原创长文】完全零基础入门Fastjson系列漏洞（基础篇）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322307&idx=1&sn=4063f0cef12989b63bd8d0d3cd998454": "严重Linux漏洞致全球数百万系统密码哈希值泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTgzMDg1NA==&mid=2247484205&idx=1&sn=bd0d9135fb8a77ecb1a10a022c3432ca": "某园区0day代码审计"
 }
