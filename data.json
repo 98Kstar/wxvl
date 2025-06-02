@@ -14685,5 +14685,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488661&idx=2&sn=934c606c129a3f0d86781aa7963819bd": "任意文件读取&下载漏洞的全面解析及利用",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247510481&idx=1&sn=bda61f971c6f5ebd7e65b379ff4a60a5": "量子安全警钟：外国研究者披露墨子号卫星激光同步漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485313&idx=1&sn=247d4db6184e4b05b478be78312739d7": "文件上传操作漏洞场景挖掘思路",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492045&idx=1&sn=4aa5d92ab474e19ac263cf91acdef793": "CVE-2025-31644 F5 BIG-IP iControl TMSH 接口命令注入漏洞深入分析"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492045&idx=1&sn=4aa5d92ab474e19ac263cf91acdef793": "CVE-2025-31644 F5 BIG-IP iControl TMSH 接口命令注入漏洞深入分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795290&idx=3&sn=38b7ca8cfa5b15a3b60557ca6177ec51": "新的 Linux 漏洞允许通过 Ubuntu、RHEL、Fedora 中的核心内存转储窃取密码哈希值",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488028&idx=1&sn=aac796ada6be8ef09722a2370bf46836": "紧急预警！Linux核心转存漏洞曝光，Ubuntu、红帽系统密码哈希可被窃取"
 }
