@@ -14744,5 +14744,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512290&idx=1&sn=59f9e65046dbe616bab36f8cc905751b": "群晖DiskStation漏洞利用：从CVE-2024-10442到远程代码执行",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491674&idx=1&sn=0f431e61e3429ce89491799a3222c337": "vBulletin replaceAdTemplate 远程代码执行漏洞 (CVE-2025-48827)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650623594&idx=2&sn=120a04c661d02eabd3898c0da6d200f3": "CVSS10分！vBulletin远程代码执行漏洞安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497531&idx=1&sn=abfa9f975edcef1c644013013123b992": "【漏洞通告】Google Chrome越界读写漏洞安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497531&idx=1&sn=abfa9f975edcef1c644013013123b992": "【漏洞通告】Google Chrome越界读写漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523167&idx=1&sn=41ef09229896e2bf881d8508d57c29fd": "高通：速修复这三个已遭利用的 Adreno GPU 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492458&idx=1&sn=f2fd28cb57bd84b198896cf15b300043": "加密算法被破解而导致的漏洞，能按内部已知+通用漏洞忽略吗？",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485889&idx=1&sn=6c577fda35fc0647c190200cce377544": "杭州三一谦成科技车辆监控服务平台 platformSql SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487122&idx=1&sn=85d1305a6894dabf8e32db3149494fc0": "Edu实战记录 | 四个漏洞打包提交",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490173&idx=1&sn=4f5ff7a32aaddb7668e87502c08b810a": "【高危漏洞预警】YAML-LibYAML信息泄露漏洞(CVE-2025-40908)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496018&idx=1&sn=0c204e70771dbe94a5f424a8a21acb78": "CNVD漏洞周报2025年第20期",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555006&idx=2&sn=df42accd650c3815dec113c6066fbb05": "【免费领】智能设备安全干货：路由器0day漏洞实战大全",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489807&idx=1&sn=ae168d989a5d57ebb2fc40ba71f045a3": "【1day】某医药系统存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485477&idx=1&sn=d14d0b13567a89ebdf0c7f7311643b87": "紧急预警：谷歌Chrome高危0Day漏洞（CVE-2025-5419）遭黑客大规模利用！"
 }
