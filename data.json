@@ -14720,5 +14720,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610951&idx=2&sn=7d6fed8f4199f9bb17e12f1e5fc7043c": "高通Adreno GPU零日漏洞遭利用，全球安卓用户面临攻击风险",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493280&idx=2&sn=959893b377b1f9d3bb3d7df38ce51c70": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261256&idx=1&sn=0a74831dec1e22b0350f5b5428d07f10": "【CVE-2025-20188】思科 RCE 漏洞分析",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247490976&idx=1&sn=36d7bc9e1e4ac616bb517481181ebcd2": "还在用Wireshark？这款工具直接帮你提取Web攻击+复现请求全过程！"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247490976&idx=1&sn=36d7bc9e1e4ac616bb517481181ebcd2": "还在用Wireshark？这款工具直接帮你提取Web攻击+复现请求全过程！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247484946&idx=1&sn=d5515e74135ed5faeca4b174483625eb": "SRC实战篇-还在交Druid的低危漏洞？",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTA0MTY2Mw==&mid=2247485940&idx=1&sn=823869f1102b2f23517af096e86cea71": "Linux崩溃报告漏洞（cve -2025- 5054,4598）暴露密码哈希",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521231&idx=1&sn=497bf82f8e4dc070256e7da622bae771": "粉丝福利*3《攻击网络协议：协议漏洞的发现+利用+保护》",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655281264&idx=2&sn=8bfbc105cc225c87951b3fc957ea7e4c": "搭建靶场、Windows∕Linux系统安全、sql注入、XSS、代码审计∕RCE、木马免杀、暴力破解、SSRF、提权",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njc1MTIzMw==&mid=2247485855&idx=1&sn=1ee08da0b56a4bc9dc8d8c78f0c32b52": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？(文末赠书)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037738&idx=1&sn=5caed91973ba168620331341c348e949": "openfire鉴权绕过漏洞原理解析"
 }
