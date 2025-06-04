@@ -14779,5 +14779,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795315&idx=2&sn=d0015fdb76b856cd4959e7046d09c8a9": "有 10 年历史的 Roundcube RCE 漏洞可让攻击者执行恶意代码",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493719&idx=1&sn=72763c3bcfa2e8e472e60e7dc715d642": "若依Vue漏洞检测工具",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493984&idx=1&sn=9ba0403347dc177e4caa30af389f631f": "谷歌修复了今年年初以来第二个被积极利用的Chrome零日漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485584&idx=1&sn=6342934e6aa5ea24f539787d268c36ad": "硬件安全研究员震惊！STM32漏洞利用实现任意代码执行全过程曝光"
+    "https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485584&idx=1&sn=6342934e6aa5ea24f539787d268c36ad": "硬件安全研究员震惊！STM32漏洞利用实现任意代码执行全过程曝光",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524681&idx=1&sn=58d3241abc197e40dd2a48c4e3a4633d": "联发科芯片漏洞：攻击者无需用户交互即可提权",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk3MTgxOQ==&mid=2247499910&idx=1&sn=df1de2e9b4b1e20a50c035217bcd298d": "【漏洞预警】llama_index SQL注入漏洞(CVE-2025-1750)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485051&idx=1&sn=af7709c22592ba59aa6272659d0f4772": "CVE-2025-48827：vbulletin代码执行POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489823&idx=1&sn=050f5a09a08d9878b8aa12897bdb5165": "某优化版PHP九国语言交易所存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485369&idx=1&sn=ad3ebcd655dc05dcb2d59189a2c5c626": "源码泄露审计文件下载漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjUzNzg4Ng==&mid=2247484703&idx=1&sn=720816ecc0b5ad2912dd2a40ba854d57": "第125篇：蓝队溯源之burpsuite、zap、AWVS、xray扫描器反制方法与复现",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524681&idx=3&sn=a29e14d95783cd29e736a3f282efa03a": "谷歌紧急发布安卓安全更新，修复可导致权限提升的多项高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486536&idx=1&sn=9a6234de86003dce55ef80148b372a1f": "某园区0day代码审计",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTUwMzM1Ng==&mid=2247513772&idx=1&sn=6d3b536bf7ad47c827c87459f1076773": "一个已有十年历史的Roundcube RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487453&idx=1&sn=dd70e73a6be4353a33566c323a73d682": "从 Rebuild 企业级系统代码审计 SSRF 漏洞。",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494371&idx=1&sn=3b7b2922e7fdae49adea80a9e2acc5a7": "java审计之下载漏洞获取到的代码如何断点调试",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501135&idx=2&sn=482408cecbddba76f261d8619d97d676": "【漏洞通告】Google Chrome V8引擎越界读写漏洞(CVE-2025-5419)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493984&idx=2&sn=81c758ea9cbb9fea538712b2b954e868": "高通修复了三个在有限针对性攻击中被利用的零日漏洞"
 }
