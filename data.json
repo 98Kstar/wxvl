@@ -14851,5 +14851,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486694&idx=1&sn=c0b1408fba02412f21d2e7d5c3078bed": "【漏洞预警】DataEase 远程代码执行漏洞(CVE-2025-49002)",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485776&idx=1&sn=deb484fff8f887811d04f804566d5b5b": "Kindeditor编辑器漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497536&idx=1&sn=7318bd01d7d51cb7892c8ac62203bacb": "【漏洞通告】DataEase远程代码执行漏洞安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524699&idx=1&sn=aa6aabfcb1a711cabae2aa5b84c2e4af": "谷歌披露威胁组织攻击方式：伪造Salesforce数据加载器实施钓鱼攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524699&idx=1&sn=aa6aabfcb1a711cabae2aa5b84c2e4af": "谷歌披露威胁组织攻击方式：伪造Salesforce数据加载器实施钓鱼攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488552&idx=2&sn=943465d2d861698941b2f73fc679ea7f": "Smartded Meteobridg的template.cgi接口存在任意命令注入CVE-2025-4008 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NTU5NTA4NQ==&mid=2247491757&idx=1&sn=e18c6ced25ae41c182a5c263e6293df1": "CVE-2024-4956 Nexus Repository 3 路径遍历漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485899&idx=1&sn=376aea6abca97546fc3a44c807047baa": "唯德科创 IPEasy 知易通 WSFM 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491943&idx=1&sn=e84dfaf45db4b4d1cc436ecc54f3e8c9": "WEB漏洞扫描器Invicti-Professional-V25.5.1（自动化爬虫漏洞扫描）更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484313&idx=1&sn=9b71c3e6bcb666505807374ab5dcb14a": "渗透测试与漏洞扫描：有什么区别？",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488552&idx=1&sn=778857248586131ae73927608b847830": "Liferay icon.jsp接口存在跨站漏洞CVE-2025-4388 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486915&idx=1&sn=1f9e76e950e746d6c1ab9c1e3312cea4": "【信息收集】ARL灯塔搭建教程-联动vscan自动化漏洞扫描",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793732&idx=1&sn=59278d0b2074a9c856a0700dfac2b83d": "0day漏洞量产？AI Agent“生产线”曝光"
 }
