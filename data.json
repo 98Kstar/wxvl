@@ -14822,5 +14822,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501362&idx=1&sn=01b71332a9c7c08f19fa2bd90f837ca6": "Vul情报 | CVE-2025-4123 漏洞（附EXP）",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485894&idx=1&sn=c532159a5a85d9939354104532ecd411": "唯德科创 IPEasy 知易通 DownloadFile 任意文件下载漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=2&sn=26d52c8caaf272e72f132b255994b95a": "【高危漏洞预警】Roundcube Webmail upload.php _from反序列化代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503353&idx=1&sn=2879dd13e8053ea89d8b73c643cf584c": "【成功复现】ZZCMS系统SQL注入漏洞(CVE-2025-0565)"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503353&idx=1&sn=2879dd13e8053ea89d8b73c643cf584c": "【成功复现】ZZCMS系统SQL注入漏洞(CVE-2025-0565)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=1&sn=11be0c58b7008b8cc0ccf0e7c2e69492": "漏洞预警 | Google Chrome越界读写漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546428&idx=2&sn=6f40163d3d690076a95f75e1becb1dd3": "HVV护网行动 | 分享最近攻防演练HVV漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=2&sn=34a6edf72fcd14c1c0603c5e647f1f18": "漏洞预警 | 傲发办公通信专家系统SQL注入漏洞"
 }
