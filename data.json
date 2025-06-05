@@ -14837,5 +14837,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503451&idx=1&sn=838415cece549ae052cced3f736997b1": "【已复现】DataEase 远程代码执行漏洞(CVE-2025-49001、CVE-2025-49002)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507774&idx=1&sn=d12eb0b53d048871be85e2a2f8db6bf4": "微步情报局发现DataEase存在多个高危漏洞，可实现RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491703&idx=1&sn=6775431a3523ce79579c880215420a9f": "世邦通信SPON-IP网络对讲广播系统 videobacktrackpush.php 任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490196&idx=1&sn=445a97e63142e9216294ebc4e1bea7ad": "【高危漏洞预警】Dataease JWT认证绕过&H2数据库远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490196&idx=1&sn=445a97e63142e9216294ebc4e1bea7ad": "【高危漏洞预警】Dataease JWT认证绕过&H2数据库远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247494864&idx=1&sn=f82c751d60028bc253ecff7eb70a40f2": "百万奖金池！ByteSRC全域3倍积分！单个漏洞赏金15万！",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNDkwNjQ5Ng==&mid=2247486115&idx=1&sn=b606ab44ebe50c4968bb70b369ba0f04": "CVE-2025-49113 Roundcube Webmail反序列化漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497691&idx=1&sn=8a21820aa197e5d11ac115da464d6a5d": "RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492805&idx=1&sn=30e47869ddf47a6cb5a92b70c81c266e": "【已复现】DataEase 远程代码执行漏洞（CVE-2025-49002、CVE-2025-49001）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524460&idx=1&sn=7d2b4e4d60276ffcbb0e8a79d51308cf": "DataEase H2数据库远程代码执行漏洞(CVE-2025-49002)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037742&idx=1&sn=e38b2e41abe4ef5de9291947fe02ec0b": "消息中间件RocketMQ命令执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595183&idx=4&sn=ac565329b10f28fb7e171969a80f9396": "更新：改造模糊测试工具 | 系统0day安全-二进制漏洞攻防（第4期）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070016&idx=3&sn=2f8103c74269e54bf6753a609066de26": "【安全圈】在VMWare NSX中发现多个存储的XSS漏洞-立即修补",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539050&idx=1&sn=96d4adc336b0c65520778ac13e1597d6": "我不再依赖 CVE ，对漏洞管理的重新构想",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488974&idx=1&sn=5b2444dbfe6ced072d11a897895e3fee": "超骚逻辑漏洞-滥用自动邮件回复程序访问内部工作场所",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486694&idx=1&sn=c0b1408fba02412f21d2e7d5c3078bed": "【漏洞预警】DataEase 远程代码执行漏洞(CVE-2025-49002)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485776&idx=1&sn=deb484fff8f887811d04f804566d5b5b": "Kindeditor编辑器漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497536&idx=1&sn=7318bd01d7d51cb7892c8ac62203bacb": "【漏洞通告】DataEase远程代码执行漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524699&idx=1&sn=aa6aabfcb1a711cabae2aa5b84c2e4af": "谷歌披露威胁组织攻击方式：伪造Salesforce数据加载器实施钓鱼攻击"
 }
