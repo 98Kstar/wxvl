@@ -14860,5 +14860,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488552&idx=1&sn=778857248586131ae73927608b847830": "Liferay icon.jsp接口存在跨站漏洞CVE-2025-4388 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486915&idx=1&sn=1f9e76e950e746d6c1ab9c1e3312cea4": "【信息收集】ARL灯塔搭建教程-联动vscan自动化漏洞扫描",
     "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793732&idx=1&sn=59278d0b2074a9c856a0700dfac2b83d": "0day漏洞量产？AI Agent“生产线”曝光",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523184&idx=1&sn=f205e1639e39bac5e3d3496845db4087": "思科提醒注意严重的 ISE 和 CCP 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523184&idx=1&sn=f205e1639e39bac5e3d3496845db4087": "思科提醒注意严重的 ISE 和 CCP 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247485167&idx=1&sn=ef7026252c6a5848c0eb5555f96dd119": "别让广播出卖你！Android BroadcastReceiver 漏洞排查全流程详解",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503369&idx=1&sn=61a37e11b0764057323dfc5fb5baf447": "【成功复现】Meteobridge命令执行漏洞(CVE-2025-4008)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519440&idx=1&sn=2c02d7338cb44ac37b0fdcb7466ad272": "突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488361&idx=1&sn=c11476376033a528ae2ce25bf94c52eb": "2025年离大谱的CVE-2011-10007",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497365&idx=1&sn=4ec899e26e1e52c198d80c9cacdd1184": "记某众测Fastjson<=1.2.68反序列化RCE过程",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493320&idx=1&sn=23fa59fe6fd3f2dbea3de0de22cd73bb": "漏洞预警 | Elber身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860668&idx=1&sn=197d36812e146c81964457d9a5c735c1": "两条命令搞定！Kali原生集成GVM漏洞扫描器，比Docker省5GB空间",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493320&idx=3&sn=eb3dea720279ce737c522dec98ba1498": "漏洞预警 | 灵当CRM SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655281664&idx=1&sn=9fb168bdaf2d0e9a644148d8866cd5d5": "中间件常见漏洞详解"
 }
