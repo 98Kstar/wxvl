@@ -15026,5 +15026,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900736&idx=1&sn=f135a3a9968b591ff7263118409a8696": "谷歌修复“幽灵”漏洞：你的手机号是如何被泄露的？",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463169&idx=1&sn=4657e8043045aba6ecf5bab93e343ee2": "信息安全漏洞周报（2025年第23期）",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=2&sn=2e039d2ebc04cf71f327eb71ea092dba": "CVE 2024-43570 和 CVE-2024-43535 的报告和 POC",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507787&idx=1&sn=1470dd59fd12731195bf46d75d0e856c": "速修！Kafka Connect爆任意文件读取漏洞，无需授权"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507787&idx=1&sn=1470dd59fd12731195bf46d75d0e856c": "速修！Kafka Connect爆任意文件读取漏洞，无需授权",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519029&idx=1&sn=d3c552e1439c4b5c905bf84e35dafc5f": "等保测评十大高频漏洞：SQL 注入竟不是第一名？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595564&idx=2&sn=9250733f879b47dac40512814fc3dafd": "Microsoft Outlook 曝高危漏洞，仅需低权限就能实施攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485782&idx=1&sn=b30dd6f630934e592a540fd7f22a5df4": "渗透笔记：如何通过SQL注入漏洞拿到系统的管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492822&idx=1&sn=588b95206e8af7e0f4799bf62d24e037": "【已复现】契约锁电子签章系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488578&idx=1&sn=4142428c58764503e46c884b4b84ac1c": "漏洞预警：用友NC loadDoc.ajax接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516788&idx=1&sn=a8322e64eaf367a40e9b2389e32535fc": "使用异或∕或运算绕过符号过滤 -- RCE-XOR(6月11日更新)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523260&idx=2&sn=ea145b27a636bc95e9cf0045e0f89d03": "Ivanti Workspace Control硬编码密钥漏洞暴露 SQL 凭据",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795393&idx=3&sn=090e17c35f04c47f1f1b9556550131aa": "微软6月补丁日：修复 66 个漏洞，包括一个APT组织利用的0day",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523260&idx=1&sn=961b0c000fcef3533fc9754b82415f9a": "微软6月补丁星期二值得关注的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322893&idx=3&sn=acca4bafe06c06c3a0e8756199e46a51": "Windows WebDAV 零日远程代码执行漏洞遭野外利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248079&idx=1&sn=90e56a859ad29dc05f0cc997ae73bcb6": "建行分行因存在多项网络安全问题被罚 | “取个快递”损失数十万 | 黑客利用iMessage零点击漏洞攻击iPhone用户",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490224&idx=1&sn=15d9b3b8964b8455c3fba8dca693f4f8": "【高危漏洞预警】Autodesk Installer权限提升漏洞(CVE-2025-5335)"
 }
