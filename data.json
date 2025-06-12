@@ -15082,5 +15082,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503477&idx=1&sn=1410a653474bbb82b32dadab97a47c7b": "微软6月补丁日多个产品安全漏洞风险通告：1个在野利用、9个紧急漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611039&idx=3&sn=270f5fe6538f79d74f39aeae9e4815b0": "某景人事管理系统漏洞挖掘与分析",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491780&idx=1&sn=697bf76c965a98ac990b82343f7b9a58": "三汇 SMG网关管理软件 9-13pcap.php 任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252007&idx=1&sn=41b8469177dae3520103786696e7603e": "Salesforce PaaS平台大规模宕机超6小时，众多网站功能受损"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252007&idx=1&sn=41b8469177dae3520103786696e7603e": "Salesforce PaaS平台大规模宕机超6小时，众多网站功能受损",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493368&idx=3&sn=1d7e3c69c8fecfdf2342b4c2dd4a093f": "漏洞预警 | 金和OA任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530778&idx=1&sn=6e644b59f12b620f384bb9ae82d2e5bb": "CVE-2025-32717 Microsoft Word 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484821&idx=1&sn=521d6f7191a4c623b04a751f998a3f05": "【漏洞复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817)",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NTU5NTA4NQ==&mid=2247491785&idx=1&sn=9b23f6b5cbbaf45761d977ee905bed06": "CVE-2024-23897 Jenkins CLI接口 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487246&idx=1&sn=7a41868625893614f6da1bbdcda23a31": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211959&idx=1&sn=51cbfd4fb6f02aadc4647e968539a871": "谷歌账户恢复漏洞致攻击者可获取任意用户手机号：赏金5000美元",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486566&idx=1&sn=5457ff24c4b0aa16fcca4390504e4aa0": "攻防下帮助学员快速审计NET前台rce漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261302&idx=1&sn=7033acdbf40ec6570633f66664423697": "【CVE-2025-32711】全球首例 AI “零点击”漏洞：黑客可无声窃取Microsoft 365敏感数据​",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487487&idx=1&sn=e7017d76417d578514aadbbcd40f83f7": "漏洞预警 |Kafka Connect存在任意文件读取漏洞（CVE-2025-27817）"
 }
