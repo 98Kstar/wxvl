@@ -15104,5 +15104,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487463&idx=1&sn=230ead607780050b503f02a16d4d3a5a": "CVE-2025-24071 - Windows 文件资源管理器欺骗漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247510877&idx=2&sn=96d346ba4108bb4a527b458d08ee33e4": "高危漏洞打包兜售，Palo Alto、Fortinet、Linux等关键系统在列",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573141&idx=1&sn=9f4853031ae957fa0ace7d99490175bd": "浅谈常见edu漏洞，逻辑漏洞，越权，接管到getshell，小白如何快速找准漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649167173&idx=1&sn=f7421efcbc4b873263935a4954985500": "揭秘最为知名的黑客工具之一：Legion （一款功能强大的自动化网络侦察与漏洞扫描工具）"
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649167173&idx=1&sn=f7421efcbc4b873263935a4954985500": "揭秘最为知名的黑客工具之一：Legion （一款功能强大的自动化网络侦察与漏洞扫描工具）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507799&idx=1&sn=c6c3a09312697bafa11f8e2f5212f32b": "漏洞通告|GeoServer SSRF和XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492348&idx=1&sn=441320a8e415c5b15d5bff94373be065": "Mitmproxy GUI用于解决渗透测试加解密的难题 让你的Burp像测试明文这么简单|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492830&idx=1&sn=0a00dece01aa71e8b1e9e3b5066837c7": "【已复现】GeoServer SSRF和XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514505&idx=1&sn=df286bcbf807c8444c7f8356b70aef56": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489835&idx=1&sn=3fe10ef2932356b3f4289727129e56d3": "国外某数据库管理系统存在前台任意文件上传漏洞 (CVE-2025-5840)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595569&idx=3&sn=cd7353a8ac4c73d7b9281ece95ec84bd": "Salesforce 行业云曝20+漏洞，含零日漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484271&idx=1&sn=bee4e651a74eda4316b37d8d05f9bda1": "CVE-2023-36802 mskssrv type confusion 提权",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523270&idx=1&sn=34d30246787005440f76867606c6259c": "Microsoft 365 Copilot 中存在零点击AI数据泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490229&idx=1&sn=6b844c89011b2be9e981cc80fce4ad24": "【高危漏洞预警】契约锁电子签章系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636174&idx=4&sn=029142f90dac9e6d869184d8f7e327e0": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545790&idx=1&sn=999b6a569025905ded875ba4833d32f6": "【漏洞预警】Apache Kafka Connect高危漏洞（CVE-2025-27817）可致任意文件读取,影响核心数据安全！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485930&idx=2&sn=597b6e0652540813677b77802e4ece5e": "【漏洞预警】Apache Kafka Connect高危漏洞（CVE-2025-27817）可致任意文件读取,影响核心数据安全！"
 }
