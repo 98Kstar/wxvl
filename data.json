@@ -15171,5 +15171,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490237&idx=1&sn=dfd4f48b27c1593002da37e03645a275": "【高危漏洞预警】GeoServer未授权服务器端请求伪造(SSRF)漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484121&idx=1&sn=43b7919e71e92bcdd179e089796ce428": "契约锁电子签章系统dbtest远程代码执行",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523281&idx=1&sn=39fe6b4ec8cebc0a362c26c8fffbd2c7": "GitLab 修复高危的账户接管和认证缺失漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486410&idx=1&sn=292331c03afb3bcfa68cd2cdd35c0eb7": "漏洞管理工具 - miscan"
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486410&idx=1&sn=292331c03afb3bcfa68cd2cdd35c0eb7": "漏洞管理工具 - miscan",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488591&idx=1&sn=c235ea6352df7f47f2fc2bd6408c05c1": "Grafan存在url重定向&服务端请求伪造漏洞CVE-2025-4123 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTEzMTA0Mw==&mid=2247496726&idx=1&sn=cb4a63b4ce5095d221332254bd5bbc8e": "CVE-2025-33073 漏洞：NTLM 反射攻击的绕过方法及影响"
 }
