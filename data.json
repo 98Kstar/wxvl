@@ -15127,5 +15127,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=1&sn=7869f971392716e029fab6b644477314": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入和XML实体注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488300&idx=1&sn=4a32474b0aef6f2773b86d1411080556": "java审计之下载漏洞获取到的代码如何断点调试",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484816&idx=1&sn=3a4a2007cc0f23f7da750ff52b2ec51f": "【漏洞复现】九思oa之奇怪的sql注入",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484577&idx=1&sn=6d8367ef3304610b2fd669d6e843a514": "契约锁最新漏洞补丁分析"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484577&idx=1&sn=6d8367ef3304610b2fd669d6e843a514": "契约锁最新漏洞补丁分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488011&idx=1&sn=db438e2b8d2a2c5a1639aac28411bc32": "漏洞预警 | Apache Kafka Connect任意文件读取与SSRF（CVE-2025-27817）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488098&idx=1&sn=e93a71177440f649281a364558f31984": "微软Copilot惊现全球首个零点击AI漏洞，企业敏感数据可被无声窃取！",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492328&idx=1&sn=877dd3baec6be94332cc460166808bf0": "记一次实战日穿整个系统getshell-共九个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489308&idx=1&sn=06cf92ea68b30f6d5c68df7116644ac7": "【安全更新】微软6月安全更新多个产品高危漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491789&idx=1&sn=5885e0ee1c9dd9fab4cb35ea7bbd647e": "B-LINK AC1900 V1.0.2 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248091&idx=1&sn=c2d0f17071027a75a6bb6b71e565fdcf": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据 | 威胁狩猎入门指南：专家级主动网络安全策略",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512435&idx=1&sn=c35c2db0a565cfdacb1cb086e88a4a99": "工业自动化PROFINET协议库P-Net 高危漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=3&sn=945e6becb24f41d4dd077d47e9509f07": "Apache CloudStack漏洞使攻击者可破坏云基础设施系统",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492793&idx=1&sn=f428edcabb86adc4cae7213fe5214e08": "漏洞赏金工具 v1.0",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252014&idx=1&sn=902715f1ed8dd1c00b55490526da55ad": "SinoTrack GPS设备存在严重安全漏洞，可被远程控制车辆",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=1&sn=1230a9c3ec711c744e5355e4a173cd26": "Windows SMB客户端零日漏洞遭利用：攻击者采用反射型Kerberos中继攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484640&idx=1&sn=96d9b43f0787deee3e003ab7c1a6a485": "渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入"
 }
