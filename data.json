@@ -15182,5 +15182,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489218&idx=4&sn=fa277c4ca4189e8764162fab696c7a36": "一次奇妙的降价支付逻辑漏洞挖掘之旅",
     "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625052&idx=1&sn=056754f27003d77ebc178a77ea0b866d": "人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530877&idx=1&sn=43ab9caedb1be5d8bac6e2151506458f": "NTLM反射已死，NTLM反射万岁！——CVE-2025-33073深度分析",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530866&idx=2&sn=4650a382383462fc8d35a14c62e9f839": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷的 PoC 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530866&idx=2&sn=4650a382383462fc8d35a14c62e9f839": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷的 PoC 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485807&idx=1&sn=f849a548f91e22fee19fce78d3285a8d": "记一次SRC漏洞垂直越权挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491809&idx=1&sn=baf7f085baf6b7b25c2165be6cc073dc": "会捷通云视讯系统 fileDownload 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323083&idx=1&sn=f8c83096621ff3fb1a6ffdc75cd02146": "Windows磁盘清理工具权限提升漏洞PoC利用代码公开",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485986&idx=3&sn=067d2ba7017165b5d5a11a0f55a68e26": "CVE-2025-32717｜Microsoft Word 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503078&idx=1&sn=dcff53e08a56091f873b1504dbd66a57": "【攻防实战】Weblogic-RCE集锦",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491800&idx=1&sn=ff9c1b0db7a32c6173824a5580985489": "WIFISKY-7层流控路由器 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDM2MjY5NA==&mid=2247484243&idx=1&sn=dd3f56cb2e113d589d7e8fbdd373b32e": "金融业“解码差异”漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064203&idx=1&sn=6a9b3f9b1737e370daec30c6d4803d57": "信息安全漏洞周报【第026期】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485986&idx=2&sn=7a87bb2da8ae173794e4a4250b47452a": "CVE-2025-32756｜Fortinet多款产品存在远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzIyODg2OQ==&mid=2247484857&idx=1&sn=ce2a1616864a836faf7983e5c412c5b3": "分享一些漏洞挖掘的课程（附网盘直接下载 无广告）"
 }
