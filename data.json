@@ -15208,5 +15208,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247493926&idx=1&sn=06ac298909e27d0e37fef90f64b205da": "疯狂星期四两本证书漏洞合集",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489318&idx=1&sn=8dc3cbccb099dac80324305cda3f9fe9": "任意文件读取&下载漏洞的全面解析及利用",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499691&idx=2&sn=d8c9503412383552934b7d2b0ee8ed7f": "(CVE-2025-3415) 暴露Grafana Alerting中的DingDing API 密钥",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530905&idx=3&sn=e213905f649075f85f3cb74fb755521a": "DanaBleed：DanaBot C2 服务器内存泄漏漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530905&idx=3&sn=e213905f649075f85f3cb74fb755521a": "DanaBleed：DanaBot C2 服务器内存泄漏漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323140&idx=3&sn=45827901940f918a640dfd1f6b37d59a": "Windows SMB高危漏洞分析：Kerberos缺陷导致攻击者可获取SYSTEM权限",
+    "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650561365&idx=1&sn=d2025cd80b7752f6432cb2830b922996": "【分析】以色列空袭伊朗事件暴露的伊朗防空体系漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTU0OTAwOQ==&mid=2247483847&idx=1&sn=091150b687d6366c68918915aac717c8": "域大杀器 CVE-2025-33073 NTLM反射",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070172&idx=2&sn=338cac5913731b091a4e71b214daf70f": "【安全圈】微软修复9.3分高危漏洞"
 }
