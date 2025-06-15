@@ -15215,5 +15215,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070172&idx=2&sn=338cac5913731b091a4e71b214daf70f": "【安全圈】微软修复9.3分高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485941&idx=1&sn=19933a1c4ce9672ea5adef1f97618da7": "JieLink+智能终端操作平台 GetDataList 敏感信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116334&idx=2&sn=604c4749c1de5c6874abe3fbb870e5c3": "了解运行时漏洞管理",
-    "https://mp.weixin.qq.com/s?__biz=Mzk3NTEyMzQzOA==&mid=2247486300&idx=1&sn=324b5ac4e2c2f68d68f44eadbf206fc7": "漏洞复现：CVE-2015-1635、CVE-2017-0144"
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTEyMzQzOA==&mid=2247486300&idx=1&sn=324b5ac4e2c2f68d68f44eadbf206fc7": "漏洞复现：CVE-2015-1635、CVE-2017-0144",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530905&idx=2&sn=d97f508faa27cf71ce0646619e5dfbd6": "CVE-2025-4123：Grafana 中通过开放重定向引发的 XSS",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516816&idx=1&sn=5d6d77197ef3850efacbaeceddfe1b44": "内网漏洞自动化扫描工具 -- P1soda（6月7日更新）"
 }
