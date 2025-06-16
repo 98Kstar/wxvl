@@ -15246,5 +15246,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582888&idx=1&sn=02b823aa4fbe49aa681dfd78302faedf": "新型Secure Boot漏洞允许攻击者安装引导工具包恶意软件",
     "https://mp.weixin.qq.com/s?__biz=MzkxNDQ5MTQ2Mg==&mid=2247484008&idx=1&sn=2ace6d9b83200f6f09158527c68469e0": "若依4.8.0RCE分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MjgxNTQ1MA==&mid=2247488337&idx=1&sn=5db71361fd2e4da938f507c914565835": "通用型漏洞在企业中的应急响应",
-    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494380&idx=1&sn=66151c9843ee0ce1f076c7129e9fa929": "域大杀器 CVE-2025-33073 NTLM反射"
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494380&idx=1&sn=66151c9843ee0ce1f076c7129e9fa929": "域大杀器 CVE-2025-33073 NTLM反射",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489466&idx=1&sn=3630915a5db00418f1e7b18541bbb73a": "渗透测试 ｜ 从jeecg接口泄露到任意管理员用户接管+SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535205&idx=1&sn=79c060ff2a09da91f05ed22d90bb8400": "【漏洞预警】：高危警报！微软公司通报多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070197&idx=1&sn=2ea19a473759ade49d28c33654512b51": "【安全圈】Windows SMB客户端提权漏洞（CVE-2025-33073）及其在未启用SMB签名环境中的攻击原理",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503502&idx=1&sn=0283b5ba91d5d3a06e6aae4bc462be4c": "【已复现】Windows SMB 权限提升漏洞(CVE-2025-33073)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573270&idx=1&sn=604d3b689ad54f42bc3af950d655e5fb": "若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650623761&idx=1&sn=0688a2ffab227267871422c71dffd982": "告别\"一轮游\"！亚信安全发布2025年攻防演练必修高危漏洞合集",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503502&idx=2&sn=ffe84150213eff7c9c03e074b80d7c59": "安全热点周报：黑客利用 Windows WebDav 零日漏洞来投放恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524798&idx=2&sn=a2dcf508bc426cbf09d35addc83dacf7": "IBM 备份服务漏洞让攻击者能够提升权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535205&idx=3&sn=638f34099ca5d39a3fe9321aa0629c4e": "数据裸奔遭境外窃取！北京网信办顶格处罚两家“漏洞企业”",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247486834&idx=1&sn=fb68fb05e911038caec9275525364076": "CVE-2025-33053：立即更新Windows的充分理由",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MzY1NjU3Ng==&mid=2247485933&idx=1&sn=881ac470d0f0990bb7dce2c7e0ecb769": "企业内部安全漏洞修复流程的建立与思考（其四）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070197&idx=4&sn=ec2e30a1b4bdbaba363c267c6b615863": "【安全圈】起亚厄瓜多尔车型钥匙系统存在严重漏洞，数千辆车面临被盗风险",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496056&idx=2&sn=18ef93b8922eb9eac576fc15cd65747f": "上周关注度较高的产品安全漏洞(20250609-20250615)",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490417&idx=1&sn=73dca860bb720796610dd88e6c9767a6": "【AI风险通告】MCP Inspector存在远程代码执行漏洞（CVE-2025-49596）",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524798&idx=1&sn=6d2fd237a4660e5c5a0c0b6eb2b537c4": "Microsoft Defender for Identity 漏洞可致未授权权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488986&idx=1&sn=5ed544bfa806db85622785e6ebe8ff92": "客户端路径遍历（CSPT）——深入探究被忽视的漏洞"
 }
