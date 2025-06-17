@@ -15276,5 +15276,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485324&idx=1&sn=9459be4ffec2530bb9f7315d72100e03": "一款渗透场景下的内网漏洞自动化扫描工具",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488117&idx=1&sn=3b34f82ff0a524550f1a692cb328f9bc": "高危预警！Windows曝“反射型Kerberos中继攻击”漏洞，攻击者可直取SYSTEM权限(含POC链接)",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484832&idx=1&sn=9a171d184af60ecce4816d36d84c0352": "【漏洞复现】九思oa-XXE",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519474&idx=1&sn=27e66a7c83cd189f0b28f274424d0779": "从 Self XSS 到 RCE"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519474&idx=1&sn=27e66a7c83cd189f0b28f274424d0779": "从 Self XSS 到 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490246&idx=1&sn=b8357c865b44476bbafa52f344dc85f5": "【漏洞预警】Grafana访问控制不当漏洞"
 }
