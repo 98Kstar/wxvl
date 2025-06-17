@@ -15270,5 +15270,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523297&idx=2&sn=ea60b085762fef54a56dea85a3150a40": "超4.6万个 Grafana 实例易受账户接管漏洞影响",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488033&idx=2&sn=e559d9f9268e653c143ee78bcc61baef": "漏洞预警 | DataEase JWT认证绕过漏洞（CVE-2025-49001）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493005&idx=1&sn=d8de30626c12b1ff885b2089b6a483b2": "Output Messenger 漏洞被利用作为间谍攻击的零日漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490246&idx=2&sn=e25fdd6dcc4c1c4e4f8529b472db1979": "【AI高危漏洞】MCP Inspector未授权访问致代码执行漏洞（CVE-2025-49596）"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490246&idx=2&sn=e25fdd6dcc4c1c4e4f8529b472db1979": "【AI高危漏洞】MCP Inspector未授权访问致代码执行漏洞（CVE-2025-49596）",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484451&idx=1&sn=f0448570fff9d24618290b0aad1fd5bf": "【论文速读】|基于大型语言模型的上下文增强漏洞检测",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516823&idx=1&sn=d8671ca4475900732cf71c35861bbfab": "Nuclei POC 漏洞验证可视化工具 -- Wavely（6月12日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485324&idx=1&sn=9459be4ffec2530bb9f7315d72100e03": "一款渗透场景下的内网漏洞自动化扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488117&idx=1&sn=3b34f82ff0a524550f1a692cb328f9bc": "高危预警！Windows曝“反射型Kerberos中继攻击”漏洞，攻击者可直取SYSTEM权限(含POC链接)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484832&idx=1&sn=9a171d184af60ecce4816d36d84c0352": "【漏洞复现】九思oa-XXE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519474&idx=1&sn=27e66a7c83cd189f0b28f274424d0779": "从 Self XSS 到 RCE"
 }
