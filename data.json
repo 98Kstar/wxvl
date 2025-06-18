@@ -15338,5 +15338,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486221&idx=1&sn=529cec00a3ba14d99ac6e06d6724c586": "工具集：VIte_ExpTools【vite任意文件读取一键利用工具】",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583016&idx=1&sn=3779c200d5b53c656dd00799324e1aea": "超过84000个Roundcube网络邮件安装受到RCE漏洞影响",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483899&idx=1&sn=bfa971e99ccf2de2cca3003ba7451dbc": "车联网安全进阶之GB∕T 45496漏洞风险等级计算器发布",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487229&idx=1&sn=0ce71172eb185b6cb55ce2ff4dcbb9f0": "用友NC importTemplate方法XXE漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487229&idx=1&sn=0ce71172eb185b6cb55ce2ff4dcbb9f0": "用友NC importTemplate方法XXE漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503510&idx=1&sn=709598245f5b6c9c5d897727f106c25b": "【已复现】泛微E-cology9 SQL注入漏洞(QVD-2025-23834)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524831&idx=3&sn=aa81460de131a6a4c34d00340246d498": "XDSpy组织利用Windows LNK零日漏洞窃取敏感信息",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490423&idx=1&sn=36a82489f3056c2530dd2906ac91c352": "【已复现】泛微E-cology9存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524831&idx=1&sn=fccb308af75d0ed4e6fda2f6f3ffb43d": "Chrome 漏洞让攻击者能够执行任意代码 – 立即更新！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494039&idx=2&sn=434cc36cf0d74dc86fc89af3d189743f": "【已复现】Windows SMB 权限提升漏洞（CVE-2025-33073）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523322&idx=2&sn=347204929358f8a4c82b2634e62774cd": "Veeam RCE漏洞导致域用户入侵备份服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499843&idx=1&sn=4586afaa6722de8983da0a1c104db042": "Chrome 漏洞让攻击者执行任意代码 - 立即更新！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484906&idx=2&sn=97b955ee68e3ad6b31a6b5ecc0278dcd": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第四十期",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490265&idx=1&sn=432dd1cb6769a98e401d684226627eb1": "【高危漏洞预警】泛微E-cology9 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247527275&idx=1&sn=128c0b0612fe1c9346fec2741ef0b702": "上千家政企网站沦为黑产跳板：子域名接管与文件上传漏洞深度分析"
 }
