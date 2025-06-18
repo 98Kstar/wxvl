@@ -15306,5 +15306,15 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323227&idx=3&sn=8d510d5113b805e0f18388a6539e982a": "MCP Inspector严重远程代码执行漏洞威胁AI开发环境安全",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501194&idx=2&sn=37f99ddcaa7215ce29f34e62e2ac5eda": "【漏洞通告】Apache Tomcat安全约束绕过漏洞 (CVE-2025-49125)",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491309&idx=1&sn=6178a36525fbb6268e0ad09a12e1a80f": "Docker Registry 5000端口漏洞图形化利用工具实战指南",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=4&sn=bdd8e81bf4090a9661e5fabf07d8ef15": "CVE-2025-49596：MCP Inspector 严重远程代码执行漏洞威胁AI开发环境安全"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=4&sn=bdd8e81bf4090a9661e5fabf07d8ef15": "CVE-2025-49596：MCP Inspector 严重远程代码执行漏洞威胁AI开发环境安全",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491590&idx=1&sn=6bfe24a76d37d4ec6e48d96ef743b047": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月17日",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484672&idx=1&sn=5f9214cd934f0842aa5278e163286f38": "契约锁电子签章系统dbtest RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494039&idx=1&sn=d9948d421667300e7aeab6bf61748a1b": "攻击者利用Zyxel远程代码执行漏洞CVE-2023-28771发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488122&idx=1&sn=7dd4a081bf219591dd2dbc6b337abe09": "硬编码密码“b”引发重大风险！Sitecore XP漏洞威胁全球企业安全",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486874&idx=1&sn=1bd11f18b1b91e3584adad042b203501": "漏洞变现金：我的31500美元Facebook漏洞赏金之旅 0x2",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491094&idx=1&sn=a014710ea7216eacadbc94c61f81151b": "漏洞管理玩法已变",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499897&idx=1&sn=649c7f9c9def0da85b8b2c0a01565914": ".NET 基于 MachineKey 一键维持权限，通过 ViewState 反序列化工具实现RCE",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283404&idx=1&sn=187c7df781065431e5dee9a956eb72ae": "2025年攻防演练必修高危漏洞合集",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486337&idx=1&sn=69f06f964a96e30b88d63f2d5a4e5f2e": "【工具分享】OSS漏洞检测工具"
 }
