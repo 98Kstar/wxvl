@@ -15316,5 +15316,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499897&idx=1&sn=649c7f9c9def0da85b8b2c0a01565914": ".NET 基于 MachineKey 一键维持权限，通过 ViewState 反序列化工具实现RCE",
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283404&idx=1&sn=187c7df781065431e5dee9a956eb72ae": "2025年攻防演练必修高危漏洞合集",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷",
-    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486337&idx=1&sn=69f06f964a96e30b88d63f2d5a4e5f2e": "【工具分享】OSS漏洞检测工具"
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486337&idx=1&sn=69f06f964a96e30b88d63f2d5a4e5f2e": "【工具分享】OSS漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485912&idx=1&sn=b776dcd81faed5bbc387e6e9a4b0332f": "【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512840&idx=1&sn=25320ff14a997f0602c48762a5463d3b": "外网打点、专项漏洞、云上攻防、内网横向",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489430&idx=4&sn=f3902e0390467757e2b77e6939daebb2": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=3&sn=08058cf5a01e256b72d5aef1908c5172": "漏洞预警 | 四信通信科技有限公司设备管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507803&idx=1&sn=86dc1cb7aa276652b00ba6cfc10b35ff": "漏洞通告 | 泛微E-cology9 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795462&idx=2&sn=f95519494af0be8a5c1008929290892b": "Team46 APT组织积极利用 Chrome 0day漏洞（CVE-2025-2783）针对俄罗斯目标",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484455&idx=1&sn=8bf8fbd3974c9a431d5598daf4fca49d": "域内大杀器 CVE-2025-33073 漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247520801&idx=1&sn=2013891b7fd924d8bbd7bd68b0992527": "《2025HW必修高危漏洞集合（3.0版）》",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497566&idx=1&sn=7ca3acd12c46d02b2e700204922bc7c2": "【漏洞通告】Apache Tomcat安全约束绕过漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=2&sn=3fc5387da9750f0124a0ec66bb9729e0": "漏洞预警 | 用友NC任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611105&idx=3&sn=44818c48fdb0f6d90c788f8898b09b6f": "记一次AMD漏洞挖掘：从文件权限配置错误到驱动权限提升",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490784&idx=1&sn=03b9839ecd75272e21510ef54162c9c9": "众测攻防技术深度剖析：突破WAF、框架漏洞利用与新型攻击面",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492348&idx=1&sn=3459eb764f6bc4eef3a045f28ea47745": "【PHP代审】记一次某海外酒店管理系统漏洞复现分析+0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499890&idx=1&sn=03ae7202852a3f6cd511140924332eac": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路"
 }
