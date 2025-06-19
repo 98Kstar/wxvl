@@ -15374,5 +15374,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=1&sn=bb7af1bdae0d924f2df258a74cea48e5": "漏洞预警 | Apache Tomcat安全约束绕过漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=1&sn=824b2b262ccd14013ff47b1150ee5f2e": "Veeam修复了Backup & Replication产品中的一个新关键漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492959&idx=1&sn=9a1942dcd47e3a68c948162ff496ec37": "一个高性能的目录遍历漏洞扫描工具",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499911&idx=3&sn=f75d5f4ae14d450acb3ecd640947682c": ".NET 基于 MachineKey 一键维持权限，反序列化工具实现RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499911&idx=3&sn=f75d5f4ae14d450acb3ecd640947682c": ".NET 基于 MachineKey 一键维持权限，反序列化工具实现RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=2&sn=1cc5b2e1e376e2d93d5bd3bd41d1c1b0": "漏洞预警 | 信呼OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492350&idx=1&sn=5586252e5859dfb692618f047c00faa2": "攻防下帮助学员快速审计NET前台rce漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491912&idx=1&sn=74dd7b8a525955965457628ed711e635": "浅谈常见EDU漏洞，逻辑漏洞、越权、接管、getshell，小白如何快速找准漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488131&idx=1&sn=47a1bd3f6af2b827fd64537d32891151": "Linux核心转存漏洞：CVE-2025-5054（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494556&idx=1&sn=c79aa1a66057f879b6885cd60d3cbd62": "Nuclei POC 漏洞验证可视化工具 | 更新V3.0.0",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491859&idx=1&sn=8d77eaf8aac84238abc49fe49e499497": "三汇 SMG网关管理软件 9-2radius.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499903&idx=1&sn=bd4cd23c26aac01c8dcc6ce1bab5ba63": "双漏洞链一击拿下 Root：CVE-2025-6018∕CVE-2025-6019 横扫主流 Linux",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486229&idx=1&sn=3a1d73583e193008a7a7c66f522d0567": "工具集：Wavely V3.0【Nuclei POC 漏洞验证可视化工具】--6.19更新",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjU2Nzc1Mg==&mid=2247484633&idx=1&sn=991d4d622e93851617f7e085b3c8e2b8": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？"
 }
