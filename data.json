@@ -15359,5 +15359,20 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483905&idx=1&sn=f5ceef3c62817cf807d41a9890fbaf34": "第六章URL跳转漏洞-原理到实战",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494039&idx=1&sn=9761f150a71b2c5fb70b38b9a089006c": "【已复现】泛微 E-cology9 SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247486121&idx=1&sn=0fd01996425ee4db46ec9a675851b9c7": "一次CNVD漏洞挖掘过程",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519484&idx=1&sn=7bbad01455dcf564a7f70052be340777": "微软漏洞赏金TOP教你攻击网络协议"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519484&idx=1&sn=7bbad01455dcf564a7f70052be340777": "微软漏洞赏金TOP教你攻击网络协议",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086501&idx=1&sn=ebe5f79b15dd82355295f3316ec6e9f6": "起亚厄瓜多尔车型钥匙系统存在严重漏洞，数千辆车面临被盗风险",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116640&idx=2&sn=dc4751da96a5482b4b5684916508100a": "医疗服务公司Episource数据泄露，影响540万人",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546563&idx=2&sn=e3b299fc15a136e45ca0efdd0cbaf3b9": "Windows SMB客户端提权漏洞（CVE-2025-33073）及其在未启用SMB签名环境中的攻击原理",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=2&sn=80bc42dcca795e773ef2680f5648afa7": "Flodrix僵尸网络正攻击存在漏洞的Langflow服务器",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283656&idx=3&sn=641843bbd3df3792d39ce6ef902c63a7": "HVV（红队蓝队资料、威胁情报、技战法）、渗透测试、漏洞、代码审计、APT、DDOS、勒索病毒、CTF、逆向",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488643&idx=1&sn=b27e3aba1632dd12bad93e6c83fe107a": "契约锁电子签章系统dbtest接口存在远程命令执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489255&idx=1&sn=6aeab11cfe4dc3b1215c81d03177d2af": "美国CISA将苹果与TP-Link产品高危漏洞列入已知利用清单",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=3&sn=36633d2511379f57d133547778a390f8": "漏洞预警 | 月子会所ERP管理云平台任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=3&sn=020fd34cd86d6d9c3aca858459a45f32": "医疗保健服务公司Episource数据泄露事件影响540万人",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795477&idx=1&sn=c8cc84db69bc662ea39715896bbf0262": "Qualys 研究人员发现允许 root 权限攻击的严重 Linux 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488127&idx=1&sn=af0c6e44a295d4d99022dd201048fc66": "紧急！泛微E-cology9高危漏洞来袭，数据库大门洞开！(QVD-2025-23834)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=1&sn=bb7af1bdae0d924f2df258a74cea48e5": "漏洞预警 | Apache Tomcat安全约束绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=1&sn=824b2b262ccd14013ff47b1150ee5f2e": "Veeam修复了Backup & Replication产品中的一个新关键漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492959&idx=1&sn=9a1942dcd47e3a68c948162ff496ec37": "一个高性能的目录遍历漏洞扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499911&idx=3&sn=f75d5f4ae14d450acb3ecd640947682c": ".NET 基于 MachineKey 一键维持权限，反序列化工具实现RCE"
 }
