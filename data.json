@@ -15435,5 +15435,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488137&idx=1&sn=e07f4a50cf1f03d17bac8b2800bd37b4": "Windows惊现致命权限漏洞！普通员工1分钟变管理员，数亿设备暴露风险(CVE-2025-24286)",
     "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489083&idx=1&sn=4b87915e617cdedc45e35e07bd5e2862": "一键获取上万资料、漏洞库",
     "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486886&idx=1&sn=be075071b89d614263149e7ac7ab9ecb": "从SOAP到Shell：利用SOAP服务实现完全管理员账户接管（近乎RCE的漏洞）",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491984&idx=1&sn=754ef28c3e4c30173207a484f66ddf13": "【众测】分享某SRC众测高危逻辑漏洞一枚"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491984&idx=1&sn=754ef28c3e4c30173207a484f66ddf13": "【众测】分享某SRC众测高危逻辑漏洞一枚",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248129&idx=1&sn=b8aaeffedeb8b15bdb3ee6ab715b111d": "MCP服务泄露客户敏感数据，知名企业紧急下线修补| Linux两大漏洞可串联，无需特殊手段即可获取root权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484461&idx=1&sn=d12f4d1f914768b6f6aeb695eca84490": "小团队漏洞管理平台",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491147&idx=1&sn=96cbaf8867e8cb3d1a5dd586995a4966": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493212&idx=1&sn=26b628127785f2cd24f839e5d6fdd527": "JS 动态解析漏洞挖掘巧技 | 正则表达式「捕获」的未授权漏洞之门",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142691&idx=1&sn=8aa8493bec0e7681c003aaac23cdbeaa": "IoT漏洞分析之模拟环境搭建",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485521&idx=1&sn=134e927a37122d16d95fa35deabe69b0": "漏洞扫描神器AWVS最新版2025.4",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNDkzNjQ0Mw==&mid=2247483963&idx=1&sn=d4147631169c4f3f4d59a9a061d95188": "SVG 嵌套钓鱼溯源分析：基于可信域名 XSS 漏洞的黑产分发链追踪",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064207&idx=1&sn=fa2366eac8519eb7a23aefb690c81d82": "信息安全漏洞周报【第027期】",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488885&idx=2&sn=bb25cb772bed5bb954b079821a9ac205": "NTLM 反射攻击复现 - 滥用 NTLM 进行权限提升 (CVE-2025-33073)"
 }
