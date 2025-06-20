@@ -15455,5 +15455,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487488&idx=1&sn=a07090fe47afa7fa1c9bb2f968aadd2a": "CVE-2024-55591 Fortinet FortiOS 身份验证绕过",
     "https://mp.weixin.qq.com/s?__biz=MzIyNzc3OTMzNw==&mid=2247485927&idx=1&sn=aaae73d34c7eb96d1440870b21c03105": "工具分享 | 一款高价值漏洞情报爬取工具",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=3&sn=24cefa58e29f9132413362fcfc5c2177": "IBM QRadar SIEM 漏洞允许攻击者执行任意命令",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503518&idx=1&sn=09e0cab29a0bf5cf22e300e719f2aab2": "【已复现】Linux 本地提权漏洞利用链(CVE-2025-6018、CVE-2025-6019)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503518&idx=1&sn=09e0cab29a0bf5cf22e300e719f2aab2": "【已复现】Linux 本地提权漏洞利用链(CVE-2025-6018、CVE-2025-6019)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485966&idx=1&sn=502623af4e680d22ab43973a413eee69": "【漏洞复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521110&idx=1&sn=0b4031953de11bc1668753da586d4e3a": "PHP 静态分析漏洞挖掘：挑战、对策与研究进展综述",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517234&idx=1&sn=e76c9eba1efc0258f11058f61e600445": "漏洞预警｜契约锁电子签章系统远程代码执行漏洞"
 }
