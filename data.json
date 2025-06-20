@@ -15424,5 +15424,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491616&idx=1&sn=d9208bcf88762ece0d2666bed4216fed": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月19日",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490273&idx=2&sn=905d7c05651aefdf13d886cdeddad3e9": "【高危漏洞预警】 libblockdev权限提升漏洞（CVE-2025-6019）",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484613&idx=1&sn=81017eb66ae71f551de7318bddcf1826": "fastjson 1.2.80 springboot下rce利用链学习",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493458&idx=1&sn=c23bc486899927649e2245662abfb383": "漏洞预警 | 宏景eHR SQL注入和XXE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493458&idx=1&sn=c23bc486899927649e2245662abfb383": "漏洞预警 | 宏景eHR SQL注入和XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484679&idx=1&sn=ccaffdcd00b07f198b98052823993e9f": "用友nc saveProDefServlet SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908325&idx=2&sn=06326aff0db92eb3b0cf94102cdbec84": "Chrome N-Day漏洞利用工程指南",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611124&idx=4&sn=901103fe591d21c3d77f6cb630a962a4": "Nuclei POC 漏洞验证可视化工具 | 更新V3.0.0",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116672&idx=2&sn=ad75e106efc11a2a208b30168436e7d7": "微软2025年6月份于周二补丁日针对67漏洞发布安全补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzI4ODQzMzk3MA==&mid=2247490272&idx=1&sn=e976730cb96428843b889f6b33280d58": "美国DARPA宣布将与各军种开展武器系统漏洞红队评估",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491869&idx=1&sn=2af23c0d3c462b35a2bc5c70e4d5fc16": "用友U8 CRM SelectDMJE.jsp SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611124&idx=3&sn=697642233fb6fa80291f9cbac0fbf12b": "记某众测Fastjson<=1.2.68反序列化RCE过程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488137&idx=1&sn=e07f4a50cf1f03d17bac8b2800bd37b4": "Windows惊现致命权限漏洞！普通员工1分钟变管理员，数亿设备暴露风险(CVE-2025-24286)",
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489083&idx=1&sn=4b87915e617cdedc45e35e07bd5e2862": "一键获取上万资料、漏洞库",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486886&idx=1&sn=be075071b89d614263149e7ac7ab9ecb": "从SOAP到Shell：利用SOAP服务实现完全管理员账户接管（近乎RCE的漏洞）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491984&idx=1&sn=754ef28c3e4c30173207a484f66ddf13": "【众测】分享某SRC众测高危逻辑漏洞一枚"
 }
