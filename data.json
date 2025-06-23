@@ -15503,5 +15503,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247487193&idx=1&sn=c8a311487502fac2a3ce23003a19ecb1": "BAZZAFL：通过面向漏洞的种子分组将模糊测试活动导向漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611143&idx=4&sn=7272666d2f3b722d3e6e8273a0263842": "【攻防利器】Tomcat漏洞批量检测工具",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488154&idx=1&sn=274b1d3fcc232865ba2005697c186e54": "紧急安全通告！RuoYi-AI框架曝任意文件上传漏洞(CVE-2025-6466)，可导致服务器沦陷（含POC）",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493465&idx=1&sn=cecbfaeeb6c4bdf692ee8c983321b6c9": "漏洞预警 | 泛微e-cology9 SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493465&idx=1&sn=cecbfaeeb6c4bdf692ee8c983321b6c9": "漏洞预警 | 泛微e-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535298&idx=2&sn=ef61c442d5a8cbb8da9894162f54ec2e": "安利：Tomcat漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485333&idx=1&sn=40853a58fa3f469387da554b208318a7": "轻量便捷的Nuclei POC漏洞验证可视化管理工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485564&idx=1&sn=d11fe321c143617955c81b04f4a8ad3a": "HTB Artificial 靶场：从AI模型的RCE到NAS备份系统提权",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788722&idx=1&sn=de75400767615e978695a98613796da8": "OpenVPN驱动曝严重漏洞，可致Windows系统崩溃",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491618&idx=1&sn=695f849907e60da17dc2e08e2f6e54e4": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月20~22日",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261337&idx=1&sn=2603bb64b679c5fdc5abe41a21b86361": "【$10,000】Arc 浏览器：UXSS+本地文件窃取+任意文件写入，路径穿越直通RCE！​​",
+    "https://mp.weixin.qq.com/s?__biz=MzU4OTExNTk0OA==&mid=2247485051&idx=1&sn=7f9f563780eb545921d68687309b2f00": "利用解析差异复活某凌OA前台RCE"
 }
