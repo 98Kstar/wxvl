@@ -15510,5 +15510,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788722&idx=1&sn=de75400767615e978695a98613796da8": "OpenVPN驱动曝严重漏洞，可致Windows系统崩溃",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491618&idx=1&sn=695f849907e60da17dc2e08e2f6e54e4": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月20~22日",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261337&idx=1&sn=2603bb64b679c5fdc5abe41a21b86361": "【$10,000】Arc 浏览器：UXSS+本地文件窃取+任意文件写入，路径穿越直通RCE！​​",
-    "https://mp.weixin.qq.com/s?__biz=MzU4OTExNTk0OA==&mid=2247485051&idx=1&sn=7f9f563780eb545921d68687309b2f00": "利用解析差异复活某凌OA前台RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzU4OTExNTk0OA==&mid=2247485051&idx=1&sn=7f9f563780eb545921d68687309b2f00": "利用解析差异复活某凌OA前台RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523354&idx=2&sn=8ef63c9db7a5e73748eab7c71b2b5595": "WordPress Motors 主题漏洞被大规模用于劫持管理员账号",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323631&idx=4&sn=3fb024a33be11f2119bc8047de77f846": "逾10万个WordPress网站因MCP漏洞面临权限提升攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494256&idx=1&sn=bff4aabc6caa8aea8b732f3fbe017516": "窃密器数据如何“点燃”CVE-2025-49113：RoundCube的漏洞利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDM2MjY5NA==&mid=2247484336&idx=1&sn=be05aaff95bac7ab6b6560a3a207d01c": "chrome “0day”讲解一二",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496070&idx=2&sn=fbbb1aea6d677f06fb7c17d1744a6eb3": "上周关注度较高的产品安全漏洞(20250616-20250622)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497761&idx=1&sn=73936ace07b08f709da2ace40fdf3933": "由403所发现的SSRF高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501214&idx=2&sn=ec3f0b9a7c46c481e2782ca2c12a04b6": "【漏洞通告】OpenVPN DCO驱动程序缓冲区溢出漏洞 (CVE-2025-50054)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496070&idx=1&sn=d3362c4570a2fa20dd6265ff8fe16d5a": "CNVD漏洞周报2025年第23期",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487755&idx=1&sn=69879fcde1e30553652dfd6060bc11cb": "今日起，每周更新2+基础学习文章哦！今天是CSRF漏洞学习",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555215&idx=1&sn=6a2811d84935bd770fb0fab5ac10eb48": "渗透进阶，玩转网络漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247548695&idx=1&sn=a5c45ee0f5d80898eee21d5ee699f031": "Trustwave报告：酒店业成网络攻击重灾区 勒索钓鱼WIFI漏洞齐发",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070304&idx=4&sn=d05ca470ff70ce11963e9e3c7ec01d72": "【安全圈】严重安全警报：OpenVPN Windows 驱动曝缓冲区溢出漏洞，可致系统崩溃"
 }
