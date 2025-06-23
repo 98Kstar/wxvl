@@ -15522,5 +15522,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487755&idx=1&sn=69879fcde1e30553652dfd6060bc11cb": "今日起，每周更新2+基础学习文章哦！今天是CSRF漏洞学习",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555215&idx=1&sn=6a2811d84935bd770fb0fab5ac10eb48": "渗透进阶，玩转网络漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247548695&idx=1&sn=a5c45ee0f5d80898eee21d5ee699f031": "Trustwave报告：酒店业成网络攻击重灾区 勒索钓鱼WIFI漏洞齐发",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070304&idx=4&sn=d05ca470ff70ce11963e9e3c7ec01d72": "【安全圈】严重安全警报：OpenVPN Windows 驱动曝缓冲区溢出漏洞，可致系统崩溃"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070304&idx=4&sn=d05ca470ff70ce11963e9e3c7ec01d72": "【安全圈】严重安全警报：OpenVPN Windows 驱动曝缓冲区溢出漏洞，可致系统崩溃",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655284631&idx=1&sn=0f2b418860e8c2dc075739e21e9ca0cb": "DeepSeek R1技术复现和大模型的治理与安全",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485985&idx=1&sn=77e197ee7c913ad96cdc2f038191fd99": "【漏洞复现】Apache Tomcat 命令执行漏洞（CVE-2025-24813)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTQyMzkyMg==&mid=2247484088&idx=1&sn=f13ac7cd62bbe9b5e73a0f561c8dd6f3": "CVE-2020-9484 Tomcat Session 反序列化复现",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500057&idx=1&sn=d9dafaa4313fafd159cc06fb1835f095": "CNVD漏洞周报2025年第23期",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503434&idx=1&sn=536a6976c1a3e6ceaedfee30301894c3": "【成功复现】GeoServer XXE漏洞 (CVE-2025-30220)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487469&idx=1&sn=969aa08661d0f26aeb3b4f8d5321b200": "代码审计系列-基础篇-SSTI-Thymeleaf模版注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323631&idx=1&sn=cb216be48b37bb3942f40f1b6f0af4b8": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490284&idx=1&sn=397ddf62437511be1e9a9bb1e49c0d6e": "【高危漏洞预警】Veeam Backup & Replication 远程代码执行漏洞 (CVE-2025-23121)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492621&idx=1&sn=480d4244338efa136786fb91bf7d0dad": "2025最新AWVS∕Acunetix V25.4高级版更新( AI∕ML预测功能)漏洞扫描器Windows下载"
 }
