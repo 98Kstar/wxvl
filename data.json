@@ -15565,5 +15565,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490297&idx=1&sn=e295cee3d68a7199efefddfb2c56c791": "【高危漏洞预警】Notepad++权限提升漏洞(CVE-2025-49144)",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506770&idx=1&sn=b43532f3f972ae1cc74a3ac4cf9c3ff4": "破解 JWT：漏洞赏金猎人指南（第二部分）",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512932&idx=1&sn=20365ad5978c47084a2fe90b8593d2ca": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531265&idx=1&sn=19e218b029466f8e4f24059b96021fae": "Notepad++漏洞 PoC 发布，可提升权限至 NT AUTHORITY\\SYSTEM"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531265&idx=1&sn=19e218b029466f8e4f24059b96021fae": "Notepad++漏洞 PoC 发布，可提升权限至 NT AUTHORITY\\SYSTEM",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247500804&idx=1&sn=90ea09bbfd5425c07de64038416c6ec8": "【紧急补丁】Veeam 12.3.2 发布，修复 CVE‑2025‑23121（9.9分 RCE）及两项高危权限滥用漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500151&idx=1&sn=40e8f6ac31864ee418b3989c986172d5": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzI3ODk3ODE2OA==&mid=2247484447&idx=1&sn=bc4dfbb6ff0e2b7d8cfb9f60918bf17a": "n8n安全：从漏洞利用到防御",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDU4OTQ1NA==&mid=2247484735&idx=1&sn=af7af64dc94f3a3e03211889d55b5fb6": "内网横行：CVE-2025-33073 实战场景利用全流程指南 | 附利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484380&idx=1&sn=b7fa367d77e1483cb8a5a87d1478e578": "【漏洞复现】一次不一样的逻辑绕过",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492076&idx=1&sn=c161a60e6baa6ab0e5c752b83c22a82c": "EDUSRC-高危漏洞-从信息收集到后台多个越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490297&idx=2&sn=6153fb97ede112cd135b07c48e91a27f": "【高危漏洞预警】Citrix NetScaler ADC越界读取漏洞"
 }
