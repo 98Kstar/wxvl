@@ -15616,5 +15616,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492852&idx=1&sn=63aa481b46b0e2ccc42748ad0107467f": "【已复现】Gogs 远程命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492046&idx=1&sn=01a742e4329db61125a8bb709a3c781b": "安利一款桌面应用流量拦截神器：InterceptSuite 让加密通信无处遁形",
     "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492665&idx=1&sn=9fbe571d7111030b9c4ceba172cdaa2a": "漏洞复现 || GeoServer XXE漏洞 (CVE-2025-30220)",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494089&idx=1&sn=b9ada1dbf29cb740174d1194b7b4262d": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494089&idx=1&sn=b9ada1dbf29cb740174d1194b7b4262d": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTY0NzgwNA==&mid=2247483980&idx=1&sn=4263cd05489194ff5d3e53a235bf3016": "CRMEB-CVE-2024-52726-任意文件下载漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247533747&idx=2&sn=22b55155a4f85bf20cdba850b24115eb": "荐读丨首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492658&idx=1&sn=083e602f09f084017608fce4fb9b60d5": "VulnCrawler v2.0- 漏洞情报拉取工具 一键抓取最新漏洞|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501227&idx=2&sn=6dd4eb38653a88948107ed6a38964031": "【漏洞通告】WinRAR 路径处理漏洞导致远程代码执行 (CVE-2025-6218)"
 }
