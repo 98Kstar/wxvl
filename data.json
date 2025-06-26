@@ -15642,5 +15642,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NzkxOTQ0OA==&mid=2247484573&idx=1&sn=aceeff40c7236693b32fabb68ee8ab3b": "XDigo 恶意软件利用 Windows LNK 漏洞对东欧政府发动攻击",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247487980&idx=1&sn=458c8c0a91f96b54bfd02c02a7623273": "Java 安全 | JBossInterceptors1 & JavassistWeld1 链",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=1&sn=1ccc756f815c32f18e26fef511666ec0": "漏洞预警 | Linux本地提权漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795544&idx=3&sn=bc7325dfc92703b843ccfc4f662399b4": "CISA 警告：老旧TP-Link 路由器存在严重漏洞可导致黑客攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795544&idx=3&sn=bc7325dfc92703b843ccfc4f662399b4": "CISA 警告：老旧TP-Link 路由器存在严重漏洞可导致黑客攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503527&idx=1&sn=3aa5f32ac9d5200982fe5a13434d7eb8": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877196&idx=1&sn=19c499e2cf0110b58c8949023e55495a": "Google惊爆漏洞！任意账户关联手机号均可被暴力破解 飞天诚信：硬件安全密钥不用关联手机号",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581004&idx=1&sn=2f71cde362d2e5dec4e3585e1ac450be": "当分公司突遭漏洞通报……如何揪出安全管理“暗礁”？",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484900&idx=1&sn=987e33d854d2403c3a6e423aa4282b73": "【复现】Gogs 远程命令注入漏洞风险通告"
 }
