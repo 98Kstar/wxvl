@@ -15631,5 +15631,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486915&idx=1&sn=a2fcd625edc0bfec635fa313d4ad1bff": "200小时狂赚$20,300：我的漏洞赏金黑客挑战实录",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490307&idx=1&sn=bac7469bf34eee680054d677b1c056ec": "【高危漏洞预警】 Gogs内部文件删除致远程命令注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=2&sn=f6b4bc85401b58e71cdb7aa704901f29": "漏洞预警 | 云课网校系统任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486028&idx=3&sn=d961f6c041977816b00f5c5e7415af1a": "【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486028&idx=3&sn=d961f6c041977816b00f5c5e7415af1a": "【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=3&sn=e9ebcf261289a95fb9471fcac2883806": "漏洞预警 | 泛微E-Cology SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531318&idx=1&sn=5495b33965ce946dd8209ec865cc0978": "剖析 CVE-2024-12695：利用 V8 中的 Object.assign()",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248151&idx=1&sn=757d9ada4ed57f09ef720dcca0cef6a5": "实战：滥用MCP服务攻击企业AI，窃取企业内部数据 | WinRAR目录遍历漏洞允许通过恶意文件执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500129&idx=2&sn=690cd25311a206b712e9f82b871929b6": "0day漏洞攻防竞赛：东大与美国的隐秘战争",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485618&idx=1&sn=0c172c8218bd712fd7319c25ea282f8a": "速速更新！WinRAR 又又又出漏洞了！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650623948&idx=1&sn=8e21d9d9ff126d57e4ccec4d7fd6b53f": "CVSS10分！Pterodactyl Panel远程代码执行漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531365&idx=2&sn=eeb68c24e0ebe5b144c992e1b3477757": "TeamViewer 远程管理漏洞 (CVE-2025-36537) 可导致权限提升",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzkxOTQ0OA==&mid=2247484573&idx=1&sn=aceeff40c7236693b32fabb68ee8ab3b": "XDigo 恶意软件利用 Windows LNK 漏洞对东欧政府发动攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247487980&idx=1&sn=458c8c0a91f96b54bfd02c02a7623273": "Java 安全 | JBossInterceptors1 & JavassistWeld1 链",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=1&sn=1ccc756f815c32f18e26fef511666ec0": "漏洞预警 | Linux本地提权漏洞"
 }
