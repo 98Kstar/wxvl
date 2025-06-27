@@ -15661,5 +15661,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490324&idx=1&sn=8ba98f2b08da0c32ace04a59a49516b2": "【高危漏洞预警】MongoDB JSON解析堆栈溢出漏洞 (CVE-2025-6710)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDcxNTkyMA==&mid=2247484601&idx=1&sn=647bbc72478c156bb98058d68cf4101d": "破解和sql漏洞利用，双管齐下的1433",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323993&idx=4&sn=a39d5181504a9caeda8bbcff989ef625": "IBM WebSphere应用服务器曝高危远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323846&idx=1&sn=ce9854e060a565ed66030f32df82d949": "实战漏洞报告合集首发，赏金已超万元"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323846&idx=1&sn=ce9854e060a565ed66030f32df82d949": "实战漏洞报告合集首发，赏金已超万元",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523387&idx=1&sn=d337384a0eacef330ea1c9beaedf7937": "思杰紧急修复已遭利用的NetScaler ADC严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070375&idx=2&sn=43a610075b530001df1d12c917a221e3": "【安全圈】Realtek 蓝牙协议漏洞允许攻击者通过配对过程发起拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484434&idx=1&sn=fdcc1421f4fe465e4fa8104b5e7ccb6f": "【漏洞预警】Gogs远程命令执行漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523394&idx=2&sn=d589b77eb9be15ec2ad03480d601ade3": "Open VSX Registry中的严重漏洞可用于发动供应链攻击，影响数百万开发人员",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490428&idx=1&sn=4b291e73cec6a04e68da263a63257cd4": "【AI风险通告】LLaMA-Factory存在远程代码执行漏洞（CVE-2025-53002）"
 }
