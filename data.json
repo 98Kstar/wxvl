@@ -15667,5 +15667,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484434&idx=1&sn=fdcc1421f4fe465e4fa8104b5e7ccb6f": "【漏洞预警】Gogs远程命令执行漏洞风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523394&idx=2&sn=d589b77eb9be15ec2ad03480d601ade3": "Open VSX Registry中的严重漏洞可用于发动供应链攻击，影响数百万开发人员",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490428&idx=1&sn=4b291e73cec6a04e68da263a63257cd4": "【AI风险通告】LLaMA-Factory存在远程代码执行漏洞（CVE-2025-53002）",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523394&idx=1&sn=6155e41bcc07bb70bcdcdd88cc88d8de": "思科提醒注意 ISE 中的满分 RCE 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523394&idx=1&sn=6155e41bcc07bb70bcdcdd88cc88d8de": "思科提醒注意 ISE 中的满分 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486065&idx=1&sn=2b17d4f5f226e587c16f63c58cafc874": "【安全风险通告】Roundcube Webmail后台代码执行漏洞 (CVE-2025-49113)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489317&idx=1&sn=434916a93c8677e2a4430873276124ea": "【漏洞通告】WebSphere Application Server远程代码执行漏洞（CVE-2025-36038）"
 }
