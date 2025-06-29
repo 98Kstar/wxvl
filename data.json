@@ -15692,5 +15692,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=1&sn=4673c140780854d180246684f5bfb049": "WinRAR目录遍历漏洞允许通过恶意文件执行任意代码",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506847&idx=1&sn=4272d6c554696334581739689d4dadd8": "破解 JWT：漏洞赏金猎人指南（第六部分",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491941&idx=1&sn=1be6e8f7856cb6fcf191a6d1858210d5": "H3C ER2200G2路由器 信息泄露漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521429&idx=1&sn=dd050c73cd8db8d9b702b190136ec88a": "shiro反序列化漏洞原理分析"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521429&idx=1&sn=dd050c73cd8db8d9b702b190136ec88a": "shiro反序列化漏洞原理分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499565&idx=1&sn=34fc51e56817b871ded40c91db6234c1": "记一次从登录框到前台rce",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489718&idx=1&sn=726cfebbf94e1c4c60e8c850fb4e3673": "CVE-2025-33053 Poc复现研究细节"
 }
