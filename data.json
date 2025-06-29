@@ -15684,5 +15684,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324007&idx=3&sn=ab457bbc0253d3a893c417159d3e4d10": "748款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士等品牌",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497783&idx=1&sn=f49fc7ca0cb8d8027c5bcdb60b1a2ac4": "$10,000的RCE！​​",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490817&idx=1&sn=ed22afb84906586ab151f012d376f7b3": "若依Vue漏洞检测工具",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531429&idx=1&sn=bd56f81866330df6dcad06a198ba156a": "CVE-2025-32433：Erlang∕OTP SSH 服务器中的预授权 RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531429&idx=1&sn=bd56f81866330df6dcad06a198ba156a": "CVE-2025-32433：Erlang∕OTP SSH 服务器中的预授权 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247489259&idx=1&sn=289b70216c1df342d2d2f5405f38c0f1": "有限路径遍历 RCE 之旅，赏金 40,000 美元！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503251&idx=1&sn=4348ac59de6d6181d46ee70e3fb46e97": "【攻防实战】实战中的某钉RCE"
 }
