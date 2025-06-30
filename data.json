@@ -15700,5 +15700,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491969&idx=1&sn=e6aab9bff8f718de2ce110363fbb6a06": "AgentSyste 代理商管理系统 login.action Struts2 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516893&idx=1&sn=4a4dc60c59e057104bc1dedabf35955f": "漏洞检测工具 -- ecology9_sqli（DVB-2025-9428∕QVD-2025-23834）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486744&idx=1&sn=5de4b8ecac2320c1de92bbfa53ecb418": "【漏洞通告】MIB3图片服务器中的堆缓冲区溢出",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489822&idx=1&sn=ac39a8e743ae577a5588eb193172e641": "契约锁电子签章系统RCE简单分析"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489822&idx=1&sn=ac39a8e743ae577a5588eb193172e641": "契约锁电子签章系统RCE简单分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484532&idx=1&sn=8c5ab3be35fdf036e9844cdeeabada0b": "Notepad++提权漏洞POC及一键部署环境（CVE-2025-49144）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611207&idx=1&sn=40ed5bd422bc36c920b02a4fdd6a6c89": "Facebook 要求用户上传手机照片启用 AI 故事功能；|748款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士等品牌",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252114&idx=1&sn=18ba1076a6a1ad2035075708a6da3c91": "CISA警告D-Link路由器路径遍历漏洞正被积极利用，无补丁可用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324021&idx=3&sn=758ad58f02fcc6eda8eddbd10a0dcc4c": "思科两处高危RCE漏洞可致未授权获取root权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486750&idx=1&sn=3edb517ea02d8bd6dc95a9caf128d84c": "记录一次AI小子实战遇到未接触过的语言源码，如何通过AI辅助审出前台RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583407&idx=2&sn=35c3e8e7c3d51d50a86d12456ac1b819": "安全动态回顾|工信部对57款存在侵害用户权益行为的APP（SDK）进行通报 Brother打印机在689款型号中存在漏洞"
 }
