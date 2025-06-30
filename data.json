@@ -15695,5 +15695,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521429&idx=1&sn=dd050c73cd8db8d9b702b190136ec88a": "shiro反序列化漏洞原理分析",
     "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499565&idx=1&sn=34fc51e56817b871ded40c91db6234c1": "记一次从登录框到前台rce",
     "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489718&idx=1&sn=726cfebbf94e1c4c60e8c850fb4e3673": "CVE-2025-33053 Poc复现研究细节",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMDY2MDA2Ng==&mid=2247486063&idx=1&sn=987ae5f3106191a106c3baf22c700d1d": "探究备份软件Commvault CVE-2025-34028远程代码执行漏洞的挖掘过程 | 附poc"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDY2MDA2Ng==&mid=2247486063&idx=1&sn=987ae5f3106191a106c3baf22c700d1d": "探究备份软件Commvault CVE-2025-34028远程代码执行漏洞的挖掘过程 | 附poc",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489610&idx=1&sn=f23cc2d5870633e77a858d561d8cc831": "工具分享 | Nuclei POC漏洞验证图形化工具更新至v3.1.5",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491969&idx=1&sn=e6aab9bff8f718de2ce110363fbb6a06": "AgentSyste 代理商管理系统 login.action Struts2 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516893&idx=1&sn=4a4dc60c59e057104bc1dedabf35955f": "漏洞检测工具 -- ecology9_sqli（DVB-2025-9428∕QVD-2025-23834）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486744&idx=1&sn=5de4b8ecac2320c1de92bbfa53ecb418": "【漏洞通告】MIB3图片服务器中的堆缓冲区溢出",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489822&idx=1&sn=ac39a8e743ae577a5588eb193172e641": "契约锁电子签章系统RCE简单分析"
 }
