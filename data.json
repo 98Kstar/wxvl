@@ -15718,5 +15718,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=1&sn=418faa9a83a09f3cdee7545462a61fa1": "CNVD漏洞周报2025年第24期",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247497798&idx=1&sn=2c78f0ec8d3d1f242ce515062c3695df": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=1&sn=2db6b38b631e2ab23f15f65f29f75b13": "【已复现】WinRAR 目录遍历漏洞(CVE-2025-6218)",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=2&sn=84fbc29915f49915f2acbdee7c978011": "【已复现】DataEase 多个远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=2&sn=84fbc29915f49915f2acbdee7c978011": "【已复现】DataEase 多个远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261370&idx=1&sn=18504a61d83c70267e35639ced27d133": "【CVE-2025-49144】Notepad++ 漏洞可实现系统完整入侵",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555326&idx=2&sn=cebb6d2e0961666408a1b3ae0bc5cac4": "【免费领】新手必备！Web安全漏洞挖掘实战入门教程",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596324&idx=2&sn=9aceb4a1f80e7cd75b8c79e45465f11a": "Linux Sudo 曝重大漏洞可提权至root并绕过主机限制，速更新！",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486072&idx=1&sn=1d149c024fede423c27c5d8d8fa8371a": "【漏洞复现】Apache Axis2弱口令（附测试靶机）"
 }
