@@ -15744,5 +15744,9 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=3&sn=23330a41d753210c404f022f9a91115e": "谷歌紧急修复已被利用的Chrome高危零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
     "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207230&idx=1&sn=be1b2877b624966bf5393397469e9f94": "悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488213&idx=1&sn=f1b96aaae6ec3f0f1f99c4414b63ea61": "紧急！Chrome零日漏洞遭黑客利用，Google发布高危补丁（CVE-2025-6554）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488213&idx=1&sn=f1b96aaae6ec3f0f1f99c4414b63ea61": "紧急！Chrome零日漏洞遭黑客利用，Google发布高危补丁（CVE-2025-6554）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485685&idx=2&sn=7eaa7a233328d3b766efc96d6a7e7cb5": "sudo权限提升漏洞(CVE-2025-32462)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=1&sn=af483917f833027e64a5dc3b05e6f56a": "谷歌紧急修复已遭利用的 Chrome 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485804&idx=1&sn=aac724da59eb2431e4883e1384ba7310": "重生之hw 0day出自我的cnvd",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjU2Nzc1Mg==&mid=2247484640&idx=1&sn=c857908da5054d90101ba39b5081669d": "泛微OA前台登录绕过+后台RCE【0day】"
 }
