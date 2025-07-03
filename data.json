@@ -15763,5 +15763,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487449&idx=2&sn=dcd17b82a2b767da4a0245d2549452fc": "如何在日常渗透中实现通杀漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500070&idx=1&sn=9cb23c555cc9c7543e717b2bda925227": "CNVD漏洞周报2025年第24期",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596362&idx=2&sn=851d02e396bd4ad0b2e18607c221d2cf": "最高3倍漏洞奖金+单漏洞最高价值百万，开源鸿蒙安全守护者即刻集结！",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501255&idx=3&sn=dd62bdcebd45435784a51275cb020f0a": "【漏洞通告】Linux sudo chroot 任意代码执行漏洞 (CVE-2025-32463)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501255&idx=3&sn=dd62bdcebd45435784a51275cb020f0a": "【漏洞通告】Linux sudo chroot 任意代码执行漏洞 (CVE-2025-32463)",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712371&idx=1&sn=7f8436b06ea91d58fe0d1e3ca12933f2": "CVE-2025-32462&CVE-2025-32463",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490353&idx=1&sn=c5470fd58355538b2dbea6a82e14b61a": "【高危漏洞预警】sudo < 1.9.17p1 host&chroot本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486422&idx=1&sn=1950ae508c495b4f902accb605b1908e": "从0到1大模型MCP自动化漏洞挖掘实践",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877221&idx=1&sn=d02a91e885c7dfadf6de05fbab190268": "“Sannu, Lagos”（你好，拉各斯）！飞天诚信闪耀Digital PayExpo 2025",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261384&idx=1&sn=4f91cc15ac8ab344b7d926dd5c872297": "【星球专享】手把手复现 Apache Airflow 漏洞指南-(CVE-2022–40604)"
 }
