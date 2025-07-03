@@ -15778,5 +15778,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503550&idx=2&sn=2f98d1c24d7cacca9fa9bfac2fb1adb8": "【已复现】Linux sudo 本地提权漏洞(CVE-2025-32462、CVE-2025-32463)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514631&idx=1&sn=fd5a357122fb4f7943b832c639bc9e1a": "MCP工具链首个严重漏洞？一个钓鱼网页，远程劫持开发者电脑",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596501&idx=3&sn=8d167e29f2f70304d76cb865431e2fad": "13岁少年Dylan发现 Teams 漏洞，微软为其修改赏金计划",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492739&idx=1&sn=a31825fbcf1672e35b9a57a9b549c2db": "从漏洞到韧性：服务器安全防护全景解析"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492739&idx=1&sn=a31825fbcf1672e35b9a57a9b549c2db": "从漏洞到韧性：服务器安全防护全景解析",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499995&idx=3&sn=afa5da2f0b688c70a82e89e06a22e9c4": ".NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484404&idx=1&sn=210b67f6dbbe6f2f49edb18417cdb516": "【厂商不承认的漏洞】某设备接口未授权实现任意密码修改",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490433&idx=1&sn=6ea78f033857836e66b0fa5bb027102e": "【已复现】Linux sudo存在本地提权漏洞（CVE-2025-32463）"
 }
