@@ -15783,5 +15783,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484404&idx=1&sn=210b67f6dbbe6f2f49edb18417cdb516": "【厂商不承认的漏洞】某设备接口未授权实现任意密码修改",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490433&idx=1&sn=6ea78f033857836e66b0fa5bb027102e": "【已复现】Linux sudo存在本地提权漏洞（CVE-2025-32463）",
     "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248176&idx=1&sn=0ecdc3615a9a83848b91db8b1861589a": "德国全面封杀DeepSeek，中欧数据冲突升级 | Nessus严重漏洞允许覆盖任意本地系统文件",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490802&idx=1&sn=102c4f427b3434196bc45fac750ee05e": "插件前台任意文件读取漏洞复现与分析 (CVE-2025-2294)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490802&idx=1&sn=102c4f427b3434196bc45fac750ee05e": "插件前台任意文件读取漏洞复现与分析 (CVE-2025-2294)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531579&idx=1&sn=8aeb22f983426b00e76b8eb31fada17a": "我如何通过 NGINX Off-By-Slash 配置错误获得远程代码执行"
 }
