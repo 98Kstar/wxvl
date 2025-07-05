@@ -15793,5 +15793,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502397&idx=1&sn=ba68750f81dfaf2beb069dfb38aef163": "Nessus严重漏洞允许覆盖任意本地系统文件",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484499&idx=1&sn=8990d10a757c9fdb5cfde304a9632624": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554)",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245177&idx=2&sn=6683aa774f604f52b1f4752b54de0147": "前沿 | 基于人工智能的漏洞挖掘应用实践探讨",
-    "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492291&idx=1&sn=016611bd54e6385d9c7ac784ba2e1355": "【复现】Google Chrome浏览器在野利用漏洞（CVE-2025-6554）"
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492291&idx=1&sn=016611bd54e6385d9c7ac784ba2e1355": "【复现】Google Chrome浏览器在野利用漏洞（CVE-2025-6554）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641383&idx=1&sn=3b2c19de6851d8fb8cfd37d6abda9929": "在看 | 周报：南阳某机械有限公司网站遭黑客攻击；742款打印机被曝存在安全漏洞；虚假WPS安装程序暗藏远控木马",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507548&idx=1&sn=85978c0c88e548f7680254b6e0af985b": "【一周安全资讯0705】三部门发文：进一步加强电子病历信息使用管理；谷歌紧急修复已被利用的Chrome高危零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546926&idx=1&sn=2a11763313310746d959b04443129b09": "【微软云】身份曝【严重漏洞】：对低级别用户过度授权，导致客户VPN密钥泄露"
 }
