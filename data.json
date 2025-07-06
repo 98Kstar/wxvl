@@ -15801,5 +15801,9 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=3&sn=1ef1f6e0a656c9697273135ef8bdf2d5": "新型僵尸网络利用四信工业路由器漏洞发动DDoS攻击",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485869&idx=1&sn=6fe90b43d2b3ed6b8eeb7c8c28826e86": "【福利】漏洞挖掘文档！推荐下载",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531649&idx=1&sn=64834d89e32ec56e08e86ecd3aafc82b": "攻击者通过滥用暴露的 Java 调试线协议 (JDWP) 接口实现远程代码执行，部署挖矿",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489900&idx=2&sn=979cd2b43277c825490a986e33c78693": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489900&idx=2&sn=979cd2b43277c825490a986e33c78693": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492040&idx=1&sn=a2365a44429fd8ac844dbaefe647210a": "安科瑞环保用电监管云平台 UploadNewsImg 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070509&idx=1&sn=6cf6b923bca528cc5cc03d57ebcc2bf6": "【安全圈】你的耳机在被偷听！20+音频设备曝出漏洞：索尼、Bose、JBL等沦陷",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488236&idx=1&sn=a8f7fb7621b343fe140d88427c4468ff": "紧急预警：Linux曝高危Sudo漏洞，普通用户秒变root管理员！（附POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531649&idx=2&sn=e7df67683a084053ceec541815be401e": "CVE-2025-53367：DjVuLibre 中可利用的越界写入漏洞"
 }
