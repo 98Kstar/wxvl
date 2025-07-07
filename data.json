@@ -15824,5 +15824,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900878&idx=1&sn=0628d7321b119b7ef88e12c8bf037f86": "深度剖析CVE-2025-49596：一次网页浏览，如何让你的AI开发环境彻底沦陷？",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=1&sn=45861fae4709fa33d3f7e3009fc75254": "漏洞预警 | Wing FTP服务器远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=2&sn=0db1104436ef7e1f9d8ce2148c89f9f2": "Next.js 允许攻击者通过缓存中毒触发 DoS漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488240&idx=1&sn=7e86813f05930083c05546d69f31f925": "HW（2025-7-7）上午护网漏洞信息收集汇总"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488240&idx=1&sn=7e86813f05930083c05546d69f31f925": "HW（2025-7-7）上午护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086589&idx=1&sn=8d27fc2cb4a14c832ff3dae6ba22be0a": "你的耳机在被偷听！20+音频设备曝出漏洞：索尼、Bose、JBL等沦陷",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494179&idx=3&sn=6c419f9b311ba4f048b788aa40f20465": "猫眼监控间谍软件漏洞致超6.2万用户登录凭证泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494179&idx=1&sn=1997151095977260707894ec476cabe6": "严重Sudo漏洞使主流Linux发行版面临本地提权攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497815&idx=1&sn=2e590228585b24abbfe047e87ea21252": "赏金15000美元的 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070525&idx=1&sn=7b6337e89711c9e9f413dd1cb303bd76": "【安全圈】Linux“sudo”严重漏洞：任何用户均可接管系统",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492423&idx=1&sn=11c5751ce8c00ae8ea6046da3c250e20": "QVD-2025-23408：契约锁电子签章系统未授权RCE漏洞"
 }
