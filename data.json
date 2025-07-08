@@ -15840,5 +15840,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=2&sn=670e1a9a5783709fe9c44ad380ee9354": "通过带有 chroot 选项的 sudo 二进制文件将权限提升至 root CVE-2025-32463",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546998&idx=1&sn=c3077c2a50dfec80de8f9e21b507ae53": "25HVV最新0day更新，各单位自查...",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497824&idx=1&sn=d05e05ef9f38616d66fc34d888663358": "作为一名不具备天赋的普通人，如何在漏洞赏金计划中取得成功",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485596&idx=1&sn=7bc13ba63d58c7e30f858f1d985f6a56": "必看---当前国护0day漏洞权威汇总"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485596&idx=1&sn=7bc13ba63d58c7e30f858f1d985f6a56": "必看---当前国护0day漏洞权威汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486373&idx=1&sn=cb9472d2b19d13e571b914bc08c811b2": "高危Sudo漏洞（CVE-2025-32463，CVSS 9.3）：可提权至root并绕过主机限制，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500929&idx=1&sn=dee2bdaa182554616ea85ceef4775672": "汉王e脸通综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=1&sn=283a447765d9d0ef01abc0bf3fd76fab": "漏洞预警 | IBM WebSphere远程代码执行漏洞"
 }
