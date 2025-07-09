@@ -15888,5 +15888,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=1&sn=b0353fe95161dbbe5a133dd5fa564d22": "【已复现】Git 远程代码执行漏洞(CVE-2025-48384)",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507831&idx=1&sn=0494cdb26d682d39f195fa3ebed8fef8": "收漏洞！收X情报社区的漏洞！",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492498&idx=1&sn=3ea95ef3ff9e6b9f97bfcd9b2a1a756b": "用友NC最新SQL注入 | CNVD-2025-06710漏洞分析",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=2&sn=190752ffac23d6be9ddec582d3384a58": "【安全圈】Linux启动漏洞可绕过Secure Boot：攻击者仅需物理接触即可植入持久木马"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=2&sn=190752ffac23d6be9ddec582d3384a58": "【安全圈】Linux启动漏洞可绕过Secure Boot：攻击者仅需物理接触即可植入持久木马",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490463&idx=1&sn=1b48b2ce233b26f5a8ec414b28fce49b": "【已复现】泛微E-cology9存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=3&sn=1221ce55fb0740963a6b753ce6508465": "漏洞预警 | WebOne劳动力与考勤管理软件任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493555&idx=1&sn=4df91360f16f4d814717187b7abce6f8": "蜜罐捕获一个自动化漏洞攻击的机器人程序",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491716&idx=1&sn=56c0e2eca58ac6a391038825ae1a1e81": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月08日"
 }
