@@ -15897,5 +15897,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492149&idx=1&sn=0049b56198aaeb2be7adf60b3a8a13f4": "某制造业公司：30 分钟速通 2025 高危漏洞排查 + 推修实战",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493676&idx=2&sn=d36ca7a2cbbe4c946eed6fc5114a281e": "漏洞预警 | 爱数AnyShare智能内容管理平台命令注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=2&sn=842aa35155a1456c7ffced77317fd433": "【已复现】Windows Update Service 本地权限提升漏洞(CVE-2025-48799)",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795670&idx=2&sn=5a43c62fd78188c6e942755268c937ef": "微软修复 Windows 和服务器中可蠕虫的远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795670&idx=2&sn=5a43c62fd78188c6e942755268c937ef": "微软修复 Windows 和服务器中可蠕虫的远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484507&idx=1&sn=bdd96d70bb0af4746b561264f05e1d2c": "【已复现】泛微 E-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507834&idx=1&sn=cb2a5fffe56db189abdb84f8cf483df4": "酌情处置 | Redis hyperloglog 命令远程代码执行漏洞利用条件较多",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490599&idx=1&sn=64385bb2b119ccb268817994ec7e7abf": "2025-7-9日漏洞情报汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486099&idx=1&sn=cd70d35575862813b29e724bd02777a8": "【0day】Telegram私密群组∕频道未授权访问",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788773&idx=1&sn=55305289f7f57f30bee8bcac340fbe90": "某电动汽车充电控制器曝严重漏洞，可被远程控制"
 }
