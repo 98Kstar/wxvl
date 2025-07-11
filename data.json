@@ -15928,5 +15928,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=2&sn=e19607b9a1bbf6bc70c902e40f0de1d3": "Fortinet 修复FortiWeb 中的严重SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491130&idx=1&sn=bce87c351315abd069bb98e99f37ac10": "大洞，速修，Redis远程命令执行漏洞。",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTQ0OTYxOQ==&mid=2247484091&idx=1&sn=b77edc5018db3aeebe5d057fe6020255": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539547&idx=2&sn=4c734f8837fb9bb5024190ecd4460790": "资产维度分类之全球操作系统漏洞大盘点"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539547&idx=2&sn=4c734f8837fb9bb5024190ecd4460790": "资产维度分类之全球操作系统漏洞大盘点",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625785&idx=3&sn=2410d4ac9e9fcf873523a5d7351d4825": "人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486431&idx=2&sn=ff19bea58b0a4b773251fc334ed4551a": "【漏洞复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500953&idx=1&sn=616ebafdcd78c30f209b3f5ed9a2a080": "用友U9 DynamaticExport任意文件读取漏洞"
 }
