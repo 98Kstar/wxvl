@@ -15939,5 +15939,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500394&idx=1&sn=fa2fc8a9b7314e92c8443b15116c277e": "G.O.S.S.I.P 阅读推荐 2025-07-10 完蛋，AI已经可以找到内核的0day漏洞啦？",
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550870&idx=1&sn=a8857963542ca382f89e8d8dddc4863f": "某面板组合拳前台RCE分析",
     "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064273&idx=1&sn=845aeae7b4441413e1363328a4634569": "信息安全漏洞周报【第030期】",
-    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489860&idx=1&sn=a10a66519fd9c578f8c2792f582bdf19": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489860&idx=1&sn=a10a66519fd9c578f8c2792f582bdf19": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488270&idx=1&sn=b758c728658c0d5610a24330df60ebc4": "HW（2025-7-11）护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173760&idx=2&sn=35a632ac09e1d4c59846594fe7a0be16": "CNNVD通报微软多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547154&idx=1&sn=ed18dc2a48d5baf054db84d47279fb1b": "【新！】CNNVD通报微软多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494222&idx=1&sn=7cce5793717ad1b863f654e0fdb795ed": "【已复现】契约锁电子签章系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=1&sn=caf9ee84b43c4fc81ee51bfbe2c7d11d": "蓝牙漏洞PerfektBlue 可用于实现RCE，影响多家汽车厂商",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=4&sn=f6f6b55650aaba7bab0138c6e9c8c663": "麦当劳AI招聘工具漏洞导致6400万求职者数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535507&idx=1&sn=aa8fe2a260fb9665fcc45a09e0579751": "【漏洞预警】：Redis hyperloglog 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490613&idx=1&sn=bf728f4cff492892dae89570b62f83db": "2025-7-10日漏洞情报汇总"
 }
