@@ -15959,5 +15959,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651134313&idx=1&sn=1c8d8e158614cebc484d9e9c60110620": "麦当劳泄露求职者数据，新漏洞威胁大众等汽车品牌安全|一周特辑",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490169&idx=1&sn=1c03eca279db12aecea40a2a46eafd9a": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547158&idx=2&sn=6590b74b0b9a26bac77f815dfde586e6": "半导体巨头AMD新型漏洞影响多款CPU，计时攻击可导致数据泄露",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490620&idx=1&sn=24772cd1ce3d8e6c26f1f7468208eb76": "2025-7-11日漏洞情报汇总"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490620&idx=1&sn=24772cd1ce3d8e6c26f1f7468208eb76": "2025-7-11日漏洞情报汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=1&sn=b6dc54a7100f76968a25f6db47d5e0eb": "【已复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517301&idx=1&sn=9d85a91e393af6ddcb3b5ea522d72c76": "漏洞预警｜银河麒麟桌面操作系统V10本地提权漏洞（CNNVD-2025-28344653∕KVE-2025-0603)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
 }
