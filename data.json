@@ -15949,5 +15949,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535507&idx=1&sn=aa8fe2a260fb9665fcc45a09e0579751": "【漏洞预警】：Redis hyperloglog 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490613&idx=1&sn=bf728f4cff492892dae89570b62f83db": "2025-7-10日漏洞情报汇总",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597083&idx=3&sn=5ed9d81521495a3efbc2a3afe6aedaf8": "PerfektBlue漏洞危及梅赛德斯、大众和斯柯达等多款汽车信息娱乐系统",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485271&idx=1&sn=9bd6f0e52177bd802a736f7c9ed39a53": "123456当密码？！麦当劳AI招聘工具McHire漏洞导致6400万求职者数据泄露"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485271&idx=1&sn=9bd6f0e52177bd802a736f7c9ed39a53": "123456当密码？！麦当劳AI招聘工具McHire漏洞导致6400万求职者数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=2&sn=04a84283c9d2100a95736c652525dcd8": "开源项目mcp-remote 中存在严重漏洞可导致RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488275&idx=1&sn=7c7debf288cf110429d8a634fb1402b5": "一键入侵你的爱车！PerfektBlue漏洞威胁数百万辆汽车安全"
 }
