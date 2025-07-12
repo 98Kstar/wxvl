@@ -15963,5 +15963,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=1&sn=b6dc54a7100f76968a25f6db47d5e0eb": "【已复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517301&idx=1&sn=9d85a91e393af6ddcb3b5ea522d72c76": "漏洞预警｜银河麒麟桌面操作系统V10本地提权漏洞（CNNVD-2025-28344653∕KVE-2025-0603)",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497974&idx=2&sn=ed4f47f1e5616b011ef2b5371b1c1566": "你的服务器在裸奔吗？高危漏洞、端口和弱口令，哪个才是压死骆驼的最后一根稻草？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324804&idx=3&sn=859f6647543d5b23c0064c147c9cec34": "FreeBuf周报 | Redis被曝三大严重安全漏洞；AMD新型漏洞影响多款CPU",
+    "https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168678&idx=1&sn=ca4103b2ea097dfda3fc23c85d5c9f5e": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开"
 }

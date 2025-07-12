@@ -1,10 +1,8 @@
 #  Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开  
- FreeBuf   2025-07-01 11:01  
+ 黑客技术与网络安全   2025-07-12 03:01  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3icgUvC6BMWGzibeXeQBrsXKkFMJmTjKJkf2uxm7G5DD7HS0IwaPQpnPHlLPnX57fbEeBNfmOoJanUw/640?wx_fmt=png&from=appmsg "")  
+> 来自：FreeBuf，作者：大仙  
+> 链接：https://www.freebuf.com/articles/system/437269.html  
   
   
 在Linux权限管理领域，Sudo堪称守护神。作为root访问的看门人，它掌控着系统最高权限的钥匙。但当这个守卫者被一个巧妙技巧欺骗时会发生什么？  
@@ -88,9 +86,6 @@ CRU表示："该漏洞使sudoers规则中的主机名部分失效，因为用户
 alice cerebus = ALL
 ```  
 ```
-
-```  
-```
 此规则本应仅允许Alice在cerebus主机上执行命令。但利用该漏洞，Alice只需在sudo命令中添加
 -h cerebus
 ```  
@@ -119,21 +114,5 @@ Critical Sudo Flaw (CVE-2025-32463, CVSS 9.3): Root Privilege Escalation & Host 
 https://securityonline.info/critical-sudo-flaws-cve-2025-32463-cvss-9-3-root-privilege-escalation-host-bypass-poc-available/  
   
   
-###   
-###   
-###   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324007&idx=1&sn=b6bab0cab5bd97eeccb29752661d50e0&scene=21#wechat_redirect)  
-  
-### 电台讨论  
-  
-****  
-  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
-   
+**---END---**  
   
