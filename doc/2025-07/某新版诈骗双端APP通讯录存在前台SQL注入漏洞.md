@@ -1,5 +1,5 @@
 #  某新版诈骗双端APP通讯录存在前台SQL注入漏洞  
-原创 Mstir  星悦安全   2025-07-12 06:19  
+ 菜狗安全   2025-07-12 07:59  
   
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lSQtsngIibibSOeF8DNKNAC3a6kgvhmWqvoQdibCCk028HCpd5q1pEeFjIhicyia0IcY7f2G9fpqaUm6ATDQuZZ05yw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
