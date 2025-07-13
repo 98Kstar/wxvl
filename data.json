@@ -15981,5 +15981,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494231&idx=1&sn=108ce757a60b9c8454839dc15a6c7df4": "【已复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070639&idx=4&sn=4e7c93291c55d089867addbbd0436070": "【安全圈】Trendyol 披露 Meta 存在漏洞：Prompt Injection 成功率高达 50%",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486552&idx=1&sn=41c4e4a40fd104f53e22f5a7143c88ad": "记一次企业src漏洞挖掘连爆七个漏洞！",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492127&idx=1&sn=b5e66de4850a89116285d82851f0aaa8": "金蝶云星空 UserService.SaveUserPassport.common.kdsvc 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492127&idx=1&sn=b5e66de4850a89116285d82851f0aaa8": "金蝶云星空 UserService.SaveUserPassport.common.kdsvc 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500966&idx=1&sn=88491b4e0826eff5e55d75c27ea04ec3": "微信出了XSS漏洞？？？点击自动发送消息",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515236&idx=1&sn=fc3c5c6dbf3b2cbc32405070170609d6": "2025某新版诈骗双端APP通讯录前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487647&idx=1&sn=0568c440e430ad84c661d9862760d84d": "漏洞利用 | 用友NC IMetaWebService4BqCloud数据源SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489439&idx=1&sn=2a7b9da658dc0f6481886eef74bd95ac": "日志中的秘密：利用一个存在 20 年的 NTFS 漏洞"
 }
