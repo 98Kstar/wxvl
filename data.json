@@ -16018,5 +16018,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501314&idx=2&sn=5e35621925a6305ddbf83e56547a4491": "【漏洞通告】Fortinet FortiWeb Fabric Connector SQL注入漏洞(CVE-2025-25257)",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484073&idx=1&sn=10cba60d947ef1c2c9a8e764c6ef1076": "最近刷屏的“微信XSS漏洞”原理是什么？",
     "https://mp.weixin.qq.com/s?__biz=Mzg4ODg2MjQ5Mg==&mid=2247484142&idx=1&sn=b7b1520274e05a7c03c144e80761199c": "Fortinet FortiWeb SQL注入 CVE-2025-25257",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492144&idx=1&sn=a97ed21e2e7bc3d25299fec618723370": "金蝶云星空 DevReportService.GetBusinessobjectData.common.kdsvc 远程代码执行"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492144&idx=1&sn=a97ed21e2e7bc3d25299fec618723370": "金蝶云星空 DevReportService.GetBusinessobjectData.common.kdsvc 远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506665&idx=1&sn=d776fe3468df87da311794720e5bea05": "每周网安资讯 （7.8-7.14）|Ibm Concert_software存在将系统数据暴露到未授权控制的范围漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490678&idx=1&sn=2bc385ae9c50e43f2cb6a1d804168153": "【工具】afrog 高性能Web漏洞扫描器"
 }
