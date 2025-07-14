@@ -15995,5 +15995,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492614&idx=1&sn=2d05e9cc7f905932ff7bd4632366746b": "关于打高版本java,cc6复现",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=1&sn=79828c12688c4daf8723f32f2877dc05": "CVE-2025-5777｜Citrix NetScaler ADC和NetScaler Gateway内存泄漏漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487511&idx=2&sn=8d2f6557da638b43fa93a032bbb453a8": "众测实战 | 一次正负叠加导致的支付漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493700&idx=2&sn=7a27ce9d8f9c38ab8ded8423985240d6": "漏洞预警 | Git远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493700&idx=2&sn=7a27ce9d8f9c38ab8ded8423985240d6": "漏洞预警 | Git远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483889&idx=1&sn=49db58752bf20b6e1a322dc5c9a9e614": "东胜物流软件GetDataListCA接口存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494237&idx=2&sn=4f4911a4425e6d7a7ed5b3a283a1dc40": "Wing FTP服务器漏洞技术细节公开后立即遭活跃利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493700&idx=1&sn=5cad6d83900ca87d24afd6ee9fb80ce4": "漏洞预警 | Redis远程代码执行和未认证连接漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494237&idx=1&sn=dea8f8c3d8d3a0f176dc38b626477687": "立即修补：CVE-2025-25257概念验证漏洞可导致Fortinet FortiWeb远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486601&idx=1&sn=c46a906e9e767159a1953d41fbf8e368": "某项目后台RCE漏洞审计分析"
 }
