@@ -16000,5 +16000,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494237&idx=2&sn=4f4911a4425e6d7a7ed5b3a283a1dc40": "Wing FTP服务器漏洞技术细节公开后立即遭活跃利用",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493700&idx=1&sn=5cad6d83900ca87d24afd6ee9fb80ce4": "漏洞预警 | Redis远程代码执行和未认证连接漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494237&idx=1&sn=dea8f8c3d8d3a0f176dc38b626477687": "立即修补：CVE-2025-25257概念验证漏洞可导致Fortinet FortiWeb远程代码执行",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486601&idx=1&sn=c46a906e9e767159a1953d41fbf8e368": "某项目后台RCE漏洞审计分析"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486601&idx=1&sn=c46a906e9e767159a1953d41fbf8e368": "某项目后台RCE漏洞审计分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795697&idx=3&sn=7db531b9433fd791810acb9fb8c3bdef": "Fortinet FortiWeb 面临全面接管风险 (CVE-2025-25257)",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486502&idx=1&sn=244b3b8eb8dc4d46417d90ab4b5264a2": "微信爆任意打语音和任意发信息漏洞？",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521812&idx=1&sn=5ecc8850e0fa97af3db87933221ead59": "Critical Wing FTP 服务器漏洞 （CVE-2025-47812） 在野外被积极利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491740&idx=1&sn=37e62d91d022d1f13d20907fdef46825": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月11~13日",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583802&idx=1&sn=c914497a8cef5d31d229e7ce9ad87e00": "蓝牙漏洞可能会让黑客通过麦克风窃取信息"
 }
