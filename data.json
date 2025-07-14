@@ -16005,5 +16005,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486502&idx=1&sn=244b3b8eb8dc4d46417d90ab4b5264a2": "微信爆任意打语音和任意发信息漏洞？",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521812&idx=1&sn=5ecc8850e0fa97af3db87933221ead59": "Critical Wing FTP 服务器漏洞 （CVE-2025-47812） 在野外被积极利用",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491740&idx=1&sn=37e62d91d022d1f13d20907fdef46825": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月11~13日",
-    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583802&idx=1&sn=c914497a8cef5d31d229e7ce9ad87e00": "蓝牙漏洞可能会让黑客通过麦克风窃取信息"
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583802&idx=1&sn=c914497a8cef5d31d229e7ce9ad87e00": "蓝牙漏洞可能会让黑客通过麦克风窃取信息",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489466&idx=1&sn=646d70b5560716e42a7b10a2c982817a": "SQL 注入到 RCE - Fortinet FortiWeb FabricConnector (CVE-2025-25257)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=2&sn=3cc3fd02d7bb4c8d993138dce7afa3f6": "Wing FTP严重漏洞已遭在野利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491762&idx=1&sn=29ab889867f7d639faaa54a3dfc2ef2e": "清源SCA社区版｜每一次漏洞判定皆有代码为证",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496126&idx=2&sn=ccf97af76f2a431d483b41df127f0530": "上周关注度较高的产品安全漏洞(20250707-20250713)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483898&idx=1&sn=479ca01aab6c21e9d19081497f01a809": "孚盟云 Getlcon.aspx 接口存在SQL 注入漏洞"
 }
