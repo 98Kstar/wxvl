@@ -16021,5 +16021,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492144&idx=1&sn=a97ed21e2e7bc3d25299fec618723370": "金蝶云星空 DevReportService.GetBusinessobjectData.common.kdsvc 远程代码执行",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506665&idx=1&sn=d776fe3468df87da311794720e5bea05": "每周网安资讯 （7.8-7.14）|Ibm Concert_software存在将系统数据暴露到未授权控制的范围漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490678&idx=1&sn=2bc385ae9c50e43f2cb6a1d804168153": "【工具】afrog 高性能Web漏洞扫描器"
+    "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490678&idx=1&sn=2bc385ae9c50e43f2cb6a1d804168153": "【工具】afrog 高性能Web漏洞扫描器",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795710&idx=2&sn=91f5cec5082e1a2c41c7a776bf9c451e": "技嘉固件漏洞可导致安全绕过和后门部署",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611424&idx=4&sn=86a6bc5e2f6a683f4f7b4870df29a5f4": "xxl-job漏洞综合利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490431&idx=1&sn=1413a05f807dd28e1228256420189b24": "【高危漏洞预警】Apache Jackrabbit XXE漏洞CVE-2025-53689",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491765&idx=1&sn=02f7da27dfc96cfe1374df1897c3676a": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月14日",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484960&idx=1&sn=758111b66d24a67e66a0aeeab9bb191c": "安全漏洞防治工作标准化的必要性：抵御不断演变的威胁之盾"
 }
