@@ -16052,5 +16052,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500108&idx=1&sn=5214bcced9f87f936538ab7e10b1fe4f": "CNVD漏洞周报2025年第26期",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497447&idx=1&sn=bcc588c3c8ac5d3f6fbbcef7b0a88061": "网络摄像头漏洞扫描工具 | Ingram",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=1&sn=cfef3d7b85d52177a5027daf3e4fabf8": "【已复现】Linux Kernel AF_UNIX UAF漏洞(CVE-2025-38236)",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=2&sn=b8f964af67c9b2e67292e2498926bc29": "【已复现】用友U9 Cloud远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=2&sn=b8f964af67c9b2e67292e2498926bc29": "【已复现】用友U9 Cloud远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489561&idx=1&sn=38afd7424219c9e5561316f486e4cc9f": "Out of Band Exploitation (OOB) 利用技术速查表",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=1&sn=aedd535f601272923435b2dcbc06a9f0": "【已复现】Fortinet FortiWeb存在SQL注入漏洞（CVE-2025-25257）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324992&idx=3&sn=2ef9f5b48a5e4cc585fa2555af0fd05f": "Git CLI高危任意文件写入漏洞曝光，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611444&idx=4&sn=5ed113e4f2bbb46ba141992038506659": "网络摄像头漏洞扫描工具！更新"
 }
