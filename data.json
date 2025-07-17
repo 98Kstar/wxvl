@@ -16056,5 +16056,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489561&idx=1&sn=38afd7424219c9e5561316f486e4cc9f": "Out of Band Exploitation (OOB) 利用技术速查表",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=1&sn=aedd535f601272923435b2dcbc06a9f0": "【已复现】Fortinet FortiWeb存在SQL注入漏洞（CVE-2025-25257）",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324992&idx=3&sn=2ef9f5b48a5e4cc585fa2555af0fd05f": "Git CLI高危任意文件写入漏洞曝光，PoC已公开",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611444&idx=4&sn=5ed113e4f2bbb46ba141992038506659": "网络摄像头漏洞扫描工具！更新"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611444&idx=4&sn=5ed113e4f2bbb46ba141992038506659": "网络摄像头漏洞扫描工具！更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=2&sn=a02c958b20179cf6beb420d4491d6a11": "【风险提示】VMware多个高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490488&idx=1&sn=ad59955ddfe083c98460da614db3e54e": "【风险通告】Oracle WebLogic Server存在未授权访问漏洞（CVE-2025-30762）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492170&idx=1&sn=b71974709e0cb99c066a0d128b3a0849": "WordPress Ads-pro 本地文件包含漏洞 (CVE-2025-4380)",
+    "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886119&idx=1&sn=04a2b85331e9310f8cd6ae41fdede5da": "攻防演练：如何防护0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485246&idx=1&sn=ab3c5eb8fd8c119eada00719b8986fa0": "Java组件安全&数据处理&FastJson各个版本&JackSon&XStream&自动BP插件&CVE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491164&idx=1&sn=b71a8efc9554952beb1f0f285b53dcf9": "Windows 任意文件读取漏洞如何扩大战果？",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096390&idx=1&sn=66c0d876dfb455de07d6dd757c11785c": "Node.js 漏洞使 Windows 应用程序面临路径遍历和 HashDoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485198&idx=1&sn=66161ec0081b2a7e038030206809bbe9": "Windows 任意文件读取漏洞如何扩大战果？"
 }
