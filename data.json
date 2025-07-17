@@ -16064,5 +16064,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485246&idx=1&sn=ab3c5eb8fd8c119eada00719b8986fa0": "Java组件安全&数据处理&FastJson各个版本&JackSon&XStream&自动BP插件&CVE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491164&idx=1&sn=b71a8efc9554952beb1f0f285b53dcf9": "Windows 任意文件读取漏洞如何扩大战果？",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096390&idx=1&sn=66c0d876dfb455de07d6dd757c11785c": "Node.js 漏洞使 Windows 应用程序面临路径遍历和 HashDoS 攻击",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485198&idx=1&sn=66161ec0081b2a7e038030206809bbe9": "Windows 任意文件读取漏洞如何扩大战果？"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485198&idx=1&sn=66161ec0081b2a7e038030206809bbe9": "Windows 任意文件读取漏洞如何扩大战果？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=1&sn=3a91fb3c0b5f85fce1d7dbffc4e55ff9": "【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486558&idx=1&sn=e150a399f701a2a8c0b490ea631bfa05": "代码审计-Java项目-反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531773&idx=2&sn=87c094ebed1fc43d49cbe8426e57d36b": "探索 Node.js 中的零日漏洞：CVE-2025-27210",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489632&idx=1&sn=cfd0fe4074ceae03eff8238fbf7b26ce": "【相关分享】关于网传HVV中的WPS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247484937&idx=1&sn=0c05938ad5d90526a1ff3a1cd6ac5a66": "虽然是误报但也可以学习一下，curl OpenSSL提供程序处理中的栈缓冲区溢出漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489680&idx=1&sn=37eee459a55b76471119db69d6b93f58": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486206&idx=1&sn=54ac4aeb8ed3a97da9e43223f1b071af": "XBOW 发现Wordpress 任意文件读取漏洞的过程",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488693&idx=1&sn=b67691800d32ebf2dc55f5bc0558137e": "汉王e脸通综合管理平台存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507850&idx=1&sn=92e3b86bb828888ef9f72653adc6c80c": "漏洞通告 | 用友YonBIP（R6旗舰版）任意用户密码重置漏洞"
 }
