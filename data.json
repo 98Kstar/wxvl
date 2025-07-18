@@ -16111,5 +16111,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=2&sn=c7cc15872799f6b7c9dcee62f1ced6e6": "谷歌AI “Big Sleep” 提前阻止严重的SQLite 漏洞遭利用",
     "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173841&idx=3&sn=c3cb03f8fe3770b9b6ce0283b205d676": "CNNVD通报Oracle多个安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTAxMjA5Mg==&mid=2247484495&idx=1&sn=4f565a89e230b4cfbbfb7df78fa9706a": "CVE-2025-23267挖掘报告: GPU容器逃逸再现",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484497&idx=1&sn=e16cdc5c6ab692d33c57e2a5ae01e722": "某信RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484497&idx=1&sn=e16cdc5c6ab692d33c57e2a5ae01e722": "某信RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521903&idx=1&sn=1fd7e0366f5859e4c0707a8c6325bcaa": "一键触发漏洞：Oracle云代码编辑器RCE漏洞允许攻击者上传恶意文件",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597375&idx=3&sn=932fa7865bd708b7031df174772567e5": "BIND 9 DNS解析软件漏洞，可能引发缓存投毒与拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492884&idx=1&sn=06c9c888b83ac5f3d08b8dc4cc2548e0": "【风险提示】VMware ESXi、Workstation、Fusion及Tools多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=1&sn=3ec9fd59b332276a13eb21d88cdd9217": "Vmware 修复 Pwn2Own 柏林大赛上遭利用的四个 ESXi 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTUyMzUwOQ==&mid=2247483842&idx=1&sn=69c0b569ec4687a0bf953ab0268817eb": "微信 3.9 版本RCE漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=2&sn=b4484c612e2941a3be416a7542dd457d": "【高危漏洞预警】VMware产品多个高危漏洞"
 }
