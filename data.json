@@ -16117,5 +16117,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492884&idx=1&sn=06c9c888b83ac5f3d08b8dc4cc2548e0": "【风险提示】VMware ESXi、Workstation、Fusion及Tools多个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=1&sn=3ec9fd59b332276a13eb21d88cdd9217": "Vmware 修复 Pwn2Own 柏林大赛上遭利用的四个 ESXi 0day漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTUyMzUwOQ==&mid=2247483842&idx=1&sn=69c0b569ec4687a0bf953ab0268817eb": "微信 3.9 版本RCE漏洞预警",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=2&sn=b4484c612e2941a3be416a7542dd457d": "【高危漏洞预警】VMware产品多个高危漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=2&sn=b4484c612e2941a3be416a7542dd457d": "【高危漏洞预警】VMware产品多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494381&idx=1&sn=9479a78d8c384f3dbef8e922d36858ba": "【全球首发】智能体安全实践报告完整内容公开，曝光20+漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070714&idx=2&sn=49209de3fb35fbb8e54342a5c92305c5": "【安全圈】美政府用的“Signal 替代品”TeleMessage SGNL 爆出严重漏洞，堆内存泄露已被黑客利用",
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485543&idx=1&sn=27fdaf09140f5ed6a76e8b2a56de657f": "微信安全漏洞，可实现无感上线",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496792&idx=1&sn=1a89dc1a57debe1bcc662fc35fb66c99": "中科天齐团队参加FSE 2025，提出基于多对象类型状态分析的重复漏洞检测新方法"
 }
