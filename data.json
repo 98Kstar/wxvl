@@ -16140,5 +16140,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501013&idx=1&sn=420fc5b4e581e4d2936021ed3fd6c4ee": "【严重漏洞】微信客户端远程代码执行漏洞，陌生聊天记录不要点击",
     "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651134417&idx=1&sn=1c647891bc2a1a3fc76593fb82274590": "美国铁路关基系统曝漏洞，英国零售商650万数据遭窃取|一周特辑",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492192&idx=1&sn=2204c560a0d68d9237131513a57b33ab": "汉王EFaceGo updateVisitorMapConfig.do任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492816&idx=1&sn=6eb49110f0c5c62383b27221af9580ae": "Oracle云代码编辑器曝RCE漏洞，允许攻击者上传恶意文件"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492816&idx=1&sn=6eb49110f0c5c62383b27221af9580ae": "Oracle云代码编辑器曝RCE漏洞，允许攻击者上传恶意文件",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485894&idx=1&sn=537a76c2aafc5a26acbaa4f8e9d500bf": "【翻译】严重 NVIDIA AI 漏洞：NVIDIA 容器工具包中的三行容器逃逸 (CVE-2025-23266)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=2&sn=18fd68348f0aa5ac8cf42fe1d25cfe00": "CVE-2025-30762｜Oracle WebLogic Server存在未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=3&sn=91850abc2376b8b501446d5d75e94086": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485850&idx=1&sn=f495ab99b95b02c18a410789c7a25244": "nacos漏洞利用工具"
 }
