@@ -16136,5 +16136,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490046&idx=1&sn=3e3b0e6e437b0c67ab0fee641495004c": "WX RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=2&sn=b6d7880ae3a645643d60d6269ee37cb3": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184321&idx=1&sn=8e7db09c9c1be0781a68a45bef949c91": "微信3.9版本RCE漏洞，OneSEC紧急缓解、检测方法",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485300&idx=1&sn=12af35651ea2aa886ca0cb33d243f0b1": "【LYSRC漏洞挖掘大赛】夏日攻坚行动，双倍积分+现金奖励等你拿！"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485300&idx=1&sn=12af35651ea2aa886ca0cb33d243f0b1": "【LYSRC漏洞挖掘大赛】夏日攻坚行动，双倍积分+现金奖励等你拿！",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501013&idx=1&sn=420fc5b4e581e4d2936021ed3fd6c4ee": "【严重漏洞】微信客户端远程代码执行漏洞，陌生聊天记录不要点击",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651134417&idx=1&sn=1c647891bc2a1a3fc76593fb82274590": "美国铁路关基系统曝漏洞，英国零售商650万数据遭窃取|一周特辑",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492192&idx=1&sn=2204c560a0d68d9237131513a57b33ab": "汉王EFaceGo updateVisitorMapConfig.do任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492816&idx=1&sn=6eb49110f0c5c62383b27221af9580ae": "Oracle云代码编辑器曝RCE漏洞，允许攻击者上传恶意文件"
 }
