@@ -16147,5 +16147,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485850&idx=1&sn=f495ab99b95b02c18a410789c7a25244": "nacos漏洞利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489623&idx=1&sn=35978a7efb9a7ed2dffcccade99bc7e2": "你从未听说过的最流行调查软件中的远程代码执行漏洞 (RCE)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488334&idx=1&sn=3a054f59101088cae6b4a5ff415533fb": "紧急安全通告 Microsoft SharePoint 反序列化远程代码执行漏洞 (CVE-2025-53770) 风险预警",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486568&idx=1&sn=38979e7c71e92a748fe6c50d174e5ed3": "代码审计-Java项目审计-SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486568&idx=1&sn=38979e7c71e92a748fe6c50d174e5ed3": "代码审计-Java项目审计-SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483941&idx=1&sn=2d0124416fb498dc8f044ec3f1ce3919": "MetaCRM 客户关系管理系统 download-new.jsp 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524382&idx=1&sn=b3949b61e1b5f733191292af2213769c": "OSWE = 白盒审计 + 漏洞武器化",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490046&idx=3&sn=b390a5c60517ade78f56f92d1edb5ea1": "一个实时更新的漏洞裤",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494392&idx=1&sn=7ee67506322648e0494c2c8f39467044": "【稳定复现】微信客户端目录穿越漏洞 (可导致远程代码执行)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483950&idx=1&sn=970c288f654adcdc1315375a64c0b374": "汉王e脸通综合管理平台 exportResourceByFilePath.do 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500946&idx=3&sn=c5bbf571b7151ad4830b959d09210954": "SharePoint 服务器漏洞正遭受大规模利用"
 }
