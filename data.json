@@ -16157,5 +16157,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490080&idx=1&sn=1513450719fa4525a473523cb43a55e8": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491976&idx=1&sn=f20af65d96b6110fb508b76ef107652e": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486580&idx=1&sn=4a46124374634e6079ca78838944ca0f": "记一次项目中把验证码漏洞从低危变成严重漏洞的方式",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=1&sn=556ca88745998628df79a141223c15f3": "CVE-2025-25257｜Fortinet FortiWeb SQL注入漏洞（POC）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=1&sn=556ca88745998628df79a141223c15f3": "CVE-2025-25257｜Fortinet FortiWeb SQL注入漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493649&idx=1&sn=eb7d605ea84a7b3f40ec5719e76bc6f5": "【众测】分享某SRC众测高危逻辑漏洞一枚",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900983&idx=1&sn=3d4458bba407897627376170973de9b3": "旧漏洞的“新魔术”：从Linuxsys到GhostContainer，深度解析攻击者的“合法化伪装”"
 }
