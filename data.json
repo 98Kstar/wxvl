@@ -16153,5 +16153,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490046&idx=3&sn=b390a5c60517ade78f56f92d1edb5ea1": "一个实时更新的漏洞裤",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494392&idx=1&sn=7ee67506322648e0494c2c8f39467044": "【稳定复现】微信客户端目录穿越漏洞 (可导致远程代码执行)",
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483950&idx=1&sn=970c288f654adcdc1315375a64c0b374": "汉王e脸通综合管理平台 exportResourceByFilePath.do 任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500946&idx=3&sn=c5bbf571b7151ad4830b959d09210954": "SharePoint 服务器漏洞正遭受大规模利用"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500946&idx=3&sn=c5bbf571b7151ad4830b959d09210954": "SharePoint 服务器漏洞正遭受大规模利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490080&idx=1&sn=1513450719fa4525a473523cb43a55e8": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491976&idx=1&sn=f20af65d96b6110fb508b76ef107652e": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486580&idx=1&sn=4a46124374634e6079ca78838944ca0f": "记一次项目中把验证码漏洞从低危变成严重漏洞的方式",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=1&sn=556ca88745998628df79a141223c15f3": "CVE-2025-25257｜Fortinet FortiWeb SQL注入漏洞（POC）"
 }
